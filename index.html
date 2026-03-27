@@ -60,7 +60,7 @@
     .photo-bg-1 { background-image:url("Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/lrg_img_4681.jpg"); }
     .photo-bg-2 { background-image:url("Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/225772f26910d35028fcdbff99ebcc4a.jpg"); }
     .photo-bg-3 { background-image:url("Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/01-1.jpg"); }
-    html.light .photo-bg::before { background:rgba(230,225,252,.87); }
+    html.light .photo-bg::before { background:rgba(220,210,255,.55); }
     @media(max-width:768px){ .photo-bg { background-attachment:scroll; } }
 
     html { scroll-behavior: smooth; font-size: 17px; }
@@ -188,7 +188,9 @@
     .flip-score-row { display:flex; align-items:center; gap:10px; margin-top:4px; }
     .flip-score { font-size:1.9rem; font-weight:900; color:var(--green); }
     .flip-bar-wrap { flex:1; height:6px; background:rgba(255,255,255,.07); border-radius:3px; overflow:hidden; }
-    .flip-bar { height:100%; border-radius:3px; background:linear-gradient(90deg,var(--green),var(--teal)); width:0; transition:width 1.2s cubic-bezier(.16,1,.3,1); }
+    .flip-bar { height:100%; border-radius:3px; background:linear-gradient(90deg,var(--green),var(--teal)); width:0; }
+    @media(hover:hover){ .flip-card:hover .flip-bar { width:var(--bar-w,0%); transition:width 1.1s .42s cubic-bezier(.16,1,.3,1); } }
+    .flip-card.flipped .flip-bar { width:var(--bar-w,0%); transition:width 1.1s .42s cubic-bezier(.16,1,.3,1); }
     .flip-hint { font-size:.72rem; color:var(--txt2); margin-top:6px; }
     .flip-back-h { font-size:.68rem; text-transform:uppercase; letter-spacing:.1em; font-weight:700; margin-bottom:5px; margin-top:12px; }
     .flip-back-h:first-child { margin-top:0; }
@@ -199,6 +201,9 @@
     .flip-back ul.ul-g li::before { content:'✓'; color:var(--green); flex-shrink:0; }
     .flip-back ul.ul-a li::before { content:'→'; color:var(--amber); flex-shrink:0; }
     .flip-detail { display:inline-block; margin-top:10px; font-size:.75rem; color:#c084fc; text-decoration:none; border-bottom:1px solid rgba(147,76,222,.3); }
+    .mobile-tap-hint { display:none; margin-top:12px; }
+    .mobile-tap-hint span { display:inline-flex; align-items:center; gap:6px; background:rgba(147,76,222,.12); border:1px solid rgba(147,76,222,.3); color:#c084fc; font-size:.82rem; font-weight:600; padding:6px 14px; border-radius:20px; }
+    @media(hover:none){ .mobile-tap-hint { display:block; } }
 
     /* ── DATA ── */
     #data { background:var(--dark2); }
@@ -206,6 +211,22 @@
     .stat-card { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:22px 18px; text-align:center; }
     .stat-num { font-size:2rem; font-weight:900; color:var(--green); line-height:1; margin-bottom:4px; }
     .stat-lbl { font-size:.78rem; color:var(--txt2); }
+    @media(max-width:600px){
+      .stats-grid { grid-template-columns:1fr 1fr; }
+      .stat-card { padding:16px 12px; }
+      .stat-num { font-size:1.65rem; }
+      .stat-lbl { font-size:.74rem; }
+      .areas-grid { grid-template-columns:1fr 1fr; gap:12px; }
+      .flip-card { height:230px; }
+      .flip-name { font-size:.9rem; }
+      .flip-score { font-size:1.6rem; }
+      .bc-lbl { font-size:.72rem; min-width:42px; }
+    }
+    @media(max-width:400px){
+      .stats-grid { grid-template-columns:1fr 1fr; }
+      .areas-grid { grid-template-columns:1fr; }
+      .flip-card { height:210px; }
+    }
     .chart-wrap { margin-top:40px; }
     .chart-title { font-weight:700; font-size:1rem; margin-bottom:18px; }
     .bar-chart { display:flex; flex-direction:column; gap:11px; }
@@ -395,7 +416,7 @@
           <span class="hero-tagline">komunální odpad o třetinu.</span>
         </h1>
         <p class="hero-sub">
-          Stojíte za ním i vy, občané České Třebové. Celková míra cirkularity: <strong style="color:var(--green)">70,4 %</strong>.
+          Tříděný odpad, cesty na kole, místní výrobci – každé vaše rozhodnutí se odráží v těchto výsledcích.
         </p>
         <div class="hero-ctas">
           <a href="#insights" class="btn-primary">Jak si město vede</a>
@@ -489,6 +510,7 @@
     <p class="section-label">Výsledky dle oblastí</p>
     <h2>5 klíčových oblastí</h2>
     <p class="lead">Najeďte myší nebo klikněte na kartu – zobrazí se silné stránky a doporučení.</p>
+    <p class="mobile-tap-hint"><span>👆 Klepněte na kartu pro více informací</span></p>
     <div class="areas-grid" id="areasGrid">
 
       <div class="flip-card" data-pct="82" onclick="toggleFlip(this)">
@@ -639,7 +661,7 @@
       <div style="background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px 20px;">
         <div class="cust-icon ci-teal ci-sm" style="margin-bottom:12px;"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
         <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Kdo jej dělá?</div>
-        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">Cirkulární sken realizuje <strong style="color:var(--txt)">Circular Economy Hub</strong> ve spolupráci s odborníky a zástupci města.</div>
+        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">Cirkulární sken realizuje <strong style="color:var(--txt)">Cirkulární hub Pardubice</strong> ve spolupráci s odborníky a zástupci města.</div>
       </div>
     </div>
     <div style="margin-top:40px;padding:32px;background:linear-gradient(135deg,rgba(147,76,222,.12),rgba(0,215,153,.06));border:1px solid rgba(147,76,222,.25);border-radius:20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:20px;">
@@ -868,12 +890,12 @@ function animateBars(){
   document.querySelectorAll('.bc-fill[data-w]').forEach(b=>b.style.width=b.dataset.w+'%');
   document.querySelectorAll('.progress-fill[data-w]').forEach(b=>b.style.width=b.dataset.w+'%');
 }
-function animateFlipBars(){
-  document.querySelectorAll('.flip-card[data-pct]').forEach(c=>{
-    const bar=c.querySelector('.flip-bar');
-    if(bar) bar.style.width=c.dataset.pct+'%';
-  });
-}
+function animateFlipBars(){} /* kept for compatibility */
+
+/* Init CSS variables for flip bars — transition fires on hover/flip, not on load */
+document.querySelectorAll('.flip-card[data-pct]').forEach(c=>{
+  c.style.setProperty('--bar-w', c.dataset.pct+'%');
+});
 
 /* ── Flip cards ── */
 function toggleFlip(card){
@@ -925,11 +947,11 @@ document.querySelectorAll('.fade-up').forEach(el=>obs.observe(el));
 function _triggerGauge(){
   if(document.getElementById('gaugeArc')) {
     setTimeout(_animateGauge, 350);
-    setTimeout(animateFlipBars, 500);
   }
 }
 document.addEventListener('DOMContentLoaded', _triggerGauge);
 window.addEventListener('load', _triggerGauge);
+
 
 /* ══════════════════════════════════════════════════════════
    KVÍZ
@@ -1077,119 +1099,120 @@ function _drawCert(name, score, badge, znakImg){
   const canvas = document.getElementById('certCanvas');
   canvas.width = 1200; canvas.height = 630;
   const ctx = canvas.getContext('2d');
+  const F = 'system-ui,sans-serif';
 
-  // Background
+  // ── Background ──
   const bg = ctx.createLinearGradient(0,0,1200,630);
-  bg.addColorStop(0,'#0a0620'); bg.addColorStop(0.5,'#1c1244'); bg.addColorStop(1,'#110832');
+  bg.addColorStop(0,'#080318'); bg.addColorStop(1,'#1a0840');
   ctx.fillStyle=bg; ctx.fillRect(0,0,1200,630);
 
-  // Decorative arcs
+  // Subtle decorative circle top-right
   ctx.save();
-  ctx.strokeStyle='rgba(147,76,222,.12)'; ctx.lineWidth=80;
-  ctx.beginPath(); ctx.arc(0,630,500,0,Math.PI*2); ctx.stroke();
-  ctx.strokeStyle='rgba(0,215,153,.08)'; ctx.lineWidth=60;
-  ctx.beginPath(); ctx.arc(1200,0,420,0,Math.PI*2); ctx.stroke();
+  ctx.strokeStyle='rgba(147,76,222,.1)'; ctx.lineWidth=90;
+  ctx.beginPath(); ctx.arc(1200,0,460,0,Math.PI*2); ctx.stroke();
+  ctx.strokeStyle='rgba(0,215,153,.07)'; ctx.lineWidth=60;
+  ctx.beginPath(); ctx.arc(0,630,380,0,Math.PI*2); ctx.stroke();
   ctx.restore();
 
-  // Dot pattern (subtle)
-  ctx.fillStyle='rgba(255,255,255,.015)';
-  for(let x=40;x<1200;x+=28) for(let y=40;y<630;y+=28) { ctx.beginPath(); ctx.arc(x,y,1,0,Math.PI*2); ctx.fill(); }
+  // ── Left accent bar ──
+  const lb=ctx.createLinearGradient(0,0,0,630);
+  lb.addColorStop(0,'#934cde'); lb.addColorStop(1,'#00d799');
+  ctx.fillStyle=lb; ctx.fillRect(0,0,7,630);
 
-  // Left gradient bar
-  const bar=ctx.createLinearGradient(0,0,0,630);
-  bar.addColorStop(0,'#934cde'); bar.addColorStop(1,'#00d799');
-  ctx.fillStyle=bar; ctx.fillRect(0,0,8,630);
+  // ── Top header band ──
+  ctx.fillStyle='rgba(147,76,222,.07)'; ctx.fillRect(7,0,1193,82);
 
-  // Top header band
-  ctx.fillStyle='rgba(147,76,222,.06)'; ctx.fillRect(8,0,1192,80);
+  // Header text
+  ctx.fillStyle='#00d799'; ctx.font=`700 15px ${F}`;
+  ctx.fillText('CIRCULAR ECONOMY HUB  ·  CIRKULÁRNÍ HUB PARDUBICE', 30, 38);
+  ctx.fillStyle='rgba(192,132,252,.65)'; ctx.font=`14px ${F}`;
+  ctx.fillText('Cirkulární sken · Česká Třebová · leden 2026', 30, 62);
 
-  // CE Hub label (top left)
-  ctx.fillStyle='rgba(0,215,153,.9)'; ctx.font='bold 13px "Inter Tight",system-ui,sans-serif';
-  ctx.fillText('CIRCULAR ECONOMY HUB', 32, 42);
-  ctx.fillStyle='rgba(192,132,252,.6)'; ctx.font='12px "Inter Tight",system-ui,sans-serif';
-  ctx.fillText('Cirkulární sken · Česká Třebová · leden 2026', 32, 62);
+  ctx.fillStyle='rgba(255,255,255,.08)'; ctx.fillRect(30,80,1140,1);
 
-  // Divider
-  ctx.fillStyle='rgba(255,255,255,.06)'; ctx.fillRect(32,82,1136,1);
+  // ── CERTIFIKÁT label ──
+  ctx.fillStyle='rgba(255,255,255,.3)'; ctx.font=`600 13px ${F}`;
+  ctx.fillText('CERTIFIKÁT CIRKULÁRNÍHO OBČANA', 30, 112);
 
-  // Certificate label
-  ctx.fillStyle='rgba(255,255,255,.28)'; ctx.font='11px "Inter Tight",system-ui,sans-serif';
-  ctx.letterSpacing='0.1em';
-  ctx.fillText('CERTIFIKÁT CIRKULÁRNÍHO OBČANA', 32, 108);
+  // ── Recipient name (big) ──
+  const nfs = name.length>22 ? 58 : name.length>16 ? 70 : 86;
+  ctx.fillStyle='#ede9f8'; ctx.font=`900 ${nfs}px ${F}`;
+  ctx.fillText(name, 30, 215);
 
-  // Recipient name
-  ctx.fillStyle='#ede9f8';
-  const nfs = name.length>24 ? 42 : name.length>18 ? 52 : 64;
-  ctx.font=`900 ${nfs}px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText(name, 32, 190);
+  // ── Badge title ──
+  ctx.fillStyle=badge.color; ctx.font=`700 34px ${F}`;
+  ctx.fillText(badge.title, 30, 268);
 
-  // Badge title
-  ctx.fillStyle=badge.color; ctx.font=`bold 28px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText(badge.title, 32, 240);
+  // ── Score ──
+  ctx.fillStyle='rgba(255,255,255,.38)'; ctx.font=`500 16px ${F}`;
+  ctx.fillText('Cirkulární index', 30, 318);
 
-  // Score display
-  ctx.fillStyle='rgba(255,255,255,.35)'; ctx.font=`15px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText('Cirkulární index:', 32, 285);
-  ctx.fillStyle='#00d799'; ctx.font=`900 38px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText(score+'%', 32, 332);
+  // Large score with gradient
+  const sGrad=ctx.createLinearGradient(30,0,200,0);
+  sGrad.addColorStop(0,'#c084fc'); sGrad.addColorStop(1,'#00d799');
+  ctx.fillStyle=sGrad; ctx.font=`900 80px ${F}`;
+  ctx.fillText(score+'%', 30, 402);
 
-  // Score bar
-  ctx.fillStyle='rgba(255,255,255,.07)';
-  _roundRect(ctx,32,348,680,14,7); ctx.fill();
-  const bGrad=ctx.createLinearGradient(32,0,712,0);
+  // ── Score bar ──
+  ctx.fillStyle='rgba(255,255,255,.08)';
+  _roundRect(ctx,30,418,660,13,7); ctx.fill();
+  const bGrad=ctx.createLinearGradient(30,0,690,0);
   bGrad.addColorStop(0,'#934cde'); bGrad.addColorStop(1,'#00d799');
   ctx.fillStyle=bGrad;
-  _roundRect(ctx,32,348,Math.max(14,680*(score/100)),14,7); ctx.fill();
+  _roundRect(ctx,30,418,Math.max(13,660*(score/100)),13,7); ctx.fill();
 
   // ČR marker
-  const crX=32+680*0.62;
-  ctx.fillStyle='rgba(255,255,255,.4)'; ctx.fillRect(crX,345,2,22);
-  ctx.fillStyle='rgba(255,255,255,.35)'; ctx.font=`11px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText('ČR průměr 62%', crX-8, 382);
+  const crX=30+660*0.62;
+  ctx.fillStyle='rgba(255,255,255,.55)'; ctx.fillRect(crX,413,2,26);
+  ctx.fillStyle='rgba(255,255,255,.4)'; ctx.font=`13px ${F}`;
+  ctx.fillText('ČR Ø 62 %', crX-2, 452);
 
-  // Comparison text
+  // Comparison
   const diff=score-62;
   ctx.fillStyle=diff>=0?'#00d799':'#f59e0b';
-  ctx.font=`bold 14px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText(diff>=0?`✓ Jsi o ${diff} % lepší než průměr ČR!`:`Průměr ČR je o ${Math.abs(diff)} % výše – máš kam růst!`, 32, 406);
+  ctx.font=`600 16px ${F}`;
+  ctx.fillText(diff>=0?`✓ +${diff} % oproti průměru ČR`:`${diff} % pod průměrem ČR`, 30, 480);
 
-  // Hint text
-  ctx.fillStyle='rgba(255,255,255,.4)'; ctx.font=`13px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText(badge.hint, 32, 430);
+  // Hint
+  ctx.fillStyle='rgba(255,255,255,.38)'; ctx.font=`15px ${F}`;
+  ctx.fillText(badge.hint, 30, 510);
 
-  // City crest (right side, circular clip)
+  // ── City crest (right, large) ──
   if(znakImg){
+    const cx=960, cy=320, r=155;
     ctx.save();
-    ctx.beginPath(); ctx.arc(980,340,120,0,Math.PI*2);
-    ctx.fillStyle='rgba(255,255,255,.06)'; ctx.fill();
-    ctx.clip();
-    ctx.drawImage(znakImg, 860, 220, 240, 240);
+    ctx.beginPath(); ctx.arc(cx,cy,r,0,Math.PI*2);
+    ctx.fillStyle='rgba(255,255,255,.05)'; ctx.fill(); ctx.clip();
+    ctx.drawImage(znakImg, cx-r, cy-r, r*2, r*2);
     ctx.restore();
-    // Circle border
     ctx.save();
-    ctx.beginPath(); ctx.arc(980,340,120,0,Math.PI*2);
-    ctx.strokeStyle='rgba(147,76,222,.4)'; ctx.lineWidth=3; ctx.stroke();
+    ctx.beginPath(); ctx.arc(cx,cy,r,0,Math.PI*2);
+    ctx.strokeStyle='rgba(147,76,222,.45)'; ctx.lineWidth=3; ctx.stroke();
     ctx.restore();
+    // City name below crest
+    ctx.fillStyle='rgba(255,255,255,.4)'; ctx.font=`600 15px ${F}`;
+    ctx.textAlign='center';
+    ctx.fillText('Česká Třebová', cx, cy+r+24);
+    ctx.textAlign='left';
   }
 
-  // CE Hub badge (bottom right)
-  ctx.fillStyle='rgba(0,215,153,.15)';
-  _roundRect(ctx, 840, 540, 330, 56, 10); ctx.fill();
+  // ── CE Hub badge bottom right ──
+  ctx.fillStyle='rgba(0,215,153,.12)';
+  _roundRect(ctx,800,555,370,58,12); ctx.fill();
   ctx.strokeStyle='rgba(0,215,153,.3)'; ctx.lineWidth=1;
-  _roundRect(ctx, 840, 540, 330, 56, 10); ctx.stroke();
-  ctx.fillStyle='#00d799'; ctx.font=`bold 16px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText('cirkulari-hub.cz', 866, 566);
-  ctx.fillStyle='rgba(255,255,255,.35)'; ctx.font=`11px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText('#CirkulárníTřebová · ' + new Date().toLocaleDateString('cs-CZ'), 866, 584);
+  _roundRect(ctx,800,555,370,58,12); ctx.stroke();
+  ctx.fillStyle='#00d799'; ctx.font=`700 18px ${F}`;
+  ctx.fillText('Cirkulární hub Pardubice', 824, 581);
+  ctx.fillStyle='rgba(255,255,255,.35)'; ctx.font=`13px ${F}`;
+  ctx.fillText('cirkularni-hub.cz · #CirkulárníTřebová', 824, 601);
 
-  // Footer line
-  ctx.fillStyle='rgba(255,255,255,.12)'; ctx.fillRect(32,596,1136,1);
-  ctx.fillStyle='rgba(255,255,255,.18)'; ctx.font=`11px "Inter Tight",system-ui,sans-serif`;
-  ctx.fillText('Česká Třebová · Cirkulární sken 2026 · Circular Economy Hub · www.cirkularni-hub.cz', 32, 616);
+  // ── Footer ──
+  ctx.fillStyle='rgba(255,255,255,.1)'; ctx.fillRect(30,600,1140,1);
+  ctx.fillStyle='rgba(255,255,255,.2)'; ctx.font=`13px ${F}`;
+  ctx.fillText('Česká Třebová · Cirkulární sken 2026 · cirkularni-hub.cz · ' + new Date().toLocaleDateString('cs-CZ'), 30, 622);
 
-  // Show canvas
-  const wrap=document.getElementById('qzCanvasWrap');
-  wrap.classList.add('show');
+  // Show
+  document.getElementById('qzCanvasWrap').classList.add('show');
   const dl=document.getElementById('certDlBtn');
   dl.href=canvas.toDataURL('image/png');
 }
