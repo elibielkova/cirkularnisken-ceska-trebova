@@ -379,28 +379,26 @@
     ::-webkit-scrollbar-track { background:var(--dark); }
     ::-webkit-scrollbar-thumb { background:rgba(147,76,222,.3); border-radius:3px; }
 
-    /* ── CHATBOT WIDGET ── */
-    #chatWidget { position:fixed; bottom:24px; right:24px; z-index:500; display:flex; flex-direction:column; align-items:flex-end; }
-    #chatFab { width:58px; height:58px; border-radius:50%; background:linear-gradient(135deg,var(--purple),#6a28b8); border:none; color:#fff; cursor:pointer; box-shadow:0 4px 22px rgba(147,76,222,.55); transition:transform .2s,box-shadow .2s; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
-    #chatFab:hover { transform:scale(1.08); box-shadow:0 6px 30px rgba(147,76,222,.7); }
-    #chatFab svg { transition:transform .25s; }
-    #chatFab.open svg.ico-chat { display:none; }
-    #chatFab.open svg.ico-close { display:block !important; }
-    .chat-panel { width:360px; max-height:0; overflow:hidden; background:var(--card); border:1px solid var(--border); border-radius:20px; display:flex; flex-direction:column; box-shadow:0 16px 56px rgba(0,0,0,.4); margin-bottom:14px; opacity:0; transform:translateY(12px) scale(.97); pointer-events:none; transition:max-height .35s cubic-bezier(.16,1,.3,1),opacity .25s,transform .25s; }
-    .chat-panel.open { max-height:540px; opacity:1; transform:none; pointer-events:all; }
-    .chat-header { padding:14px 18px; background:linear-gradient(135deg,rgba(147,76,222,.18),rgba(0,215,153,.07)); border-bottom:1px solid var(--border); border-radius:20px 20px 0 0; display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
-    .chat-header-info { display:flex; align-items:center; gap:11px; }
-    .chat-avatar { width:36px; height:36px; background:linear-gradient(135deg,var(--purple),var(--green)); border-radius:50%; display:flex; align-items:center; justify-content:center; flex-shrink:0; font-size:1rem; }
-    .chat-header-name { font-size:.88rem; font-weight:700; color:var(--txt); line-height:1.2; }
+    /* ── CÍREK CHATBOT WIDGET ── */
+    #chatWidget { position:fixed; bottom:0; right:24px; z-index:500; display:flex; flex-direction:column; align-items:center; }
+
+    /* Chat panel */
+    .chat-panel { width:370px; max-height:0; overflow:hidden; background:var(--card); border:1px solid var(--border); border-radius:20px; display:flex; flex-direction:column; box-shadow:0 16px 56px rgba(0,0,0,.45); margin-bottom:8px; opacity:0; transform:translateY(16px) scale(.97); pointer-events:none; transition:max-height .38s cubic-bezier(.16,1,.3,1),opacity .25s,transform .28s; }
+    .chat-panel.open { max-height:560px; opacity:1; transform:none; pointer-events:all; }
+    .chat-header { padding:14px 18px; background:linear-gradient(135deg,rgba(147,76,222,.2),rgba(0,215,153,.08)); border-bottom:1px solid var(--border); border-radius:20px 20px 0 0; display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
+    .chat-header-info { display:flex; align-items:center; gap:10px; }
+    .chat-avatar { width:38px; height:38px; border-radius:50%; overflow:hidden; flex-shrink:0; }
+    .chat-avatar svg { width:38px; height:38px; }
+    .chat-header-name { font-size:.92rem; font-weight:800; color:var(--txt); line-height:1.2; }
     .chat-header-sub { font-size:.7rem; color:var(--green); margin-top:1px; }
-    .chat-close { background:none; border:none; color:var(--txt2); font-size:1.15rem; cursor:pointer; padding:4px 6px; border-radius:6px; transition:color .2s; line-height:1; }
+    .chat-close { background:none; border:none; color:var(--txt2); font-size:1.2rem; cursor:pointer; padding:4px 7px; border-radius:6px; transition:color .2s; line-height:1; }
     .chat-close:hover { color:var(--txt); }
     .chat-messages { flex:1; overflow-y:auto; padding:14px 14px 6px; display:flex; flex-direction:column; gap:9px; min-height:180px; max-height:340px; scrollbar-width:thin; }
     .chat-msg { display:flex; animation:chatSlide .25s ease; }
     @keyframes chatSlide { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:none} }
     .chat-msg-bot { justify-content:flex-start; }
     .chat-msg-user { justify-content:flex-end; }
-    .chat-bubble { max-width:84%; padding:9px 13px; border-radius:16px; font-size:.865rem; line-height:1.55; word-break:break-word; }
+    .chat-bubble { max-width:84%; padding:10px 14px; border-radius:16px; font-size:.88rem; line-height:1.58; word-break:break-word; }
     .chat-msg-bot .chat-bubble { background:var(--card2); color:var(--txt); border-bottom-left-radius:4px; }
     .chat-msg-user .chat-bubble { background:linear-gradient(135deg,var(--purple),#6a28b8); color:#fff; border-bottom-right-radius:4px; }
     .chat-typing { display:flex; gap:5px; padding:12px 16px !important; align-items:center; min-width:52px; }
@@ -409,7 +407,7 @@
     .chat-typing span:nth-child(3) { animation-delay:.36s; }
     @keyframes chatDot { 0%,60%,100%{transform:translateY(0);opacity:.4} 30%{transform:translateY(-7px);opacity:1} }
     .chat-input-row { padding:10px 12px; border-top:1px solid var(--border); display:flex; gap:8px; align-items:center; flex-shrink:0; }
-    .chat-input-row input { flex:1; background:rgba(255,255,255,.05); border:1px solid var(--border); border-radius:10px; padding:9px 13px; color:var(--txt); font-size:.875rem; outline:none; font-family:inherit; transition:border-color .2s; }
+    .chat-input-row input { flex:1; background:rgba(255,255,255,.05); border:1px solid var(--border); border-radius:10px; padding:9px 13px; color:var(--txt); font-size:.88rem; outline:none; font-family:inherit; transition:border-color .2s; }
     .chat-input-row input:focus { border-color:rgba(147,76,222,.5); }
     .chat-input-row input::placeholder { color:var(--txt2); }
     .chat-send-btn { background:var(--purple); border:none; border-radius:10px; width:38px; height:38px; color:#fff; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .2s; flex-shrink:0; }
@@ -417,7 +415,27 @@
     .chat-send-btn:disabled { opacity:.45; cursor:not-allowed; }
     html.light .chat-input-row input { background:rgba(0,0,0,.04); }
     html.light .chat-msg-bot .chat-bubble { background:var(--dark2); }
-    @media(max-width:480px){ .chat-panel{width:calc(100vw - 32px);} #chatWidget{right:16px;bottom:16px;} }
+
+    /* Círek mascot */
+    .cirek-wrap { position:relative; display:flex; flex-direction:column; align-items:center; cursor:pointer; padding-bottom:4px; }
+    .cirek-svg { width:90px; height:106px; display:block; animation:cirekFloat 3.2s ease-in-out infinite; transition:transform .25s; filter:drop-shadow(0 8px 20px rgba(0,215,153,.35)); }
+    .cirek-wrap:hover .cirek-svg { animation-play-state:paused; transform:scale(1.06) rotate(-4deg); }
+    @keyframes cirekFloat { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
+    #chatFab { background:linear-gradient(135deg,var(--purple),#6a28b8); border:none; border-radius:24px; color:#fff; font-size:.82rem; font-weight:700; padding:8px 18px; cursor:pointer; display:flex; align-items:center; gap:7px; box-shadow:0 4px 18px rgba(147,76,222,.5); transition:transform .2s,box-shadow .2s; font-family:inherit; margin-top:-4px; white-space:nowrap; }
+    #chatFab:hover { transform:translateY(-2px); box-shadow:0 6px 26px rgba(147,76,222,.68); }
+    #chatFab .ico-close { display:none; }
+    #chatFab.open .ico-chat { display:none; }
+    #chatFab.open .ico-close { display:inline; }
+    .cirek-name { font-size:.68rem; font-weight:700; color:var(--txt2); letter-spacing:.06em; text-transform:uppercase; margin-top:4px; margin-bottom:6px; }
+
+    /* Speech bubble */
+    .cirek-speech { position:absolute; bottom:calc(100% + 8px); right:0; background:white; color:#1a0840; padding:11px 14px 11px 14px; border-radius:18px 18px 4px 18px; font-size:.85rem; font-weight:600; line-height:1.45; box-shadow:0 6px 24px rgba(0,0,0,.25); white-space:nowrap; animation:speechPop .4s cubic-bezier(.34,1.56,.64,1) both; z-index:10; }
+    .cirek-speech::after { content:''; position:absolute; bottom:-8px; right:18px; width:0; height:0; border:8px solid transparent; border-top-color:white; border-bottom:none; }
+    .cirek-speech-x { position:absolute; top:5px; right:8px; background:none; border:none; font-size:.85rem; color:#888; cursor:pointer; line-height:1; padding:2px; }
+    .cirek-speech.hidden { display:none; }
+    @keyframes speechPop { from{opacity:0;transform:scale(.7) translateY(10px)} to{opacity:1;transform:none} }
+    html.light .cirek-speech { background:#fff; box-shadow:0 6px 24px rgba(0,0,0,.18); }
+    @media(max-width:480px){ .chat-panel{width:calc(100vw - 32px);} #chatWidget{right:12px;} .cirek-svg{width:74px;height:87px;} }
   </style>
 </head>
 <body>
@@ -888,33 +906,110 @@
   </div>
 </footer>
 
-<!-- ═══ CHATBOT WIDGET ══════════════════════════════════════ -->
+<!-- ═══ CÍREK – CHATBOT WIDGET ════════════════════════════════ -->
 <div id="chatWidget">
+
+  <!-- Chat message panel -->
   <div class="chat-panel" id="chatPanel">
     <div class="chat-header">
       <div class="chat-header-info">
+        <!-- Mini Círek avatar in header -->
         <div class="chat-avatar">
-          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+          <svg viewBox="0 0 80 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="ckh1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#14e8a8"/><stop offset="100%" stop-color="#00b37d"/></linearGradient>
+              <linearGradient id="ckh2" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#b76cf5"/><stop offset="100%" stop-color="#7b35c2"/></linearGradient>
+            </defs>
+            <circle cx="40" cy="46" r="30" fill="url(#ckh1)"/>
+            <ellipse cx="29" cy="41" rx="8" ry="9" fill="white"/><ellipse cx="51" cy="41" rx="8" ry="9" fill="white"/>
+            <circle cx="31" cy="42" r="5" fill="#160a30"/><circle cx="53" cy="42" r="5" fill="#160a30"/>
+            <circle cx="33" cy="39" r="2" fill="white"/><circle cx="55" cy="39" r="2" fill="white"/>
+            <path d="M29 55 Q40 65 51 55" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+            <path d="M18 68 Q40 78 62 68 L58 86 Q40 94 22 86 Z" fill="url(#ckh2)"/>
+          </svg>
         </div>
         <div>
-          <div class="chat-header-name">Asistent Cirkulárního skenu</div>
-          <div class="chat-header-sub">Česká Třebová · CE Hub Pardubice</div>
+          <div class="chat-header-name">Círek</div>
+          <div class="chat-header-sub">Asistent CE Hubu · Česká Třebová</div>
         </div>
       </div>
       <button class="chat-close" onclick="toggleChat()" aria-label="Zavřít">✕</button>
     </div>
     <div id="chatMessages" class="chat-messages"></div>
     <div class="chat-input-row">
-      <input id="chatInput" type="text" placeholder="Napište otázku…" autocomplete="off" maxlength="500" />
+      <input id="chatInput" type="text" placeholder="Zeptej se Círka…" autocomplete="off" maxlength="500" />
       <button class="chat-send-btn" id="chatSendBtn" onclick="sendChatMessage()" aria-label="Odeslat">
         <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
       </button>
     </div>
   </div>
-  <button id="chatFab" onclick="toggleChat()" aria-label="Asistent Cirkulárního skenu">
-    <svg class="ico-chat" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-    <svg class="ico-close" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" style="display:none"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+
+  <!-- Círek mascot + button -->
+  <div class="cirek-wrap" onclick="toggleChat()">
+    <!-- Speech bubble (appears after 5s) -->
+    <div class="cirek-speech hidden" id="cirekSpeech">
+      Ahoj! 👋 Mám otázku?<br>Klepni na mě!
+      <button class="cirek-speech-x" onclick="event.stopPropagation();_hideBubble()" aria-label="Zavřít">×</button>
+    </div>
+
+    <!-- CÍREK SVG character -->
+    <svg class="cirek-svg" viewBox="0 0 80 96" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Círek – asistent CE Hubu">
+      <defs>
+        <linearGradient id="ckg1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#14e8a8"/><stop offset="100%" stop-color="#00b07a"/></linearGradient>
+        <linearGradient id="ckg2" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c07af8"/><stop offset="100%" stop-color="#7b35c2"/></linearGradient>
+        <filter id="ckShadow"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="rgba(0,183,130,0.3)"/></filter>
+      </defs>
+      <!-- Antenna stem -->
+      <line x1="40" y1="3" x2="40" y2="17" stroke="#00d799" stroke-width="3.5" stroke-linecap="round"/>
+      <!-- Recycling loop on antenna -->
+      <path d="M34 7 A7 7 0 1 1 46 7" stroke="#00d799" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <polygon points="46,7 43,3 49,3" fill="#00d799"/>
+      <!-- Head (main body) -->
+      <circle cx="40" cy="48" r="31" fill="url(#ckg1)" filter="url(#ckShadow)"/>
+      <!-- Inner highlight -->
+      <ellipse cx="32" cy="35" rx="12" ry="8" fill="rgba(255,255,255,0.12)" transform="rotate(-20 32 35)"/>
+      <!-- Eyes whites -->
+      <ellipse cx="29" cy="43" rx="9.5" ry="10.5" fill="white"/>
+      <ellipse cx="51" cy="43" rx="9.5" ry="10.5" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="31.5" cy="44.5" r="6.5" fill="#160a30"/>
+      <circle cx="53.5" cy="44.5" r="6.5" fill="#160a30"/>
+      <!-- Eye shine big -->
+      <circle cx="34.5" cy="41.5" r="2.5" fill="white"/>
+      <circle cx="56.5" cy="41.5" r="2.5" fill="white"/>
+      <!-- Eye shine small -->
+      <circle cx="30" cy="47" r="1.1" fill="rgba(255,255,255,0.65)"/>
+      <circle cx="52" cy="47" r="1.1" fill="rgba(255,255,255,0.65)"/>
+      <!-- Smile -->
+      <path d="M29 58 Q40 69 51 58" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <!-- Cheek blush -->
+      <ellipse cx="17" cy="54" rx="7" ry="4.5" fill="rgba(255,120,170,0.28)"/>
+      <ellipse cx="63" cy="54" rx="7" ry="4.5" fill="rgba(255,120,170,0.28)"/>
+      <!-- Left arm -->
+      <ellipse cx="8" cy="60" rx="6.5" ry="11" fill="url(#ckg1)" transform="rotate(22 8 60)"/>
+      <!-- Right arm (slightly raised = waving) -->
+      <ellipse cx="72" cy="57" rx="6.5" ry="11" fill="url(#ckg1)" transform="rotate(-30 72 57)"/>
+      <!-- Purple body/pants -->
+      <path d="M14 71 Q40 83 66 71 L62 90 Q40 98 18 90 Z" fill="url(#ckg2)"/>
+      <!-- Recycling badge on chest -->
+      <circle cx="40" cy="76" r="9" fill="rgba(255,255,255,0.14)" stroke="rgba(255,255,255,0.28)" stroke-width="1.2"/>
+      <text x="40" y="81" text-anchor="middle" font-size="11" fill="rgba(255,255,255,0.9)">♻</text>
+      <!-- Feet -->
+      <ellipse cx="28" cy="93" rx="11" ry="5.5" fill="#6820a8"/>
+      <ellipse cx="52" cy="93" rx="11" ry="5.5" fill="#6820a8"/>
+    </svg>
+
+    <div class="cirek-name">Círek</div>
+  </div>
+
+  <!-- CTA button below mascot -->
+  <button id="chatFab" onclick="toggleChat()" aria-label="Otevřít Círka">
+    <svg class="ico-chat" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+    <span class="ico-chat">Zeptej se Círka</span>
+    <svg class="ico-close" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    <span class="ico-close">Zavřít</span>
   </button>
+
 </div>
 
 <!-- ═══ SCRIPTS ══════════════════════════════════════════════ -->
@@ -1372,6 +1467,85 @@ Cirkulární ekonomika (oběhové hospodářství) je systém, kde se produkty, 
 JAK SE ZAPOJIT JAKO OBČAN:
 Třídit odpad do správných kontejnerů – plast, papír, sklo, kov, bioodpad. Využívat door-to-door sběr (plast, papír, bio přímo od dveří). Navštívit re-use centrum až bude otevřeno. Nakupovat u místních výrobců na řemeslných trzích. Jezdit na kole – 33 km cyklostezek v Třebové. Využívat sdílená kola nebo elektrokola. Kompostovat bioodpad. Účastnit se komunitních sadů.`;
 
+/* ── FAQ ZÁLOHA (spustí se pokud API selže) ── */
+const _FAQ = [
+  {
+    keys:['celkov','výsledek','skóre','skore','procent','míra cirkularity','celková','hodnocení','celkem'],
+    a:'Česká Třebová dosáhla celkové míry cirkularity 70,4 % – to je výborný výsledek a jedno z nejlepších hodnocení mezi srovnatelnými českými městy. Sken hodnotil 5 oblastí: odpady, biodiverzita, strategie, doprava a budovy.'
+  },
+  {
+    keys:['odpad','třídění','třídit','sko','komunální','tříd','popelnic','kontejner'],
+    a:'Odpadové hospodářství je nejsilnější oblastí – 82 %. Míra třídění je 69,9 %, což překračuje zákonný cíl ČR (60 %) s velkým přehledem. Komunální odpad klesl o 31,8 % od roku 2015 a nyní produkujeme jen 161 kg/obyvatele (průměr ČR je 246 kg). Funguje systém door-to-door: plast, papír a bio se sbírají přímo od dveří.'
+  },
+  {
+    keys:['bioodpad','bio','kompost','kompostár','gastroodpad','kuchyň'],
+    a:'Třídění bioodpadu vzrostlo o 154 % za posledních 10 let. Město má vlastní kompostárnu. Jako příští krok se plánuje pilotní sběr gastroodpadu (kuchyňský odpad z domácností), který je zatím ve fázi přípravy.'
+  },
+  {
+    keys:['kolo','cyklo','cyklostezk','bike','elektrokolo','sdílen','doprava','vlak','autobus','chůz'],
+    a:'Oblast dopravy má skóre 67 %. Česká Třebová má 33 km cyklostezek – to je 2,26 km na 1 000 obyvatel, což je nadstandardní výsledek. Jsou k dispozici sdílená kola a nabíjení elektrokol. Město má zpracovanou cyklokoncepci a je silným železničním uzlem. Do budoucna se plánuje poptávková doprava na vyžádání.'
+  },
+  {
+    keys:['solar','fotovoltaik','fve','energie','obnoviteln','oze','elektřina','budov','výstavb'],
+    a:'Oblast výstavby a budov má skóre 59 % – největší prostor pro zlepšení. Pozitivem je 18,5 % energie z obnovitelných zdrojů v městských budovách, 3 fotovoltaické instalace a sdílení energie na 5 odběrných místech. Stojí za zmínku modulární přístavba MŠ U Koupaliště. Doporučujeme digitalizovat správu majetku a využívat recyklované materiály při opravách komunikací.'
+  },
+  {
+    keys:['zelen','sad','biodiverzit','příroda','strom','park','lokáln','farmář','trh','výrobc'],
+    a:'Oblast biodiverzity a lokálnosti má skóre 75 %. Fungují dva komunitní sady na městských pozemcích a pravidelné řemeslné trhy pro lokální výrobce. Územní plán zahrnuje ÚSES (územní systém ekologické stability) a byla zpracována studie sídelní zeleně. Doporučuje se záchyt dešťové vody pro zálivku.'
+  },
+  {
+    keys:['strategi','politika','plán','mek','dokument','zastupitel','vedení','samospráv'],
+    a:'Oblast strategie a politiky má skóre 72 %. Principy udržitelnosti jsou zakotveny v strategickém plánu rozvoje, MEK (Místní energetická koncepcí) i územním plánu. Funguje aktivní regionální spolupráce a environmentální vzdělávání ve školách. Doporučujeme přidat samostatnou kapitolu udržitelnosti a vstoupit do Sítě Zdravých měst.'
+  },
+  {
+    keys:['re-use','reuse','opravit','oprav','swap','bazar','darovat'],
+    a:'Re-use centrum je aktuálně ve fázi přípravy (cca 45 % připravenosti). Jakmile bude otevřeno, budete moct přinést věci, které už nepotřebujete, nebo si vzít ty, co někdo jiný odložil. Plánují se také workshopy oprav.'
+  },
+  {
+    keys:['zapojit','pomoci','jak','citizen','občan','co mohu','co muzem','co děl'],
+    a:'Jako občan můžeš: třídit odpad do správných kontejnerů, využívat door-to-door sběr (plast, papír, bio přímo od dveří), nakupovat u místních výrobců na řemeslných trzích, jezdit na kole po 33 km cyklostezek, využívat sdílená kola nebo elektrokola, kompostovat bioodpad a účastnit se komunitních sadů.'
+  },
+  {
+    keys:['ce hub','cirkulární hub','kdo dělá','kdo provád','organizac','pardubice','autoři'],
+    a:'Cirkulární sken provedl Circular Economy Hub Pardubice (CE Hub) v lednu 2026. CE Hub pomáhá městům a obcím přecházet na oběhové hospodářství. Více na www.cirkularni-hub.cz.'
+  },
+  {
+    keys:['co je','cirkulární sken','sken','audit','metodika','jak funguje sken'],
+    a:'Cirkulární sken je komplexní audit cirkularity města. Hodnotí 5 oblastí: strategie, výstavba, odpady, doprava a biodiverzita. Každá oblast je bodována a váhována. Výstupem je přehledná zpráva s celkovým skóre, silnými stránkami a konkrétními doporučeními. Sken provádí CE Hub Pardubice – více na www.cirkularni-hub.cz.'
+  },
+  {
+    keys:['cirkulární ekonomika','oběhové hospodářství','co to je','princip','lineární'],
+    a:'Cirkulární ekonomika je systém, kde se produkty, materiály a zdroje udržují v oběhu co nejdéle – opak lineární ekonomiky „vyrob, použij, vyhoď". Základní principy jsou: předcházení vzniku odpadu, opětovné použití, oprava a recyklace. Cílem je minimalizovat odpad a snižovat spotřebu přírodních zdrojů.'
+  },
+  {
+    keys:['starosta','řehák','válková','místostarost','zastupitel'],
+    a:'Starosta Zdeněk Řehák k výsledkům skenu: „Výsledky cirkulárního skenu nás utvrzují, že jdeme správnou cestou – a jsem rád, že tuto cestu jdeme společně s obyvateli města." Místostarostka Petra Válková: „Sken nám pomohl pojmenovat konkrétní kroky, které chceme v příštích letech realizovat."'
+  },
+  {
+    keys:['doporučení','co zlepšit','co chybí','příští krok','plán'],
+    a:'Hlavní doporučení ze skenu: zavést pilotní sběr gastroodpadu, rozšířit re-use centrum o workshopy oprav, digitalizovat správu majetku, zavést záchyt dešťové vody, ověřit poptávkovou dopravu na vyžádání a systematicky využívat recyklované materiály při obnově komunikací.'
+  },
+  {
+    keys:['web','stránka','informac','novinky','aktuálně','sledovat'],
+    a:'Aktuální novinky a chystané projekty města najdeš na www.ceska-trebova.cz. Pro informace o cirkulárních projektech a skenu navštiv www.cirkularni-hub.cz.'
+  }
+];
+
+function _faqAnswer(q) {
+  const norm = q.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+  let best = null, bestScore = 0;
+  for(const faq of _FAQ){
+    let score = 0;
+    for(const k of faq.keys){
+      const kn = k.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+      if(norm.includes(kn)) score += kn.length; // longer keyword match = higher weight
+    }
+    if(score > bestScore){ bestScore=score; best=faq; }
+  }
+  if(bestScore >= 3) return best.a;
+  return 'Na tuto otázku ve znalostní bázi odpověď nemám. Zkus se zeptat jinak, nebo navštiv web města na www.ceska-trebova.cz nebo CE Hub Pardubice na www.cirkularni-hub.cz 🙏';
+}
+
 let _chatHistory = [];
 let _chatOpen = false;
 let _chatSending = false;
@@ -1380,6 +1554,19 @@ let _msgId = 0;
 
 function openChat(){ if(!_chatOpen) toggleChat(); }
 
+/* Bublina po 5s – zobrazí se jen jednou */
+(function(){
+  setTimeout(function(){
+    const b = document.getElementById('cirekSpeech');
+    if(b && !sessionStorage.getItem('cirekBubbleSeen') && !_chatOpen){
+      b.classList.remove('hidden');
+      sessionStorage.setItem('cirekBubbleSeen','1');
+      setTimeout(function(){ if(b && !_chatOpen) b.classList.add('hidden'); }, 9000);
+    }
+  }, 5000);
+})();
+function _hideBubble(){ const b=document.getElementById('cirekSpeech'); if(b) b.classList.add('hidden'); }
+
 function toggleChat(){
   _chatOpen = !_chatOpen;
   const panel = document.getElementById('chatPanel');
@@ -1387,7 +1574,8 @@ function toggleChat(){
   panel.classList.toggle('open', _chatOpen);
   fab.classList.toggle('open', _chatOpen);
   if(_chatOpen){
-    if(!_chatWelcomed){ _chatWelcomed=true; _appendMsg('bot','Ahoj! 👋 Jsem asistent Cirkulárního skenu České Třebové. Zeptejte se mě na výsledky skenu, konkrétní oblasti nebo jak se jako občan zapojit. Rád odpovím!'); }
+    _hideBubble();
+    if(!_chatWelcomed){ _chatWelcomed=true; _appendMsg('bot','Ahoj! 👋 Jsem Círek, asistent CE Hubu pro Českou Třebovou. Zeptej se mě na výsledky Cirkulárního skenu, co město plánuje nebo jak se sám zapojit. Jsem tu pro tebe!'); }
     setTimeout(()=>{ const inp=document.getElementById('chatInput'); if(inp) inp.focus(); },320);
   }
 }
@@ -1430,13 +1618,10 @@ async function sendChatMessage(){
 
     if(!res.ok){
       const errBody = await res.json().catch(()=>({}));
-      const msg = errBody?.error?.message||'';
-      console.error('Anthropic API error', res.status, errBody);
-      let friendlyMsg = 'Omlouvám se, nastala chyba komunikace. Zkuste to prosím za chvíli.';
-      if(res.status===401) friendlyMsg='Asistent není správně nakonfigurován. Kontaktujte prosím správce stránky.';
-      if(msg.toLowerCase().includes('credit')||msg.toLowerCase().includes('balance')) friendlyMsg='Asistent je momentálně dočasně nedostupný. Mezitím se podívejte na obsah stránky nebo napište na www.cirkularni-hub.cz 🙏';
-      if(res.status===429) friendlyMsg='Asistent je momentálně přetížen – zkuste to za chvíli.';
-      _appendMsg('bot', friendlyMsg);
+      console.warn('API nedostupné, přepínám na FAQ zálohu', res.status, errBody);
+      _removeMsg(typId);
+      _appendMsg('bot', '📚 ' + _faqAnswer(text));
+      _chatHistory.push({role:'assistant', content:_faqAnswer(text)});
       _done(); return;
     }
 
@@ -1467,7 +1652,8 @@ async function sendChatMessage(){
     if(full) _chatHistory.push({role:'assistant',content:full});
   } catch(e){
     _removeMsg(typId);
-    _appendMsg('bot','Omlouvám se, nastala chyba připojení. Zkontrolujte internet a zkuste znovu.');
+    console.warn('Síťová chyba, přepínám na FAQ zálohu', e);
+    _appendMsg('bot', '📚 ' + _faqAnswer(text));
   }
   _done();
 }
