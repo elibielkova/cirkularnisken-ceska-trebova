@@ -50,8 +50,18 @@
     html.light .nav-logo img { filter: invert(1) sepia(1) saturate(3) hue-rotate(240deg) brightness(.4); }
 
     /* ── THEME TOGGLE BUTTON ── */
-    .theme-toggle { background:none; border:1px solid var(--border); color:var(--txt2); font-size:1rem; width:36px; height:36px; border-radius:50%; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:border-color .2s,color .2s; flex-shrink:0; }
+    .theme-toggle { background:none; border:1px solid var(--border); color:var(--txt2); font-size:1rem; width:38px; height:38px; border-radius:50%; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:border-color .2s,color .2s,background .2s; flex-shrink:0; margin-left:10px; }
     .theme-toggle:hover { border-color:var(--green); color:var(--green); }
+
+    /* ── PHOTO BACKGROUND SECTIONS ── */
+    .photo-bg { position:relative; background-size:cover; background-position:center; background-attachment:fixed; }
+    .photo-bg::before { content:''; position:absolute; inset:0; background:rgba(6,3,22,.80); z-index:0; pointer-events:none; }
+    .photo-bg > .container { position:relative; z-index:1; }
+    .photo-bg-1 { background-image:url("Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/lrg_img_4681.jpg"); }
+    .photo-bg-2 { background-image:url("Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/225772f26910d35028fcdbff99ebcc4a.jpg"); }
+    .photo-bg-3 { background-image:url("Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/01-1.jpg"); }
+    html.light .photo-bg::before { background:rgba(230,225,252,.87); }
+    @media(max-width:768px){ .photo-bg { background-attachment:scroll; } }
 
     html { scroll-behavior: smooth; font-size: 17px; }
     body { font-family:'Inter Tight','Segoe UI',system-ui,-apple-system,sans-serif; background:var(--dark); color:var(--txt); line-height:1.65; overflow-x:hidden; }
@@ -62,8 +72,9 @@
     .nav-links { display:flex; gap:clamp(8px,1.5vw,22px); list-style:none; }
     .nav-links a { color:var(--txt2); text-decoration:none; font-size:.88rem; transition:color .2s; white-space:nowrap; }
     .nav-links a:hover { color:var(--green); }
+    .nav-actions { display:flex; align-items:center; gap:6px; }
     .nav-burger { display:none; background:none; border:none; color:var(--txt); font-size:1.5rem; cursor:pointer; padding:4px; }
-    @media(max-width:720px){ .nav-burger{display:block;} .nav-links{display:none;flex-direction:column;position:absolute;top:64px;left:0;right:0;background:var(--dark2);padding:16px 24px 20px;border-bottom:1px solid var(--border);gap:14px;} .nav-links.open{display:flex;} }
+    @media(max-width:720px){ .nav-burger{display:block;} .nav-links{display:none;flex-direction:column;position:absolute;top:64px;left:0;right:0;background:var(--dark2);padding:16px 24px 20px;border-bottom:1px solid var(--border);gap:14px;z-index:100;} .nav-links.open{display:flex;} }
 
     /* ── SECTIONS ── */
     section { padding:clamp(64px,10vw,120px) clamp(20px,5vw,80px); }
@@ -352,13 +363,16 @@
   <div class="nav-logo">
     <img src="Logo%20cirkul%C3%A1rn%C3%AD%20hub/CE%20HUB%20loga-2/CE%20logo%201%20radek/CE_HUB_1r_bile_RGB.png" alt="CE Hub" />
   </div>
-  <button class="nav-burger" onclick="toggleMenu()" aria-label="Menu">☰</button>
   <ul class="nav-links" id="navLinks">
     <li><a href="#insights" onclick="closeMenu()">Výsledky</a></li>
     <li><a href="#areas" onclick="closeMenu()">Oblasti</a></li>
     <li><a href="#quiz" onclick="closeMenu()">Kvíz</a></li>
     <li><a href="#sken" onclick="closeMenu()">Co je Cirkulární sken</a></li>
   </ul>
+  <div class="nav-actions">
+    <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Přepnout téma" title="Světlý / tmavý režim">🌙</button>
+    <button class="nav-burger" onclick="toggleMenu()" aria-label="Menu">☰</button>
+  </div>
 </nav>
 
 <!-- ═══ HERO ════════════════════════════════════════════ -->
@@ -370,17 +384,10 @@
 
       <!-- LEFT: text -->
       <div>
-        <div class="hero-city-id">
-          <div class="city-id-text">
-            <div class="city-name-big">Cirkulární sken</div>
-            <div class="city-meta">Česká Třebová · 15 010 obyvatel · Pardubický kraj</div>
-          </div>
-        </div>
-
-        <p class="section-label" style="margin-bottom:8px;">Výsledky cirkulárního skenu pro město Česká Třebová</p>
+        <p class="section-label" style="margin-bottom:10px;">Výsledky cirkulárního skenu pro město Česká Třebová</p>
         <div class="hero-tag">
           <span class="hero-dot"></span>
-          Cirkulární sken · leden 2026
+          leden 2026
         </div>
 
         <h1>
@@ -388,7 +395,7 @@
           <span class="hero-tagline">komunální odpad o třetinu.</span>
         </h1>
         <p class="hero-sub">
-          Celková míra cirkularity <strong style="color:var(--green)">70,4 %</strong> · třídění odpadu 69,9 % · −31,8 % komunálního odpadu za 8 let. Tenhle výsledek není náhoda – stojíte za ním i vy, občané České Třebové.
+          Stojíte za ním i vy, občané České Třebové. Celková míra cirkularity: <strong style="color:var(--green)">70,4 %</strong>.
         </p>
         <div class="hero-ctas">
           <a href="#insights" class="btn-primary">Jak si město vede</a>
@@ -441,7 +448,7 @@
 </section>
 
 <!-- ═══ INSIGHTS (carousel) ════════════════════════════ -->
-<section id="insights">
+<section id="insights" class="photo-bg photo-bg-1">
   <div class="container">
     <p class="section-label">Rychlé shrnutí</p>
     <h2>Jak si Česká Třebová vede?</h2>
@@ -593,7 +600,7 @@
 </section>
 
 <!-- ═══ OBČANSKÝ APEL ════════════════════════════════════════ -->
-<section style="padding:clamp(40px,6vw,72px) clamp(20px,5vw,80px);background:linear-gradient(135deg,rgba(147,76,222,.1) 0%,rgba(0,215,153,.06) 100%);">
+<section class="photo-bg photo-bg-2" style="padding:clamp(40px,6vw,72px) clamp(20px,5vw,80px);">
   <div class="container">
     <div style="display:flex;gap:32px;align-items:center;max-width:900px;margin:0 auto;flex-wrap:wrap;justify-content:space-between;">
       <div>
@@ -648,7 +655,7 @@
 </section>
 
 <!-- ═══ HLAS MĚSTA ═════════════════════════════════════════ -->
-<section id="voices">
+<section id="voices" class="photo-bg photo-bg-3">
   <div class="container">
     <p class="section-label">Hlas města</p>
     <h2>Co vám říkají zástupci České Třebové</h2>
@@ -886,6 +893,21 @@ function toggleAcc(head){ head.parentElement.classList.toggle('open'); }
 
 /* ── Nav ── */
 function toggleMenu(){ document.getElementById('navLinks').classList.toggle('open'); }
+
+/* ── THEME TOGGLE ── */
+function toggleTheme(){
+  const html = document.documentElement;
+  const isLight = html.classList.toggle('light');
+  localStorage.setItem('theme', isLight ? 'light' : 'dark');
+  document.getElementById('themeToggle').textContent = isLight ? '☀️' : '🌙';
+}
+(function(){
+  if(localStorage.getItem('theme')==='light'){
+    document.documentElement.classList.add('light');
+    const btn=document.getElementById('themeToggle');
+    if(btn) btn.textContent='☀️';
+  }
+})();
 function closeMenu(){ document.getElementById('navLinks').classList.remove('open'); }
 
 /* ── Observer ── */
