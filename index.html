@@ -1332,8 +1332,8 @@ function resetQuiz(){
    Model: claude-3-5-haiku · Streaming · CZ only
    ══════════════════════════════════════════════════════════ */
 
-const _CHAT_KEY = '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';
-const _CHAT_MODEL = 'claude-3-5-haiku-20241022';
+const _CHAT_KEY = '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';
+const _CHAT_MODEL = 'claude-haiku-4-5-20251001';
 
 const _CHAT_SYSTEM = `Jsi přátelský a věcný asistent Cirkulárního skenu pro město Česká Třebová. Odpovídáš VÝHRADNĚ česky. Odpovídáš pouze na základě níže uvedené znalostní báze. Pokud otázka nesouvisí s cirkulární ekonomikou nebo výsledky skenu České Třebové, zdvořile odmítni. Pokud konkrétní informaci ve znalostní bázi nemáš, řekni: "Tuto konkrétní informaci ve skenu nemám, ale můžeš se obrátit přímo na CE Hub Pardubice na www.cirkularni-hub.cz." Buď stručný, přátelský a konkrétní. Nepoužívej markdown ani odrážky – piš jako přirozený text.
 
@@ -1429,7 +1429,14 @@ async function sendChatMessage(){
     _removeMsg(typId);
 
     if(!res.ok){
-      _appendMsg('bot','Omlouvám se, nastala chyba při komunikaci s asistentou. Zkuste to prosím znovu.');
+      const errBody = await res.json().catch(()=>({}));
+      const msg = errBody?.error?.message||'';
+      console.error('Anthropic API error', res.status, errBody);
+      let friendlyMsg = 'Omlouvám se, nastala chyba komunikace. Zkuste to prosím za chvíli.';
+      if(res.status===401) friendlyMsg='Asistent není správně nakonfigurován. Kontaktujte prosím správce stránky.';
+      if(msg.toLowerCase().includes('credit')||msg.toLowerCase().includes('balance')) friendlyMsg='Asistent je momentálně dočasně nedostupný. Mezitím se podívejte na obsah stránky nebo napište na www.cirkularni-hub.cz 🙏';
+      if(res.status===429) friendlyMsg='Asistent je momentálně přetížen – zkuste to za chvíli.';
+      _appendMsg('bot', friendlyMsg);
       _done(); return;
     }
 
