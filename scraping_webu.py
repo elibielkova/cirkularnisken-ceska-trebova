@@ -159,7 +159,7 @@ class WebScraper:
         except Exception:
             return False
 
-    def stahni_stranku(self, url: str) -> dict | None:
+    def stahni_stranku(self, url: str):
         """Stáhne a zpracuje stránku. Vrátí dict nebo None."""
         try:
             response = self.session.get(url, timeout=15, allow_redirects=True)
@@ -180,14 +180,9 @@ class WebScraper:
                                        "iframe", "form", "button"]):
                 tag.decompose()
 
-            # Hledat hlavní obsah
-            hlavni = (
-                soup.find("main") or
-                soup.find("article") or
-                soup.find(id=re.compile(r"content|obsah|main|clanek", re.I)) or
-                soup.find(class_=re.compile(r"content|obsah|main|article|clanek", re.I)) or
-                soup.find("body")
-            )
+            # Hledat hlavní obsah – preferuj sémantické elementy,
+            # jinak celé body (Vismo a podobné CMS nemají standard. ID)
+            hlavni = soup.find("main") or soup.find("article") or soup.find("body")
 
             if not hlavni:
                 return None
