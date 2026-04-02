@@ -63,24 +63,38 @@ KATEGORIE = {
 # Sloučený seznam všech klíčových slov pro rychlý test relevance
 VSECHNA_SLOVA = [s for kw in KATEGORIE.values() for s in kw]
 
-# URL části které přeskočit
+# URL části které vždy přeskočit
 PRESKOCIT_URL = [
     "/wp-admin", "/wp-login", "/wp-content/uploads",
     ".pdf", ".doc", ".xls", ".zip", ".rar", ".jpg", ".png", ".gif", ".svg",
     "facebook.com", "twitter.com", "instagram.com", "youtube.com",
     "google.com", "mapy.cz", "/rss", "/feed",
     "javascript:", "mailto:", "tel:",
+    # Statické stránky odborů a org. struktura – nechceme
+    "/odbor", "/utvar", "/oddeleni", "/vedeni", "/zastupitel",
+    "/rada-mesta", "/zastupitelstvo", "/komisar", "/tajemnik",
+    "/kontakt", "/uredni-deska", "/formulare", "/poplatky",
+    "/vismo/o_utvar", "/vismo/zobraz_dok",
+    # Vismo – archivní a filtrovací parametry (duplicitní varianty té samé stránky)
+    "&tzv=", "&archiv=", "&prich=", "&q=",
+    # Sekce nesouvisející s cirkulární ekonomikou
+    "sportov", "sokol", "bazenu", "bazen", "fotbal", "hokej",
+    "kultura", "divadlo", "kino", "knihovna",
 ]
 
-# Sekce webu s vysokou relevancí
-RELEVANTNI_SEKCE = [
-    "zivotni-prostredi", "zivotni_prostredi", "environment",
-    "odpady", "odpadove-hospodarstvi", "komunalni-odpad",
-    "doprava", "cyklodoprava", "mobilita",
-    "energetika", "oze", "udrzitelnost", "udrzitelnost",
-    "rozvojove-projekty", "strategicky-plan",
-    "aktuality", "zpravy", "tiskove-zpravy",
-    "projekty", "dotace", "zelen", "park",
+# Povolené zpravodajské sekce – scraper sleduje POUZE tyto vzory URL.
+# Stránky mimo tyto vzory jsou přeskočeny (slouží jen jako rozcestníky).
+ZPRAVODAJSKE_VZORY = [
+    "aktualit", "aktuality",
+    "zpravodaj", "zpravy", "zprava",
+    "novink", "novinky",
+    "tiskova", "tiskove",
+    "stanovisko", "stanoviska",
+    "oznameni", "vyhlasky",
+    "clanek", "clanky",
+    "udalost", "udalosti",
+    # Vismo CMS – sekce dokumentů (ds-) s novinkovými klíči
+    "ds-1166", "ds-1167", "ds-1168",  # typické zpravodajské sekce Vismo
 ]
 
 
@@ -147,11 +161,17 @@ class WebScraper:
         })
 
     def je_relevantni_url(self, url: str) -> bool:
+        """Vrátí True jen pro zpravodajské URL (aktuality, novinky, stanoviska...)."""
         url_lower = url.lower()
+
+        # Vždy přeskočit zakázané vzory
         for skip in PRESKOCIT_URL:
             if skip in url_lower:
                 return False
-        return True
+
+        # Povolit pouze URL obsahující zpravodajské vzory
+        url_norm = normalizuj(url_lower)
+        return any(vzor in url_norm for vzor in ZPRAVODAJSKE_VZORY)
 
     def je_stejna_domena(self, url: str) -> bool:
         try:
@@ -217,15 +237,18 @@ class WebScraper:
             return None
 
     def je_relevantni_obsah(self, text: str) -> bool:
-        """True pokud stránka obsahuje alespoň 2 klíčová slova z oblastí skenu."""
+        """True pokud stránka obsahuje alespoň 3 klíčová slova z oblastí skenu."""
         text_norm = normalizuj(text)
         pocet = sum(1 for slovo in VSECHNA_SLOVA if slovo in text_norm)
-        return pocet >= 2
+        return pocet >= 3
 
     def scraping(self) -> list:
         """Hlavní smyčka. Vrátí seznam zpracovaných stránek."""
         print(f"  Zahajuji scraping: {self.zakladni_url}")
         print(f"  Max. stránek: {self.max_stranek}, hloubka: {self.hloubka}")
+
+        # Deduplikace podle normalizovaného titulku (Vismo zobrazuje 1 článek ve více sekcích)
+        videtitulky = set()
 
         while self.fronta and len(self.vysledky) < self.max_stranek:
             url, hloubka_url = self.fronta.pop(0)
@@ -238,6 +261,12 @@ class WebScraper:
             data = self.stahni_stranku(url)
 
             if data and data["text"] and len(data["text"]) > 100:
+                # Přeskočit duplicitní titulky
+                titulek_norm = normalizuj(data["title"].split(":")[0].strip())
+                if titulek_norm in videtitulky:
+                    continue
+                videtitulky.add(titulek_norm)
+
                 if self.je_relevantni_obsah(data["text"]):
                     kategorie = urcit_kategorii(data["text"])
                     klicova = urcit_klicova_slova(data["text"])
