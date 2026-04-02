@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions [scraper]"
+          git pull origin main
           git add data_obce.json
           git diff --staged --quiet || git commit -m "data: aktualizace webu obce $(date '+%Y-%m-%d')"
-          git pull --rebase origin main
           git push
