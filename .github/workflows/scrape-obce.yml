@@ -5,6 +5,9 @@ on:
     - cron: '0 3 * * *'   # každý den ve 3:00 UTC (5:00 letní čas CZ)
   workflow_dispatch:        # možnost spustit ručně z GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repozitáře
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Nastavení Pythonu
         uses: actions/setup-python@v5
