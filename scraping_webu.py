@@ -140,6 +140,13 @@ def urcit_klicova_slova(text: str) -> list:
 # ---------------------------------------------------------------------------
 
 class WebScraper:
+    # Scraper načte pouze tyto tři stránky (a jejich přímé odkazy na hloubce 1)
+    STARTOVNI_URL = [
+        "https://www.ceska-trebova.cz/dp",
+        "https://www.ceska-trebova.cz/vismo/kalendar.asp?id_org=2175",
+        "https://www.ceska-trebova.cz/uredni-deska/2",
+    ]
+
     def __init__(self, zakladni_url: str, max_stranek: int = 80,
                  hloubka: int = 2, zpozdeni: float = 0.8):
         self.zakladni_url = zakladni_url.rstrip("/")
@@ -149,7 +156,7 @@ class WebScraper:
         self.zpozdeni = zpozdeni
 
         self.navstivene = set()
-        self.fronta = [(zakladni_url, 0)]  # (url, hloubka)
+        self.fronta = [(url, 0) for url in self.STARTOVNI_URL]  # (url, hloubka)
         self.vysledky = []
 
         self.session = requests.Session()
@@ -201,8 +208,14 @@ class WebScraper:
                 tag.decompose()
 
             # Hledat hlavní obsah – preferuj sémantické elementy,
-            # jinak celé body (Vismo a podobné CMS nemají standard. ID)
-            hlavni = soup.find("main") or soup.find("article") or soup.find("body")
+            # Vismo CMS používá div#obalcelek nebo div#obsah
+            hlavni = (
+                soup.find("main") or
+                soup.find("article") or
+                soup.find("div", id="obalcelek") or
+                soup.find("div", id="obsah") or
+                soup.find("body")
+            )
 
             if not hlavni:
                 return None
@@ -267,7 +280,8 @@ class WebScraper:
                     continue
                 videtitulky.add(titulek_norm)
 
-                if self.je_relevantni_obsah(data["text"]):
+                je_startovni = url in self.STARTOVNI_URL
+                if je_startovni or self.je_relevantni_obsah(data["text"]):
                     kategorie = urcit_kategorii(data["text"])
                     klicova = urcit_klicova_slova(data["text"])
                     ukazka = data["text"][:400].replace("\n", " ")
