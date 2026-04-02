@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-04-02T11:41:12Z",
+  "aktualizovano": "2026-04-02T12:17:02Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 80,
@@ -18,21 +18,60 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/mestska%2Dpolicie/os-1397/p1=42131",
-      "nadpis": "Městská policie: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/napiste-nam-a-hlaseni-zavad/d-19910/p1=43161",
+      "nadpis": "Napište nám a hlášení závad: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/ubytovani/os-1401/p1=41917",
+      "nadpis": "Ubytování: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "doprava",
       "klicova_slova": [
         "odpad",
         "doprava",
         "cyklo",
         "parkovani",
-        "oze"
+        "autobus"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/oddeleni%2Dsocialnich%2Dsluzeb/os-1746",
-      "nadpis": "Oddělení sociálních služeb: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
+      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/manazer%2Dkvality%2Da%2Drizik/os-1427/p1=48516",
+      "nadpis": "Manažer kvality a rizik: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/vismo/o-webu.asp",
+      "nadpis": "O webu: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
       "kategorie": "priroda",
       "klicova_slova": [
@@ -40,12 +79,194 @@
         "doprava",
         "cyklo",
         "oze",
-        "kotelna"
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/informacni%2Dcentrum/os-1402/p1=41927",
+      "nadpis": "Turistické informační centrum Česká Třebová: Informační centrum: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "doprava",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "autobus",
+        "vlak"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/vismo/zobraz_dok.asp",
+      "nadpis": "Přehled dokumentů: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "tepelne"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odbor%2Dsocialnich%2Dveci/ms-42081/p1=42081",
+      "nadpis": "Odbor sociálních věcí: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
       ]
     },
     {
       "url": "https://www.ceska-trebova.cz/sportovni%2Dkluby%2Da%2Dspolky/ds-1102/p1=41975",
       "nadpis": "Sportovní kluby a spolky: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/katalog%2Dfirem/os-1574/p1=41931",
+      "nadpis": "Katalog firem: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "doprava",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "parkovani",
+        "autobus"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aeroklub%2Dceska%2Dtrebova/d-2974/p1=41949",
+      "nadpis": "AEROKLUB Česká Třebová: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/o%2Dmeste%2Dceska%2Dtrebova/d-2037/p1=41919",
+      "nadpis": "O městě Česká Třebová: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/kontakt%2Da%2Dsluzby/os-1402/p1=41929",
+      "nadpis": "Turistické informační centrum Česká Třebová: Kontakt a služby: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "doprava",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "autobus",
+        "vlak"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/starosta%2Dmesta/o-1091/p1=42166",
+      "nadpis": "Zdeněk Řehák: Starosta města: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/ztraty%2Da%2Dnalezy/ds-1281/p1=51621",
+      "nadpis": "Ztráty a nálezy: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "kontejner",
+        "doprava",
+        "cyklo",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dic/ds-1167/p1=41928",
+      "nadpis": "Provozní doba Krytého plaveckého bazénu Únor 2026: Zpravodajství IC: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/pamatky/d-2082/p1=41925",
+      "nadpis": "Městská památková zóna: Památky: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/sportovni%2Dzpravodajstvi/ds-1101/p1=41981",
+      "nadpis": "Sportovní zpravodajství: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/dp",
+      "nadpis": "Přehled dokumentů: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "tepelne"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/amikeco/d-2975/p1=41948",
+      "nadpis": "Amikeco: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -70,34 +291,8 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/svit%2Dslovensko/d-1884/p1=42125",
-      "nadpis": "Svit, Slovensko: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "komunalni",
-        "doprava",
-        "cyklo",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zo%2Dcsop%2Dpodorlicko/d-2985/p1=41937",
-      "nadpis": "ZO ČSOP Podorlicko: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/odbor%2Dfinancni/ms-42102/p1=42102",
-      "nadpis": "Odbor finanční: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/personalni%2Dadministrativa/os-1004/p1=48517",
+      "nadpis": "Personální administrativa: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -109,464 +304,9 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/stravovani%2Dkam%2Dna%2Dobed/os-1428",
-      "nadpis": "Stravování - Kam na oběd: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/vismo/webkamera.asp",
-      "nadpis": "Česká Třebová: Webkamera",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/partnerska%2Dmesta/ms-42122/p1=42122",
-      "nadpis": "Partnerská města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/sport/ms-41972/p1=41972",
-      "nadpis": "Sport: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/ztraty%2Da%2Dnalezy/ds-1281/archiv=0",
-      "nadpis": "Ztráty a nálezy: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "kontejner",
-        "doprava",
-        "cyklo",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/odpadove-hospodarstvi/ds-1548",
-      "nadpis": "Odpadové hospodářství: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "odpady",
-      "klicova_slova": [
-        "odpad",
-        "trideni",
-        "komunalni",
-        "bioodpad",
-        "kompost"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/aeroklub%2Dceska%2Dtrebova/d-2974/p1=41949",
-      "nadpis": "AEROKLUB Česká Třebová: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/stravovani/os-1428/p1=41916",
-      "nadpis": "Stravování - Kam na oběd: Stravování: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/socialni%2Dsluzby/ms-42001/p1=42001",
-      "nadpis": "Sociální služby: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/urady/ms-42016/p1=42016",
-      "nadpis": "Úřady: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/sluzby/ms-41930/p1=41930",
-      "nadpis": "Služby: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zatepleni"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/mestska%2Dknihovna/os-1391/p1=41987",
-      "nadpis": "Městská knihovna Česká Třebová: Městská knihovna: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oddeleni%2Dspravnich%2Dagend%2Da%2Dobecni%2Dzivnostensky%2Durad/os-1018/p1=47873",
-      "nadpis": "Oddělení správních agend a obecní živnostenský úřad: - Oddělení správních agend a obecní živnostenský úřad: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "parkovani",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/vismo/o-webu.asp",
-      "nadpis": "O webu: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/odbory%2Da%2Doddeleni%2Dmeu/ms-42058/p1=42058",
-      "nadpis": "Odbory a oddělení MěÚ: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/vedeni-mesta/os-1020/p1=42166",
-      "nadpis": "Vedení města: Starosta města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/AA/index.asp",
-      "nadpis": "Přihlášení uživatele: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/napiste%2Dnam%2Da%2Dhlaseni%2Dzavad/d-19910/p1=43161",
-      "nadpis": "Napište nám a hlášení závad: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/ztraty%2Da%2Dnalezy/ds-1281/p1=51621",
-      "nadpis": "Ztráty a nálezy: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "kontejner",
-        "doprava",
-        "cyklo",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/bc-petr-vytlacil/o-1826/p1=42157",
-      "nadpis": "Jiří Krnáč, BA (Hons): Hlavní inventarizační komise: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/manazer%2Dkvality%2Da%2Drizik/os-1427/p1=48516",
-      "nadpis": "Manažer kvality a rizik: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/sport/d-2080/p1=41921",
-      "nadpis": "Sportoviště a sportovní zařízení: Sport: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/starosta%2Dmesta/o-1091/p1=42166",
-      "nadpis": "Zdeněk Řehák: Starosta města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oddeleni%2Dmajetku%2Da%2Dskolstvi/ms-42097/p1=42097",
-      "nadpis": "- Oddělení majetku a školství: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/mudr%2Dmartin%2Dformanek/o-1168/p1=42166",
-      "nadpis": "MUDr. Martin Formánek: Starosta města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/dotovane-projekty/ds-1512/",
-      "nadpis": "Dotované projekty: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/pro%2Dpodnikatele/ds-1646/p1=44653",
-      "nadpis": "Pro podnikatele: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zabavni%2Dpodniky/os-1465/p1=41932",
-      "nadpis": "Zábavní podniky: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zapis-do-ms-a-zs/ds-1406/archiv=1",
-      "nadpis": "Zápis do MŠ a ZŠ: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/lekarny/os-1433/p1=41970",
-      "nadpis": "Lékárny: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/cirkve/ds-1137/p1=41984",
-      "nadpis": "Církve: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/mestsky-urad-ceska-trebova/os-1051/p1=42119",
-      "nadpis": "Městský úřad Česká Třebová: Základní údaje: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "popelnice",
-        "doprava",
-        "cyklo",
-        "parkovani"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/uredni-deska/2",
-      "nadpis": "Úřední deska: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/virtualni%2Dprohlidka/d-9602/p1=41805",
-      "nadpis": "Virtuální prohlídky: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "parkovani",
-        "vlak"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/ubytovani/os-1401/p1=41917",
+      "url": "https://www.ceska-trebova.cz/ubytovani/os-1401/p1=41950",
       "nadpis": "Ubytování: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
       "kategorie": "doprava",
       "klicova_slova": [
         "odpad",
@@ -577,165 +317,9 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/vismo/spravni-agendy.asp",
-      "nadpis": "Semafor dostupnosti agend městského úřadu: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "popelnice",
-        "doprava",
-        "cyklo",
-        "parkovani"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/napiste-nam-a-hlaseni-zavad/d-19910/p1=43161",
-      "nadpis": "Napište nám a hlášení závad: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/formulare%2Dodboru%2Dfinancniho/ds-1171/p1=42052",
-      "nadpis": "Formuláře Odboru finančního: Formuláře: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/usneseni%2Drady%2Dmesta/ds-1016/p1=42142",
-      "nadpis": "Usnesení rady města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/stravovani%2Dkam%2Dna%2Dobed/os-1428/p1=41951",
-      "nadpis": "Stravování - Kam na oběd: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/mestske%2Dmuzeum/os-1390/p1=41988",
+      "nadpis": "Městské muzeum Česká Třebová: Městské muzeum: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/projekty-irop/ds-1365",
-      "nadpis": "Projekty IROP: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "chodnik",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/odbor%2Dstavebni%2Da%2Dzivotniho%2Dprostredi/os-1017",
-      "nadpis": "Odbor stavební a životního prostředí: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/elektronicka%2Dpodatelna/d-1881/p1=42055",
-      "nadpis": "Údaje o provozu podatelny MěÚ Česká Třebová: Elektronická podatelna: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/slozeni%2Drady%2Dmesta/os-1371/p1=42160",
-      "nadpis": "Rada města: Složení rady města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/kontakty/os-10/p1=42169",
-      "nadpis": "Město Česká Třebová: Kontakty: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Kontakty Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pro",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "komunalni",
-        "doprava",
-        "cyklo",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/vismo/zobraz_dok.asp",
-      "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "tepelne"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
@@ -759,8 +343,112 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zko%2Dpodhorka/d-3012/p1=41941",
-      "nadpis": "ZKO Česká Třebová Podhorka – 143: ZKO Podhorka: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/kontakty/os-10/p1=42169",
+      "nadpis": "Město Česká Třebová: Kontakty: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Kontakty Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pro",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "komunalni",
+        "doprava",
+        "cyklo",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/rezervacni-system/ms-48448",
+      "nadpis": "Rezervační systém: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/usneseni%2Dzastupitelstva%2Dmesta/ds-1002/p1=42136",
+      "nadpis": "Usnesení Zastupitelstva města: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/lekari/os-1434/p1=41971",
+      "nadpis": "Lékaři: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/sport/ms-41972/p1=41972",
+      "nadpis": "Sport: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odbor%2Drozvoje%2Dmajetku%2Dmesta%2Da%2Dskolstvi/ms-42086/p1=42086",
+      "nadpis": "Odbor rozvoje, majetku města a školství: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odbor%2Dstavebni%2Da%2Dzivotniho%2Dprostredi/ds-1030/archiv=0",
+      "nadpis": "Odbor stavební a životního prostředí: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "doprava",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "chodnik",
+        "autobus"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/uredni-deska/2",
+      "nadpis": "Úřední deska: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/sluzby%2Da%2Dinstituce/ms-41991/p1=41991",
+      "nadpis": "Služby a instituce: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -785,86 +473,8 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/katalog%2Dfirem/os-1574/p1=41931",
-      "nadpis": "Katalog firem: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "doprava",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "parkovani",
-        "autobus"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zabavni%2Dpodniky/os-1465/p1=41915",
-      "nadpis": "Zábavní podniky: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/tiskovy%2Dmluvci/os-1686/p1=42118",
-      "nadpis": "Tiskový mluvčí města: Tiskový mluvčí: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/uredni-deska/2/p1=42057",
-      "nadpis": "Úřední deska: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oddeleni%2Dikt%2Da%2Dgis/os-1003/p1=48518",
-      "nadpis": "Oddělení IKT a GIS: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/volny%2Dcas/ms-41933/p1=41933",
-      "nadpis": "Volný čas: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/krizove%2Drizeni/ds-1329/p1=43111",
-      "nadpis": "Krizové řízení: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -876,16 +486,133 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/informacni%2Dcentrum/os-1402/p1=41927",
-      "nadpis": "Turistické informační centrum Česká Třebová: Informační centrum: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/pripravovane-projekty/ds-1680/archiv=0",
+      "nadpis": "Připravované projekty: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odbor%2Dfinancni/ms-42102/p1=42102",
+      "nadpis": "Odbor finanční: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/cirkve/ds-1137/p1=41984",
+      "nadpis": "Církve: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/z%2Dhistorie%2Dmesta/d-2038/p1=41926",
+      "nadpis": "Z historie České Třebové: Z historie města: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
-      "kategorie": "doprava",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odbor%2Dstavebni%2Da%2Dzivotniho%2Dprostredi/os-1017",
+      "nadpis": "Odbor stavební a životního prostředí: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/nabidka%2Dprace%2Dve%2Dmeste%2Da%2Dokoli/ds-1409/archiv=0",
+      "nadpis": "Nabídka práce ve městě a okolí: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "tepelne"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/sport/d-2080/p1=41921",
+      "nadpis": "Sportoviště a sportovní zařízení: Sport: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/drobne%2Dturisticke%2Dzajimavosti/d-17712/p1=41923",
+      "nadpis": "Drobné turistické zajímavosti: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/turisticke%2Dzajimavosti/d-2081/p1=41924",
+      "nadpis": "Turistické zajímavosti: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
         "doprava",
         "cyklo",
         "autobus",
         "vlak"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/tajemnik-meu/o-1013/p1=42163",
+      "nadpis": "Ing. Jiří Mareš: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
       ]
     },
     {
@@ -902,6 +629,58 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/oddeleni%2Dmajetku%2Da%2Dskolstvi/ms-42097/p1=42097",
+      "nadpis": "- Oddělení majetku a školství: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odpadove-hospodarstvi/ds-1548",
+      "nadpis": "Odpadové hospodářství: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "odpady",
+      "klicova_slova": [
+        "odpad",
+        "trideni",
+        "komunalni",
+        "bioodpad",
+        "kompost"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/vismo/isvs.asp",
+      "nadpis": "Povinně zveřejňované informace: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "komunalni",
+        "doprava",
+        "cyklo",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/spoluprace%2Ds%2Dpartnerskymi%2Dmesty/ds-1099/p1=42128",
+      "nadpis": "Spolupráce s partnerskými městy a EU: Spolupráce s partnerskými městy: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/vybory%2Dzastupitelstva%2Dmesta/os-1372/p1=42137",
       "nadpis": "Výbory zastupitelstva: Výbory zastupitelstva města: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
@@ -915,8 +694,34 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/dum%2Ddeti%2Da%2Dmladeze%2Dkamarad/os-1584/p1=41944",
-      "nadpis": "Dům dětí a mládeže KAMARÁD: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/mestska%2Dpolicie/os-1397/p1=42131",
+      "nadpis": "Městská policie: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "parkovani",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/sluzby/ms-41930/p1=41930",
+      "nadpis": "Služby: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zatepleni"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/kynologie%2Djavorka/d-3014/p1=41938",
+      "nadpis": "Kynologie Javorka: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -928,34 +733,34 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/dokumenty%2Dmesta%2Da%2Dmeu/ds-1001/p1=43149",
-      "nadpis": "Dokumenty města a MěÚ: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "url": "https://www.ceska-trebova.cz/kultura/ds-1139/p1=41982",
+      "nadpis": "Kultura: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
-        "svoz",
         "doprava",
         "cyklo",
-        "oze"
+        "oze",
+        "zelen"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/kontakt%2Da%2Dsluzby/os-1402/p1=41929",
-      "nadpis": "Turistické informační centrum Česká Třebová: Kontakt a služby: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
-      "kategorie": "doprava",
+      "url": "https://www.ceska-trebova.cz/stravovani%2Dkam%2Dna%2Dobed/os-1428",
+      "nadpis": "Stravování - Kam na oběd: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
         "doprava",
         "cyklo",
-        "autobus",
-        "vlak"
+        "oze",
+        "zelen"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/fotogalerie/gs-1018/p1=42123",
-      "nadpis": "Partnerská města: Fotogalerie: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/komise%2Drady%2Dmesta/ms-42143/p1=42143",
+      "nadpis": "Komise rady města: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -967,34 +772,47 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/projekty-opzp/ds-1460",
-      "nadpis": "Projekty OPŽP: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "odpady",
-      "klicova_slova": [
-        "odpad",
-        "trideni",
-        "komunalni",
-        "bioodpad",
-        "doprava"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/aspinclude/vismoweb5/reset/grafika.asp",
-      "nadpis": "Česká Třebová: Titulní stránka",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní obsah Vypnout grafiku Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Přeskočit nabídku Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové prohlášení rady města 2022 - 2026 [PDF, ",
+      "url": "https://www.ceska-trebova.cz/vedeni-mesta/os-1020/p1=42166",
+      "nadpis": "Vedení města: Starosta města: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
         "doprava",
         "cyklo",
         "oze",
-        "tepelne"
+        "zelen"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/utvar%2Dzivotniho%2Dprostredi/ms-42061/p1=42061",
-      "nadpis": "- Útvar životního prostředí: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/olawa%2Dpolsko/d-1882/p1=42126",
+      "nadpis": "Olawa, Polsko: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "komunalni",
+        "doprava",
+        "cyklo",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/svit%2Dslovensko/d-1884/p1=42125",
+      "nadpis": "Svit, Slovensko: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "komunalni",
+        "doprava",
+        "cyklo",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/spravni%2Dobvod%2Dorp/d-2968/p1=42051",
+      "nadpis": "Obce ve správním obvodu obce s rozšířenou působností Česká Třebová: Správní obvod ORP: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
       "kategorie": "strategie",
       "klicova_slova": [
@@ -1006,10 +824,62 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/propagacni%2Dmaterialy/d-23354/p1=41920",
-      "nadpis": "Stáhněte si propagační materiály o městě Česká Třebová: Propagační materiály: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "url": "https://www.ceska-trebova.cz/sportoviste%2Da%2Dsportovni%2Dzarizeni/d-2080/p1=41980",
+      "nadpis": "Sportoviště a sportovní zařízení: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
       "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/usneseni%2Drady%2Dmesta/ds-1016/p1=42142",
+      "nadpis": "Usnesení rady města: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/elektronicka%2Dpodatelna/d-1881/p1=42055",
+      "nadpis": "Údaje o provozu podatelny MěÚ Česká Třebová: Elektronická podatelna: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/dotace-z-rozpoctu-mesta/ds-1407/p1=43149",
+      "nadpis": "Dotace z rozpočtu města: Dokumenty města a MěÚ: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/arpo%2Dzdravotne%2Drelaxacni%2Dcentrum/d-13356/p1=41947",
+      "nadpis": "Domeček Arpo: Arpo - zdravotně-relaxační centrum: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
         "doprava",
@@ -1019,9 +889,126 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/kultura/ds-1139/p1=41982",
-      "nadpis": "Kultura: Česká Třebová",
+      "url": "https://www.ceska-trebova.cz/stravovani%2Dkam%2Dna%2Dobed/os-1428/p1=41951",
+      "nadpis": "Stravování - Kam na oběd: Česká Třebová",
       "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/napiste%2Dnam%2Da%2Dhlaseni%2Dzavad/d-19910/p1=43161",
+      "nadpis": "Napište nám a hlášení závad: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/vismo/mapovy-portal.asp",
+      "nadpis": "Česká Třebová: Mapový portál",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "kontejner",
+        "doprava",
+        "cyklo",
+        "parkovani"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/virtualni%2Dprohlidky/d-9602/p1=41912",
+      "nadpis": "Virtuální prohlídky: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/ztraty%2Da%2Dnalezy/ds-1281/archiv=0",
+      "nadpis": "Ztráty a nálezy: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "kontejner",
+        "doprava",
+        "cyklo",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/odbor%2Ddopravy%2Dspravnich%2Dagend%2Da%2Dobecni%2Dzivnostensky%2Durad/ms-42106/p1=42106",
+      "nadpis": "Odbor dopravy, správních agend a obecní živnostenský úřad: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Městský úřad Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "parkovani",
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zapis-do-ms-a-zs/ds-1406/archiv=1",
+      "nadpis": "Zápis do MŠ a ZŠ: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/kulturni%2Dcentrum/os-1392/p1=41989",
+      "nadpis": "Kulturní centrum: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/vismo/webkamera.asp",
+      "nadpis": "Česká Třebová: Webkamera",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/bc-petr-vytlacil/o-1826/p1=42157",
+      "nadpis": "Jiří Krnáč, BA (Hons): Hlavní inventarizační komise: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
@@ -1042,6 +1029,19 @@
         "cyklo",
         "oze",
         "zelen"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/urady%2Dskoly%2Da%2Dorganizace/ms-41990/p1=41990",
+      "nadpis": "Úřady, školy a organizace: Česká Třebová",
+      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Služby Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progr",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "doprava",
+        "cyklo",
+        "oze",
+        "zatepleni"
       ]
     }
   ]
