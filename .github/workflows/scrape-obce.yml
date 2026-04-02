@@ -1,0 +1,40 @@
+name: Scraping webu obce
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # každý den ve 3:00 UTC (5:00 letní čas CZ)
+  workflow_dispatch:        # možnost spustit ručně z GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repozitáře
+        uses: actions/checkout@v4
+
+      - name: Nastavení Pythonu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalace závislostí
+        run: pip install requests beautifulsoup4
+
+      - name: Spuštění scraperu
+        run: |
+          python scraping_webu.py \
+            https://www.ceska-trebova.cz \
+            --hloubka 2 \
+            --max-stranek 80 \
+            --zpozdeni 1.0 \
+            --vystup data_obce.json \
+            --nazev "Česká Třebová"
+
+      - name: Commit a push výsledků
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions [scraper]"
+          git add data_obce.json
+          git diff --staged --quiet || git commit -m "data: aktualizace webu obce $(date '+%Y-%m-%d')"
+          git push

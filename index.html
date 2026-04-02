@@ -439,6 +439,29 @@
     .cirek-speech.hidden { display:none; }
     @keyframes speechPop { from{opacity:0;transform:scale(.7) translateY(10px)} to{opacity:1;transform:none} }
     html.light .cirek-speech { background:#fff; box-shadow:0 6px 24px rgba(0,0,0,.18); }
+
+    /* ── AKTUALITY Z RADNICE ── */
+    .radnice-tabs { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:28px; }
+    .rtab { background:var(--card); border:1px solid var(--border); border-radius:20px; padding:7px 16px; font-size:.82rem; font-weight:600; color:var(--txt2); cursor:pointer; transition:all .2s; font-family:inherit; }
+    .rtab:hover { border-color:var(--purple); color:var(--purple); }
+    .rtab.active { background:var(--purple); border-color:var(--purple); color:#fff; }
+    .radnice-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:18px; min-height:120px; }
+    .radnice-card { background:var(--card); border:1px solid var(--border); border-radius:var(--radius); padding:20px 22px; display:flex; flex-direction:column; gap:10px; transition:border-color .2s,transform .2s; text-decoration:none; }
+    .radnice-card:hover { border-color:rgba(147,76,222,.4); transform:translateY(-2px); }
+    .radnice-card-kat { display:inline-flex; align-items:center; gap:5px; font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.06em; padding:3px 10px; border-radius:10px; width:fit-content; }
+    .kat-odpady    { background:rgba(0,215,153,.12); color:#00b37d; }
+    .kat-doprava   { background:rgba(59,130,246,.12); color:#3b82f6; }
+    .kat-energie   { background:rgba(245,158,11,.12); color:#d97706; }
+    .kat-priroda   { background:rgba(34,197,94,.12);  color:#16a34a; }
+    .kat-strategie { background:rgba(147,76,222,.12); color:var(--purple); }
+    .kat-ostatni   { background:rgba(150,150,150,.12);color:var(--txt2); }
+    .radnice-card-title { font-size:.95rem; font-weight:700; color:var(--txt); line-height:1.4; }
+    .radnice-card-ukazka { font-size:.82rem; color:var(--txt2); line-height:1.6; flex:1; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+    .radnice-card-link { font-size:.78rem; color:var(--green); font-weight:600; margin-top:4px; }
+    .radnice-loading { grid-column:1/-1; display:flex; align-items:center; justify-content:center; gap:14px; color:var(--txt2); padding:48px 0; font-size:.92rem; }
+    .radnice-spinner { width:22px; height:22px; border:3px solid var(--border); border-top-color:var(--purple); border-radius:50%; animation:spin .8s linear infinite; flex-shrink:0; }
+    @keyframes spin { to{transform:rotate(360deg)} }
+    .radnice-empty { grid-column:1/-1; text-align:center; color:var(--txt2); padding:48px 0; font-size:.92rem; }
     @media(max-width:600px){
       .chat-panel{ width:calc(100vw - 32px); }
       #chatWidget{ right:12px; }
@@ -459,6 +482,7 @@
     <li><a href="#insights" onclick="closeMenu()">Výsledky</a></li>
     <li><a href="#areas" onclick="closeMenu()">Oblasti</a></li>
     <li><a href="#quiz" onclick="closeMenu()">Kvíz</a></li>
+    <li><a href="#radnice" onclick="closeMenu()">Z radnice</a></li>
     <li><a href="#sken" onclick="closeMenu()">Co je Cirkulární sken</a></li>
   </ul>
   <div class="nav-actions">
@@ -707,6 +731,44 @@
         <p style="color:var(--txt2);font-size:1rem;max-width:540px;line-height:1.65;">Každý pytlík tříděného odpadu, každá cesta pěšky nebo na kole, každý nákup u místního výrobce – to všechno se odráží v číslech, která vidíte na této stránce. Nepřestávejte. Cirkulární Česká Třebová se buduje každý den.</p>
       </div>
       <a href="#quiz" class="btn-green" style="white-space:nowrap;font-size:1rem;padding:14px 28px;">Zjisti svůj cirkulární index →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ AKTUALITY Z RADNICE ══════════════════════════════════ -->
+<section id="radnice" style="background:var(--dark2);">
+  <div class="container">
+    <div style="display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:16px;margin-bottom:36px;">
+      <div>
+        <p class="section-label">Živá data z webu města</p>
+        <h2 style="margin-bottom:8px;">Co město aktuálně řeší</h2>
+        <p class="lead" style="margin:0;">Stránky z webu Česká Třebová relevantní pro cirkulární témata – aktualizováno každý den automaticky.</p>
+      </div>
+      <div id="radnice-meta" style="font-size:.78rem;color:var(--txt2);text-align:right;line-height:1.7;flex-shrink:0;"></div>
+    </div>
+
+    <!-- Filtrovací záložky -->
+    <div class="radnice-tabs" id="radniceTabs">
+      <button class="rtab active" data-kat="vse" onclick="filterRadnice('vse',this)">Vše</button>
+      <button class="rtab" data-kat="odpady" onclick="filterRadnice('odpady',this)">♻️ Odpady</button>
+      <button class="rtab" data-kat="doprava" onclick="filterRadnice('doprava',this)">🚲 Doprava</button>
+      <button class="rtab" data-kat="energie" onclick="filterRadnice('energie',this)">⚡ Energie</button>
+      <button class="rtab" data-kat="priroda" onclick="filterRadnice('priroda',this)">🌿 Příroda</button>
+      <button class="rtab" data-kat="strategie" onclick="filterRadnice('strategie',this)">📋 Strategie</button>
+    </div>
+
+    <!-- Grid karet -->
+    <div class="radnice-grid" id="radniceGrid">
+      <div class="radnice-loading" id="radniceLoading">
+        <div class="radnice-spinner"></div>
+        <span>Načítám data z webu obce…</span>
+      </div>
+    </div>
+
+    <div style="margin-top:24px;text-align:center;">
+      <a href="https://www.ceska-trebova.cz" target="_blank" rel="noopener" class="btn-outline" style="font-size:.85rem;">
+        Přejít na web města →
+      </a>
     </div>
   </div>
 </section>
@@ -1754,6 +1816,90 @@ document.addEventListener('DOMContentLoaded',function(){
   const inp=document.getElementById('chatInput');
   if(inp) inp.addEventListener('keydown',function(e){ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); sendChatMessage(); } });
 });
+
+// ── AKTUALITY Z RADNICE ──────────────────────────────────────
+const KAT_LABELS = {
+  odpady:    '♻️ Odpady',
+  doprava:   '🚲 Doprava',
+  energie:   '⚡ Energie',
+  priroda:   '🌿 Příroda',
+  strategie: '📋 Strategie',
+  ostatni:   '📄 Ostatní',
+};
+
+let _radniceData = [];
+let _radniceKat  = 'vse';
+
+async function nactiRadnici() {
+  try {
+    const res = await fetch('./data_obce.json?t=' + Date.now());
+    if (!res.ok) throw new Error('not found');
+    const data = await res.json();
+    _radniceData = data.stranky || [];
+
+    // Meta info (datum aktualizace + počet stránek)
+    const meta = document.getElementById('radnice-meta');
+    if (meta) {
+      const dt = data.aktualizovano
+        ? new Date(data.aktualizovano).toLocaleDateString('cs-CZ', { day:'numeric', month:'long', year:'numeric' })
+        : '—';
+      meta.innerHTML = `Aktualizováno: <strong>${dt}</strong><br>Nalezeno stránek: <strong>${_radniceData.length}</strong>`;
+    }
+
+    renderRadnice(_radniceKat);
+  } catch {
+    // data_obce.json ještě neexistuje (první spuštění před GitHub Actions)
+    document.getElementById('radniceGrid').innerHTML =
+      '<div class="radnice-empty">Data se načtou po prvním spuštění automatického scraperu (každý den v 5:00).<br>Pro ruční spuštění viz záložku <em>Actions</em> v GitHub repozitáři.</div>';
+    const meta = document.getElementById('radnice-meta');
+    if (meta) meta.innerHTML = 'Data zatím nejsou k dispozici';
+  }
+}
+
+function renderRadnice(kat) {
+  _radniceKat = kat;
+  const grid = document.getElementById('radniceGrid');
+  if (!grid) return;
+
+  const stranky = kat === 'vse'
+    ? _radniceData
+    : _radniceData.filter(s => s.kategorie === kat);
+
+  if (stranky.length === 0) {
+    grid.innerHTML = '<div class="radnice-empty">Pro tuto kategorii zatím žádné stránky nenalezeny.</div>';
+    return;
+  }
+
+  grid.innerHTML = stranky.slice(0, 9).map(s => {
+    const katLabel = KAT_LABELS[s.kategorie] || KAT_LABELS.ostatni;
+    const katClass = 'kat-' + (s.kategorie || 'ostatni');
+    const nadpis   = escapeHtml(s.nadpis || s.url);
+    const ukazka   = escapeHtml((s.ukazka || '').trim());
+    const url      = escapeHtml(s.url);
+    return `
+      <a class="radnice-card" href="${url}" target="_blank" rel="noopener">
+        <span class="radnice-card-kat ${katClass}">${katLabel}</span>
+        <div class="radnice-card-title">${nadpis}</div>
+        <div class="radnice-card-ukazka">${ukazka}</div>
+        <div class="radnice-card-link">Číst na webu města →</div>
+      </a>`;
+  }).join('');
+}
+
+function filterRadnice(kat, btn) {
+  document.querySelectorAll('.rtab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderRadnice(kat);
+}
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
+}
+
+// Spustit po načtení stránky
+document.addEventListener('DOMContentLoaded', nactiRadnici);
 
 </script>
 </body>
