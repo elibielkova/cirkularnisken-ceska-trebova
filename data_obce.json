@@ -1,150 +1,77 @@
 {
-  "aktualizovano": "2026-04-02T12:27:17Z",
+  "aktualizovano": "2026-04-03T06:52:17Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 11,
+  "pocet_stranek": 6,
   "stranky": [
     {
-      "url": "https://www.ceska-trebova.cz",
-      "nadpis": "Česká Třebová: Titulní stránka",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní obsah Vypnout grafiku Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Přeskočit nabídku Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové prohlášení rady města 2022 - 2026 [PDF, ",
-      "kategorie": "strategie",
+      "url": "https://www.ceska-trebova.cz/dp",
+      "nadpis": "Přehled dokumentů: Česká Třebová",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8565 záznamů na stránce: -1- 2 3 4 5 ... 571 Oznámení o přerušení dodávky el. energie dne 22.04.2026 [PDF, 446 kB] (2.4.2026) Složka dokumentů: Oznámení o přerušení dodávky elektrické energie Společnost TEZA přijme do svých řad nové zaměstnance [PDF, 188 kB] (2.4.2026) Hledá se technik tepelného hospodářství, obsluha dispečinku a kotelen, instalatér, tope",
+      "kategorie": "energie",
       "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
         "oze",
-        "tepelne"
+        "tepelne",
+        "voda",
+        "projekt",
+        "grant"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
+      "url": "https://www.ceska-trebova.cz/vismo/kalendar.asp?id_org=2175",
+      "nadpis": "Kalendář akcí: Česká Třebová",
+      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Březen 2026 Duben 2026 Květen 2026 >> Po Út St Čt Pá So Ne 13. týden 30 Kino Ostatní Výstava 31 Divadlo Ostatní Výstava 1 Kino Koncert Ostatní Turistika Výstava 2 Divadlo Ostatní Tu",
       "kategorie": "strategie",
       "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
+        "plan"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/uredni-deska/2",
+      "nadpis": "Úřední deska: Česká Třebová",
+      "ukazka": "Úřední deska Na elektronické úřední desce je zveřejňován obsah úřední desky MěÚ Česká Třebová podle § 26 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Obsah má informativní charakter. Veškeré dokumenty, které podléhají zveřejnění ze zákona, musí být zveřejněny jak na interaktivní, tak na internetové úřední desce ve stejném časovém období. Oznámení dle zákona č.250/2000 Sb., o ",
+      "kategorie": "energie",
       "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "parkovani",
-        "vlak"
+        "oze"
       ]
     },
     {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
       "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
-        "doprava",
-        "cyklo",
         "oze",
-        "zelen"
+        "zelen",
+        "park",
+        "voda"
       ]
     },
     {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
-        "doprava",
-        "cyklo",
         "oze",
-        "zelen"
+        "voda",
+        "sad",
+        "plan"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dic/ds-1167/p1=41928",
-      "nadpis": "Provozní doba Krytého plaveckého bazénu Únor 2026: Zpravodajství IC: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Turistika Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Pr",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3124 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 1.4.2026 Nadační fond HOMERUN vyhlásil grantovou výzvu pro letní semestr 2026 Nadační fond HOMERUN Pardubického kraje podporuje mladé talenty, kteří chtějí studovat, růst a jednou se vrátit zpět silnější, zkušenější a s chutí něco změnit ve svém regionu. Protože úspěch neznam",
       "kategorie": "priroda",
       "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
+        "parkovani",
+        "vlak",
         "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Del%2Denergie%2Ddne%2D16%2D04%2D2026/d-46554",
-      "nadpis": "Oznámení o přerušení dodávky el. energie dne 16.04.2026: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dz%2Dmeu/ds-1164/archiv=0",
-      "nadpis": "Zpravodajství z MěÚ: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=2",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie - archiv dokumentů: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Programové pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/tiskova%2Dkonference%2Dv%2Dpraze%2Dpredstavila%2Dnovou%2Dinscenaci%2Dceskotrebovskeho%2Dtriaria/d-46518/p1=42167",
-      "nadpis": "Tisková konference v Praze představila novou inscenaci českotřebovského TRIARIA: Zpravodajství města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "svoz",
-        "doprava",
-        "cyklo",
-        "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dkomisi%2Drady%2Dmesta/ds-1645/archiv=0&p1=42167",
-      "nadpis": "Zpravodajství komisí rady města: Zpravodajství města: Česká Třebová",
-      "ukazka": "Orientační nabídka Hlavní nabídka - rozcestník Hlavní nabídka: Město Hlavní obsah Vypnout grafiku Česká Třebová (odkaz na titulní stránku) Město Česká Třebová - Oficiální web Sociální sítě Hlavní nabídka Město Zpravodajství města Vedení města Starosta města I. místostarostka města II. místostarosta města Rada města Složení rady města Komise rady města Usnesení rady města Nařízení rady města Progra",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "doprava",
-        "cyklo",
-        "oze",
-        "zelen"
+        "park",
+        "voda"
       ]
     }
   ]
