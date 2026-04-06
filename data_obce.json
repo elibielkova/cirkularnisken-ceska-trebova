@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-04-05T06:48:06Z",
+  "aktualizovano": "2026-04-06T08:13:36Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -36,6 +36,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
       "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
@@ -49,16 +62,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
       "nadpis": "Zpravodajství města: Česká Třebová",
       "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3124 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 1.4.2026 Nadační fond HOMERUN vyhlásil grantovou výzvu pro letní semestr 2026 Nadační fond HOMERUN Pardubického kraje podporuje mladé talenty, kteří chtějí studovat, růst a jednou se vrátit zpět silnější, zkušenější a s chutí něco změnit ve svém regionu. Protože úspěch neznam",
-      "kategorie": "strategie",
+      "kategorie": "priroda",
       "klicova_slova": [
-        "odpad",
         "parkovani",
         "vlak",
         "oze",
-        "park"
+        "park",
+        "voda"
       ]
     },
     {
@@ -69,19 +82,6 @@
       "klicova_slova": [
         "oze",
         "voda",
-        "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
         "plan"
       ]
     }
