@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-04-06T08:13:36Z",
+  "aktualizovano": "2026-04-07T07:00:59Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -7,13 +7,12 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8562 záznamů na stránce: -1- 2 3 4 5 ... 571 Oznámení o přerušení dodávky el. energie dne 22.04.2026 [PDF, 446 kB] (2.4.2026) Složka dokumentů: Oznámení o přerušení dodávky elektrické energie Společnost TEZA přijme do svých řad nové zaměstnance [PDF, 188 kB] (2.4.2026) Hledá se technik tepelného hospodářství, obsluha dispečinku a kotelen, instalatér, tope",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8558 záznamů na stránce: -1- 2 3 4 5 ... 571 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská (7.4.2026) V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna probíhat výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrubí v délce 74,8 m. Složka dokumentů: Z",
       "kategorie": "energie",
       "klicova_slova": [
         "oze",
         "tepelne",
         "voda",
-        "projekt",
         "grant"
       ]
     },
@@ -30,22 +29,10 @@
       "url": "https://www.ceska-trebova.cz/uredni-deska/2",
       "nadpis": "Úřední deska: Česká Třebová",
       "ukazka": "Úřední deska Na elektronické úřední desce je zveřejňován obsah úřední desky MěÚ Česká Třebová podle § 26 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Obsah má informativní charakter. Veškeré dokumenty, které podléhají zveřejnění ze zákona, musí být zveřejněny jak na interaktivní, tak na internetové úřední desce ve stejném časovém období. Oznámení dle zákona č.250/2000 Sb., o ",
-      "kategorie": "energie",
+      "kategorie": "doprava",
       "klicova_slova": [
+        "chodnik",
         "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
       ]
     },
     {
@@ -64,7 +51,7 @@
     {
       "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
       "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3124 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 1.4.2026 Nadační fond HOMERUN vyhlásil grantovou výzvu pro letní semestr 2026 Nadační fond HOMERUN Pardubického kraje podporuje mladé talenty, kteří chtějí studovat, růst a jednou se vrátit zpět silnější, zkušenější a s chutí něco změnit ve svém regionu. Protože úspěch neznam",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3125 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 7.4.2026 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna probíhat výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrubí v",
       "kategorie": "priroda",
       "klicova_slova": [
         "parkovani",
@@ -72,6 +59,19 @@
         "oze",
         "park",
         "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
       ]
     },
     {
