@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-04-07T07:00:59Z",
+  "aktualizovano": "2026-04-08T08:02:22Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -7,7 +7,7 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8558 záznamů na stránce: -1- 2 3 4 5 ... 571 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská (7.4.2026) V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna probíhat výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrubí v délce 74,8 m. Složka dokumentů: Z",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8554 záznamů na stránce: -1- 2 3 4 5 ... 571 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská (7.4.2026) V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna realizována výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrubí v délce 74,8 m. Složka dokumentů",
       "kategorie": "energie",
       "klicova_slova": [
         "oze",
@@ -29,36 +29,22 @@
       "url": "https://www.ceska-trebova.cz/uredni-deska/2",
       "nadpis": "Úřední deska: Česká Třebová",
       "ukazka": "Úřední deska Na elektronické úřední desce je zveřejňován obsah úřední desky MěÚ Česká Třebová podle § 26 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Obsah má informativní charakter. Veškeré dokumenty, které podléhají zveřejnění ze zákona, musí být zveřejněny jak na interaktivní, tak na internetové úřední desce ve stejném časovém období. Oznámení dle zákona č.250/2000 Sb., o ",
-      "kategorie": "doprava",
+      "kategorie": "energie",
       "klicova_slova": [
-        "chodnik",
         "oze"
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3125 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 7.4.2026 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna realizována výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrub",
+      "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
-        "oze",
-        "zelen",
-        "park",
-        "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3125 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 7.4.2026 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna probíhat výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrubí v",
-      "kategorie": "priroda",
-      "klicova_slova": [
         "parkovani",
         "vlak",
         "oze",
-        "park",
-        "voda"
+        "park"
       ]
     },
     {
@@ -83,6 +69,19 @@
         "oze",
         "voda",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "zelen",
+        "park",
+        "voda"
       ]
     }
   ]
