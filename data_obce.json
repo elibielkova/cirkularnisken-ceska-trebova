@@ -1,18 +1,19 @@
 {
-  "aktualizovano": "2026-04-08T08:02:22Z",
+  "aktualizovano": "2026-04-09T08:06:38Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8554 záznamů na stránce: -1- 2 3 4 5 ... 571 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská (7.4.2026) V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna realizována výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrubí v délce 74,8 m. Složka dokumentů",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8557 záznamů na stránce: -1- 2 3 4 5 ... 571 Na náměstí přijely kolotoče (9.4.2026) Tento týden do klidové zóny na Starém náměstí přijeli kolotočáři, které zde najdete až do neděle 19. dubna. Kromě různých atrakcí je na místě také prodej cukrové vaty a popcornu. Složka dokumentů: Zpravodajství města Veřejná vyhláška - opatření obecné povahy (8.4.2026) Slo",
       "kategorie": "energie",
       "klicova_slova": [
         "oze",
         "tepelne",
         "voda",
+        "plan",
         "grant"
       ]
     },
@@ -35,19 +36,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3125 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 7.4.2026 Příští týden začnou práce na přeložce plynovodu a vodovodu v ulici Kozlovská V souvislostí s probíhající modernizací železničního uzlu bude od 13. dubna realizována výšková přeložka stávajícího vodovodního řadu a plynovodu. Nový vodovodní řad bude z plastového potrub",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "parkovani",
-        "vlak",
-        "oze",
-        "park"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
@@ -61,12 +49,14 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
-      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 2.4.2026 Oznámení o přerušení dodávky el. energie dne 22.04.2026 [PDF, 446 kB] Hana Šťastná 27.3.2026 Oznámení o přerušení dodávky el. energie dne 16.04.2026 Ing. Jiří Mareš 25.3.2026 Oznámení o přerušení dodávky el. energie dne 15.04.2026 [PDF,",
-      "kategorie": "energie",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3128 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 9.4.2026 Na náměstí přijely kolotoče Tento týden do klidové zóny na Starém náměstí přijeli kolotočáři, které zde najdete až do neděle 19. dubna. Kromě různých atrakcí je na místě také prodej cukrové vaty a popcornu. Bc. Jiří Holý 8.4.2026 Informace o plánované odstávce vody [",
+      "kategorie": "strategie",
       "klicova_slova": [
+        "parkovani",
         "oze",
+        "park",
         "voda",
         "plan"
       ]
