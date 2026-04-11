@@ -1,20 +1,20 @@
 {
-  "aktualizovano": "2026-04-10T08:11:59Z",
+  "aktualizovano": "2026-04-11T06:16:53Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 6,
+  "pocet_stranek": 7,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8561 záznamů na stránce: -1- 2 3 4 5 ... 571 Veřejná vyhláška, opatření obecné povahy - přechodná úprava provozu na silnici I/14, Česká Třebová (10.4.2026) Složka dokumentů: Různé Kraj hledá dodavatele pro stavbu výjezdové základny záchranky v České Třebové (9.4.2026) Další důležitý krok k výstavbě nové výjezdové základny Zdravotnické záchranné služby Par",
-      "kategorie": "energie",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8560 záznamů na stránce: -1- 2 3 4 5 ... 571 Tento víkend končí hlasování letošního ročníku participativního rozpočtu (11.4.2026) Na přelomu minulého a letošního roku probíhal navrhovací proces, v rámci kterého bylo možné přihlásit svůj projekt do V. ročníku participativního rozpočtu města. Po následné kontrole proveditelnosti do hlasování postupuje pětic",
+      "kategorie": "strategie",
       "klicova_slova": [
-        "oze",
+        "odpad",
         "tepelne",
+        "park",
         "voda",
-        "plan",
-        "grant"
+        "plan"
       ]
     },
     {
@@ -32,7 +32,32 @@
       "ukazka": "Úřední deska Na elektronické úřední desce je zveřejňován obsah úřední desky MěÚ Česká Třebová podle § 26 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Obsah má informativní charakter. Veškeré dokumenty, které podléhají zveřejnění ze zákona, musí být zveřejněny jak na interaktivní, tak na internetové úřední desce ve stejném časovém období. Oznámení dle zákona č.250/2000 Sb., o ",
       "kategorie": "energie",
       "klicova_slova": [
-        "oze"
+        "oze",
+        "park"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3131 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 10.4.2026 Cirkulární sken města Česká Třebová zhodnotil jeho silné a slabé stránky Českotřebovští radní na konci března vzali na vědomí dokument s názvem Cirkulární sken města Česká Třebová. Jedná se o analytický nástroj, který mapuje, jak efektivně město hospodaří se zdroji,",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "sad"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
+      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
+      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 2.4.2026 Oznámení o přerušení dodávky el. energie dne 22.04.2026 [PDF, 446 kB] Hana Šťastná 27.3.2026 Oznámení o přerušení dodávky el. energie dne 16.04.2026 Ing. Jiří Mareš 25.3.2026 Oznámení o přerušení dodávky el. energie dne 15.04.2026 [PDF,",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "park",
+        "voda",
+        "plan"
       ]
     },
     {
@@ -56,22 +81,9 @@
       "klicova_slova": [
         "odpad",
         "oze",
-        "voda",
-        "sad",
-        "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3130 záznamů na stránce: -1- 2 3 4 5 ... 209 Změněno Název a anotace Zodpovídá 9.4.2026 Kraj hledá dodavatele pro stavbu výjezdové základny záchranky v České Třebové Další důležitý krok k výstavbě nové výjezdové základny Zdravotnické záchranné služby Pardubického kraje v České Třebové učinili krajští radní na pondělním jednání. Na něm bylo schváleno výb",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "parkovani",
-        "oze",
         "park",
         "voda",
-        "plan"
+        "sad"
       ]
     }
   ]
