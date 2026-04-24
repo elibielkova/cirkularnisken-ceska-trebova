@@ -1,13 +1,13 @@
 {
-  "aktualizovano": "2026-04-23T05:20:33Z",
+  "aktualizovano": "2026-04-24T05:25:36Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8577 záznamů na stránce: -1- 2 3 4 5 ... 572 Radniční výtah je dočasně mimo provoz (23.4.2026) Informujeme občany, že výtah v budově Městského úřadu Česká Třebová na Starém náměstí tento týden prochází modernizací. Jeho opětovné zprovoznění je předpokládáno v pátek 24. dubna. Složka dokumentů: Zpravodajství města Vyrozumění zahájení řízení o záměru - \"UO,",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8582 záznamů na stránce: -1- 2 3 4 5 ... 573 Poskytnutí informace - počet zaměstnanců OSPOD [PDF, 154 kB] (23.4.2026) Datum poskytnutí informace je 22.04.2026 Datum zveřejnění informace je 23.04.2026 Složka dokumentů: Informace poskytnuté v roce 2026 Radniční výtah je dočasně mimo provoz (23.4.2026) Informujeme občany, že výtah v budově Městského úřadu Če",
       "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
@@ -36,6 +36,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3147 záznamů na stránce: -1- 2 3 4 5 ... 210 Změněno Název a anotace Zodpovídá 22.4.2026 Používání aplikace Chatbot ČeTík Tato aplikace využívá technologii umělé inteligence, která pomáhá automaticky zpracovávat dotazy a generovat odpovědi. Je ale důležité vědět, že výsledky nemusí být vždy stoprocentně přesné, úplné nebo aktuální. Odpovědi mohou být ov",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "kontejner",
+        "cyklo",
+        "oze",
+        "zelen"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
       "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
@@ -59,30 +72,6 @@
         "voda",
         "sad",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
-      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 22.4.2026 Oznámení o přerušení dodávky el. energie dne 13.05.2026 [PDF, 446 kB] Hana Šťastná 15.4.2026 Oznámení o přerušení dodávky el. energie dne 05.05.2026 [PDF, 707 kB] Hana Šťastná 22.3.2021 Léta s letáky končí ČEZ DISTRIBUCE mění způsob oz",
-      "kategorie": "energie",
-      "klicova_slova": [
-        "oze",
-        "voda",
-        "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3146 záznamů na stránce: -1- 2 3 4 5 ... 210 Změněno Název a anotace Zodpovídá 22.4.2026 Místní komunita na Borku podnikla úklidovou akci V sobotu 18. dubna proběhl velký úklid na sídlišti Borek, kterého se pod vedením asistentek prevence kriminality paní Bílé a Behemské zúčastnily místní děti a někteří další obyvatelé sídliště. Počasí úklidu přálo, pyt",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "kontejner",
-        "cyklo",
-        "parkovani",
-        "oze"
       ]
     }
   ]
