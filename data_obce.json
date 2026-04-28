@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-04-27T05:43:15Z",
+  "aktualizovano": "2026-04-28T05:48:25Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,7 +7,7 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 8588 záznamů na stránce: -1- 2 3 4 5 ... 573 Informační leták: Proč je dobré mít datovou schránku? [PDF, 563 kB] (25.4.2026) Přihlášením do systému datových schránek Identitou občana (bankovní identita, NIA ID, Mobilní klíč eGovernmentu) získáte přístup do všech vámi spravovaných datových schránek. Složka dokumentů: Zpravodajství města Povinně zveřejňovan",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7881 záznamů na stránce: -1- 2 3 4 5 ... 526 Veřejná vyhláška - hromadný předpisný seznam - daň z nemovitých věcí na rok 2026 [PDF, 105 kB] (27.4.2026) Složka dokumentů: Různé Informační leták: Proč je dobré mít datovou schránku? [PDF, 563 kB] (25.4.2026) Přihlášením do systému datových schránek Identitou občana (bankovní identita, NIA ID, Mobilní klíč eG",
       "kategorie": "odpady",
       "klicova_slova": [
         "odpad",
@@ -34,16 +34,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
+      "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
         "oze",
-        "zelen",
-        "park",
-        "voda"
+        "voda",
+        "sad",
+        "plan"
       ]
     },
     {
@@ -60,16 +60,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
-      "kategorie": "strategie",
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
+      "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
         "oze",
-        "voda",
-        "sad",
-        "plan"
+        "zelen",
+        "park",
+        "voda"
       ]
     }
   ]
