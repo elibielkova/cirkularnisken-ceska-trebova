@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-05-04T05:53:15Z",
+  "aktualizovano": "2026-05-05T05:32:30Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,11 +7,12 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7634 záznamů na stránce: -1- 2 3 4 5 ... 509 Orlickoústeckou nemocnici omezí odstávka elektrické energie. ČEZ bude 6. 5. provádět plánované práce na zařízení distribuční soustavy (30.4.2026) Ve středu 6. května proběhne v Orlickoústecké nemocnici od 11.30 do 15.00 plánovaná odstávka elektrické energie. Důvodem jsou plánované práce na zařízení distribuční ",
-      "kategorie": "doprava",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7631 záznamů na stránce: -1- 2 3 4 5 ... 509 Pod Robovým kopcem začaly práce na nové komunikaci (4.5.2026) V rámci plánované výstavby rodinných domů v dolní části Robova kopce dnes investor započal s budováním komunikací k jednotlivým parcelám. V současné době dochází k výstavbě vsakovacího objektu pro dešťovou vodu, který se bude nacházet v okrajové část",
+      "kategorie": "priroda",
       "klicova_slova": [
         "chodnik",
         "oze",
+        "park",
         "voda",
         "plan"
       ]
@@ -36,16 +37,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
-      "kategorie": "strategie",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3155 záznamů na stránce: -1- 2 3 4 5 ... 211 Změněno Název a anotace Zodpovídá 4.5.2026 Pod Robovým kopcem začaly práce na nové komunikaci V rámci plánované výstavby rodinných domů v dolní části Robova kopce dnes investor započal s budováním komunikací k jednotlivým parcelám. V současné době dochází k výstavbě vsakovacího objektu pro dešťovou vodu, kter",
+      "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
+        "kontejner",
         "oze",
-        "voda",
-        "sad",
-        "plan"
+        "zelen",
+        "park"
       ]
     },
     {
@@ -62,16 +63,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3154 záznamů na stránce: -1- 2 3 4 5 ... 211 Změněno Název a anotace Zodpovídá 30.4.2026 Orlickoústeckou nemocnici omezí odstávka elektrické energie. ČEZ bude 6. 5. provádět plánované práce na zařízení distribuční soustavy Ve středu 6. května proběhne v Orlickoústecké nemocnici od 11.30 do 15.00 plánovaná odstávka elektrické energie. Důvodem jsou plánov",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
+      "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
-        "kontejner",
         "oze",
-        "zelen",
-        "voda"
+        "voda",
+        "sad",
+        "plan"
       ]
     }
   ]
