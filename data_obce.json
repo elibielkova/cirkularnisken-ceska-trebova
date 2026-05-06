@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-05-05T05:32:30Z",
+  "aktualizovano": "2026-05-06T05:47:20Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,7 +7,7 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7631 záznamů na stránce: -1- 2 3 4 5 ... 509 Pod Robovým kopcem začaly práce na nové komunikaci (4.5.2026) V rámci plánované výstavby rodinných domů v dolní části Robova kopce dnes investor započal s budováním komunikací k jednotlivým parcelám. V současné době dochází k výstavbě vsakovacího objektu pro dešťovou vodu, který se bude nacházet v okrajové část",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7632 záznamů na stránce: -1- 2 3 4 5 ... 509 Veřejná vyhláška - opatření obecné povahy - místní úprava provozu [PDF, 402 kB] (5.5.2026) Složka dokumentů: Různé Stanovení místní úpravy provozu na pozemních komunikacích - dopravní značení na ul. Lhotka před čp. 123 a ul. Chorinova před Kaplí Panny Marie (5.5.2026) Složka dokumentů: Odbor stavební a životníh",
       "kategorie": "priroda",
       "klicova_slova": [
         "chodnik",
@@ -37,19 +37,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3155 záznamů na stránce: -1- 2 3 4 5 ... 211 Změněno Název a anotace Zodpovídá 4.5.2026 Pod Robovým kopcem začaly práce na nové komunikaci V rámci plánované výstavby rodinných domů v dolní části Robova kopce dnes investor započal s budováním komunikací k jednotlivým parcelám. V současné době dochází k výstavbě vsakovacího objektu pro dešťovou vodu, kter",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "kontejner",
-        "oze",
-        "zelen",
-        "park"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
       "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
@@ -73,6 +60,19 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3155 záznamů na stránce: -1- 2 3 4 5 ... 211 Změněno Název a anotace Zodpovídá 4.5.2026 Pod Robovým kopcem začaly práce na nové komunikaci V rámci plánované výstavby rodinných domů v dolní části Robova kopce dnes investor započal s budováním komunikací k jednotlivým parcelám. V současné době dochází k výstavbě vsakovacího objektu pro dešťovou vodu, kter",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "kontejner",
+        "oze",
+        "zelen",
+        "park"
       ]
     }
   ]
