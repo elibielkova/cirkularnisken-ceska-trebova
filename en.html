@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cirkulární sken – Česká Třebová</title>
+  <title>Circular Scan – Česká Třebová</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,400;1,600&display=swap" rel="stylesheet">
@@ -460,18 +460,18 @@
     <img src="Logo%20cirkul%C3%A1rn%C3%AD%20hub/CE%20HUB%20loga-2/CE%20logo%201%20radek/CE_HUB_1r_bile_RGB.png" alt="CE Hub" />
   </div>
   <ul class="nav-links" id="navLinks">
-    <li><a href="#insights" onclick="closeMenu()">Výsledky</a></li>
-    <li><a href="#areas" onclick="closeMenu()">Oblasti</a></li>
-    <li><a href="#quiz" onclick="closeMenu()">Kvíz</a></li>
-    <li><a href="#sken" onclick="closeMenu()">Co je Cirkulární sken</a></li>
+    <li><a href="#insights" onclick="closeMenu()">Results</a></li>
+    <li><a href="#areas" onclick="closeMenu()">Areas</a></li>
+    <li><a href="#quiz" onclick="closeMenu()">Quiz</a></li>
+    <li><a href="#sken" onclick="closeMenu()">About</a></li>
   </ul>
   <div class="nav-actions">
-    <a href="en.html" class="lang-switch" title="Switch to English">EN</a>
-    <button class="btn-chat-nav" onclick="openChat()" title="Zeptat se asistenta">
+    <a href="index.html" class="lang-switch" title="Přepnout do češtiny">CZ</a>
+    <button class="btn-chat-nav" onclick="openChat()" title="Ask the assistant">
       <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-      Asistent
+      Assistant
     </button>
-    <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Přepnout téma" title="Světlý / tmavý režim">🌙</button>
+    <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Toggle theme" title="Light / dark mode">🌙</button>
     <button class="nav-burger" onclick="toggleMenu()" aria-label="Menu">☰</button>
   </div>
 </nav>
@@ -485,23 +485,23 @@
 
       <!-- LEFT: text -->
       <div>
-        <p class="section-label" style="margin-bottom:10px;">Výsledky cirkulárního skenu pro město Česká Třebová</p>
+        <p class="section-label" style="margin-bottom:10px;">Circular Scan results for the city of Česká Třebová</p>
         <div class="hero-tag">
           <span class="hero-dot"></span>
-          leden 2026
+          January 2026
         </div>
 
         <h1>
-          Česká Třebová snížila<br>
-          <span class="hero-tagline">komunální odpad o třetinu.</span>
+          Česká Třebová reduced<br>
+          <span class="hero-tagline">municipal waste by a third.</span>
         </h1>
         <p class="hero-sub">
-          Tříděný odpad, cesty na kole, místní výrobci – každé vaše rozhodnutí se odráží v těchto výsledcích.
+          Sorted waste, cycling routes, local producers – every decision you make is reflected in these results.
         </p>
         <div class="hero-ctas">
-          <a href="#insights" class="btn-primary">Jak si město vede</a>
-          <a href="#quiz" class="btn-green">Zjisti svůj cirkulární index →</a>
-          <a href="%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1%20-%20souhrn%20v%C5%A1ech%20oblast%C3%AD.-canva-vystup.pdf" target="_blank" class="btn-outline">📄 Celý dokument</a>
+          <a href="#insights" class="btn-primary">How the city performs</a>
+          <a href="#quiz" class="btn-green">Find your circular index →</a>
+          <a href="%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1%20-%20souhrn%20v%C5%A1ech%20oblast%C3%AD.-canva-vystup.pdf" target="_blank" class="btn-outline">📄 Full report</a>
         </div>
       </div>
 
@@ -509,7 +509,7 @@
       <div class="hero-gauge-side">
         <div class="gauge-city-row">
           <div class="city-znak-medallion">
-            <img src="Znak%20t%C5%99ebov%C3%A1/328_ceska-trebova_histor_znak-2.jpg" alt="Znak Česká Třebová" />
+            <img src="Znak%20t%C5%99ebov%C3%A1/328_ceska-trebova_histor_znak-2.jpg" alt="Coat of arms – Česká Třebová" />
           </div>
           <span class="gauge-city-name">Česká Třebová</span>
         </div>
@@ -526,8 +526,8 @@
           <text class="gauge-val" x="140" y="120" id="gaugeNum">0%</text>
         </svg>
         <div class="gauge-below">
-          <span class="gauge-lbl-main">celková míra cirkularity</span>
-          <div><span class="gauge-badge-good">↑ Výborný výsledek</span></div>
+          <span class="gauge-lbl-main">overall circularity rate</span>
+          <div><span class="gauge-badge-good">↑ Excellent result</span></div>
         </div>
       </div>
 
@@ -537,13 +537,13 @@
   <!-- Photo strip at bottom -->
   <div class="hero-photos">
     <div class="hero-photo-item">
-      <img src="Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/01-1.jpg" alt="Česká Třebová – náměstí" />
+      <img src="Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/01-1.jpg" alt="Česká Třebová – town square" />
     </div>
     <div class="hero-photo-item">
-      <img src="Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/lrg_img_4681.jpg" alt="Česká Třebová – historické centrum" />
+      <img src="Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/lrg_img_4681.jpg" alt="Česká Třebová – historic centre" />
     </div>
     <div class="hero-photo-item">
-      <img src="Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/225772f26910d35028fcdbff99ebcc4a.jpg" alt="Česká Třebová – pohled na město" />
+      <img src="Foto%20%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1/225772f26910d35028fcdbff99ebcc4a.jpg" alt="Česká Třebová – city view" />
     </div>
   </div>
 </section>
@@ -551,34 +551,34 @@
 <!-- ═══ INSIGHTS (carousel) ════════════════════════════ -->
 <section id="insights" class="photo-bg photo-bg-1">
   <div class="container">
-    <p class="section-label">Rychlé shrnutí</p>
-    <h2>Jak si Česká Třebová vede?</h2>
-    <p class="lead">Výborný výsledek mezi srovnatelnými českými městy. Tyhle výsledky nejsou náhoda – jsou výsledkem konkrétních rozhodnutí vedení města i každodenního chování tisíců obyvatel.</p>
+    <p class="section-label">Quick overview</p>
+    <h2>How is Česká Třebová performing?</h2>
+    <p class="lead">An excellent result among comparable Czech cities. These results are no accident – they are the outcome of concrete decisions by city leadership and the everyday behaviour of thousands of residents.</p>
     <div class="ins-tabs">
-      <button class="tab-btn active-g" onclick="switchTab('g',this)">✓ Co se daří</button>
-      <button class="tab-btn" onclick="switchTab('a',this)">→ Na co navázat</button>
+      <button class="tab-btn active-g" onclick="switchTab('g',this)">✓ What's working</button>
+      <button class="tab-btn" onclick="switchTab('a',this)">→ Areas to improve</button>
     </div>
 
     <div class="carousel-panel active" id="panel-g">
       <div class="carousel-track">
-        <div class="ins-tile g"><div class="cust-icon ci-purple ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="12" y2="17"/></svg></div><div class="it-text"><strong>Udržitelnost ve strategii</strong>Principy jsou zakotveny v strategickém plánu, MEK i územním plánu.</div><span class="it-badge bg-g">Strategie</span></div>
-        <div class="ins-tile g"><div class="cust-icon ci-green ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="it-text"><strong>69,9 % míra třídění</strong>Splněn zákonný cíl 2025 – výrazně nad průměrem ČR.</div><span class="it-badge bg-g">Odpady</span></div>
-        <div class="ins-tile g"><div class="cust-icon ci-blue ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="1"/><path d="M9 6h2M13 6h2M9 10h2M13 10h2M9 22v-6h6v6"/></svg></div><div class="it-text"><strong>Modulární přístavba MŠ</strong>Rychlé a cirkulární řešení kapacit školky U Koupaliště.</div><span class="it-badge bg-g">Budovy</span></div>
-        <div class="ins-tile g"><div class="cust-icon ci-amber ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></div><div class="it-text"><strong>18,5 % OZE v budovách</strong>Tři FVE instalace a sdílení energie na 5 odběrných místech.</div><span class="it-badge bg-g">Energie</span></div>
-        <div class="ins-tile g"><div class="cust-icon ci-teal ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/><line x1="12" y1="3" x2="12" y2="9"/><line x1="12" y1="15" x2="12" y2="21"/><line x1="3" y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/></svg></div><div class="it-text"><strong>33 km cyklotras</strong>Nadstandardní infrastruktura – 2,26 km / 1 000 obyvatel.</div><span class="it-badge bg-g">Doprava</span></div>
-        <div class="ins-tile g"><div class="cust-icon ci-green ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M17 8C8 10 5.9 16.17 3.82 19.5c2.75-2.5 5.9-3 8.18-2.5C13 14.5 13 11 17 8z"/><path d="M3.82 19.5L17 8"/></svg></div><div class="it-text"><strong>Komunitní sady</strong>Dva sady a řemeslné trhy podporující lokální výrobce.</div><span class="it-badge bg-g">Lokálnost</span></div>
-        <div class="ins-tile g"><div class="cust-icon ci-teal ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="21 8 21 21 3 21 3 8"/><rect x="1" y="3" width="22" height="5"/><line x1="10" y1="12" x2="14" y2="12"/></svg></div><div class="it-text"><strong>Door-to-door sběr</strong>Plast, papír a bio přímo od dveří + RFID čipované popelnice.</div><span class="it-badge bg-g">Odpady</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-purple ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="12" y2="17"/></svg></div><div class="it-text"><strong>Sustainability in strategy</strong>Principles are embedded in the strategic plan, MEK and master plan.</div><span class="it-badge bg-g">Strategy</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-green ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="it-text"><strong>69.9% sorting rate</strong>2025 legal target met – well above the national average.</div><span class="it-badge bg-g">Waste</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-blue ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="1"/><path d="M9 6h2M13 6h2M9 10h2M13 10h2M9 22v-6h6v6"/></svg></div><div class="it-text"><strong>Modular nursery extension</strong>Fast and circular solution for capacity at the U Koupaliště nursery.</div><span class="it-badge bg-g">Buildings</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-amber ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></div><div class="it-text"><strong>18.5% RES in buildings</strong>Three PV installations and energy sharing across 5 metering points.</div><span class="it-badge bg-g">Energy</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-teal ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/><line x1="12" y1="3" x2="12" y2="9"/><line x1="12" y1="15" x2="12" y2="21"/><line x1="3" y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/></svg></div><div class="it-text"><strong>33 km of cycle routes</strong>Above-standard infrastructure – 2.26 km per 1,000 residents.</div><span class="it-badge bg-g">Transport</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-green ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M17 8C8 10 5.9 16.17 3.82 19.5c2.75-2.5 5.9-3 8.18-2.5C13 14.5 13 11 17 8z"/><path d="M3.82 19.5L17 8"/></svg></div><div class="it-text"><strong>Community orchards</strong>Two orchards and craft markets supporting local producers.</div><span class="it-badge bg-g">Local</span></div>
+        <div class="ins-tile g"><div class="cust-icon ci-teal ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="21 8 21 21 3 21 3 8"/><rect x="1" y="3" width="22" height="5"/><line x1="10" y1="12" x2="14" y2="12"/></svg></div><div class="it-text"><strong>Door-to-door collection</strong>Plastic, paper and bio directly from your door + RFID-chipped bins.</div><span class="it-badge bg-g">Waste</span></div>
       </div>
     </div>
 
     <div class="carousel-panel" id="panel-a">
       <div class="carousel-track">
-        <div class="ins-tile a"><div class="cust-icon ci-amber ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg></div><div class="it-text"><strong>Kapitola udržitelnosti</strong>Přidat cirkulární opatření do strategického plánu rozvoje.</div><span class="it-badge bg-a">Strategie</span></div>
-        <div class="ins-tile a"><div class="cust-icon ci-red ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg></div><div class="it-text"><strong>Sběr gastroodpadu</strong>Zavést pilotní separovaný sběr kuchyňského odpadu z domácností.</div><span class="it-badge bg-a">Odpady</span></div>
-        <div class="ins-tile a"><div class="cust-icon ci-amber ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="15" height="13" rx="2"/><polygon points="17 8 21 8 23 11 23 16 17 16 17 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/><path d="M2 16h15"/></svg></div><div class="it-text"><strong>Poptávková doprava</strong>Ověřit flexibilní dopravu na vyžádání jako doplněk regionální sítě.</div><span class="it-badge bg-a">Doprava</span></div>
-        <div class="ins-tile a"><div class="cust-icon ci-blue ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg></div><div class="it-text"><strong>Digitalizace budov</strong>Nahradit tabulky moderním systémem evidence majetku a údržby.</div><span class="it-badge bg-a">Budovy</span></div>
-        <div class="ins-tile a"><div class="cust-icon ci-teal ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="it-text"><strong>Recyklované materiály</strong>Systematicky využívat recykláty při obnově komunikací.</div><span class="it-badge bg-a">Výstavba</span></div>
-        <div class="ins-tile a"><div class="cust-icon ci-blue ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div><div class="it-text"><strong>Záchyt dešťové vody</strong>Instalovat nádrže k zavlažování veřejné zeleně a nových staveb.</div><span class="it-badge bg-a">Voda</span></div>
+        <div class="ins-tile a"><div class="cust-icon ci-amber ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg></div><div class="it-text"><strong>Sustainability chapter</strong>Add circular measures to the strategic development plan.</div><span class="it-badge bg-a">Strategy</span></div>
+        <div class="ins-tile a"><div class="cust-icon ci-red ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg></div><div class="it-text"><strong>Food waste collection</strong>Introduce a pilot separate collection of kitchen waste from households.</div><span class="it-badge bg-a">Waste</span></div>
+        <div class="ins-tile a"><div class="cust-icon ci-amber ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="15" height="13" rx="2"/><polygon points="17 8 21 8 23 11 23 16 17 16 17 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/><path d="M2 16h15"/></svg></div><div class="it-text"><strong>On-demand transport</strong>Pilot flexible on-demand transport as a complement to the regional network.</div><span class="it-badge bg-a">Transport</span></div>
+        <div class="ins-tile a"><div class="cust-icon ci-blue ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg></div><div class="it-text"><strong>Building digitalisation</strong>Replace spreadsheets with a modern asset and maintenance management system.</div><span class="it-badge bg-a">Buildings</span></div>
+        <div class="ins-tile a"><div class="cust-icon ci-teal ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="it-text"><strong>Recycled materials</strong>Systematically use recycled materials when renewing road surfaces.</div><span class="it-badge bg-a">Construction</span></div>
+        <div class="ins-tile a"><div class="cust-icon ci-blue ci-sm"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div><div class="it-text"><strong>Rainwater harvesting</strong>Install tanks to irrigate public greenery and new buildings.</div><span class="it-badge bg-a">Water</span></div>
       </div>
     </div>
   </div>
@@ -587,22 +587,22 @@
 <!-- ═══ 5 OBLASTÍ – FLIP KARTY ══════════════════════════ -->
 <section id="areas">
   <div class="container">
-    <p class="section-label">Výsledky dle oblastí</p>
-    <h2>5 klíčových oblastí</h2>
-    <p class="lead">Najeďte myší nebo klikněte na kartu – zobrazí se silné stránky a doporučení.</p>
-    <p class="mobile-tap-hint"><span>👆 Klepněte na kartu pro více informací</span></p>
+    <p class="section-label">Results by area</p>
+    <h2>5 key areas</h2>
+    <p class="lead">Hover over or tap a card to reveal strengths and recommendations.</p>
+    <p class="mobile-tap-hint"><span>👆 Tap a card for more information</span></p>
     <div class="areas-grid" id="areasGrid">
 
       <div class="flip-card" data-pct="82" onclick="toggleFlip(this)">
         <div class="flip-inner">
           <div class="flip-front">
-            <div><div class="cust-icon ci-green"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="flip-name">Odpadové hospodářství</div></div>
-            <div><div class="flip-score-row"><span class="flip-score">82 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Nejsilnější oblast</div></div>
+            <div><div class="cust-icon ci-green"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="flip-name">Waste management</div></div>
+            <div><div class="flip-score-row"><span class="flip-score">82 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Strongest area</div></div>
           </div>
           <div class="flip-back">
-            <p class="flip-back-h g">Co se daří</p><ul class="ul-g"><li>69,9 % třídění (cíl 60 %)</li><li>Door-to-door + RFID čipování</li><li>Vlastní kompostárna + re-use centrum</li></ul>
-            <p class="flip-back-h a">Doporučení</p><ul class="ul-a"><li>Zavést sběr gastroodpadu</li><li>Rozšířit re-use o workshopy oprav</li></ul>
-            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">Více v dokumentu →</a>
+            <p class="flip-back-h g">What's working</p><ul class="ul-g"><li>69.9% sorting rate (target 60%)</li><li>Door-to-door + RFID chipping</li><li>Own composting facility + re-use centre</li></ul>
+            <p class="flip-back-h a">Recommendations</p><ul class="ul-a"><li>Introduce food waste collection</li><li>Expand re-use with repair workshops</li></ul>
+            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">More in the report →</a>
           </div>
         </div>
       </div>
@@ -610,13 +610,13 @@
       <div class="flip-card" data-pct="75" onclick="toggleFlip(this)">
         <div class="flip-inner">
           <div class="flip-front">
-            <div><div class="cust-icon ci-teal"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M17 8C8 10 5.9 16.17 3.82 19.5c2.75-2.5 5.9-3 8.18-2.5C13 14.5 13 11 17 8z"/><path d="M3.82 19.5L17 8"/></svg></div><div class="flip-name">Biodiverzita a lokálnost</div></div>
-            <div><div class="flip-score-row"><span class="flip-score">75 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Bohaté přírodní zázemí</div></div>
+            <div><div class="cust-icon ci-teal"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M17 8C8 10 5.9 16.17 3.82 19.5c2.75-2.5 5.9-3 8.18-2.5C13 14.5 13 11 17 8z"/><path d="M3.82 19.5L17 8"/></svg></div><div class="flip-name">Biodiversity &amp; local</div></div>
+            <div><div class="flip-score-row"><span class="flip-score">75 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Rich natural assets</div></div>
           </div>
           <div class="flip-back">
-            <p class="flip-back-h g">Co se daří</p><ul class="ul-g"><li>Studie sídelní zeleně + ÚSES v ÚP</li><li>Dva komunitní sady na pozemcích</li><li>Řemeslné trhy pro lokální výrobce</li></ul>
-            <p class="flip-back-h a">Doporučení</p><ul class="ul-a"><li>Strategie pro lokální producenty potravin</li><li>Záchyt dešťové vody pro zálivku</li></ul>
-            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">Více v dokumentu →</a>
+            <p class="flip-back-h g">What's working</p><ul class="ul-g"><li>Green infrastructure study + habitat network in master plan</li><li>Two community orchards on city land</li><li>Craft markets for local producers</li></ul>
+            <p class="flip-back-h a">Recommendations</p><ul class="ul-a"><li>Strategy for local food producers</li><li>Rainwater harvesting for irrigation</li></ul>
+            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">More in the report →</a>
           </div>
         </div>
       </div>
@@ -624,13 +624,13 @@
       <div class="flip-card" data-pct="72" onclick="toggleFlip(this)">
         <div class="flip-inner">
           <div class="flip-front">
-            <div><div class="cust-icon ci-purple"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="12" y2="17"/></svg></div><div class="flip-name">Strategie a politika</div></div>
-            <div><div class="flip-score-row"><span class="flip-score">72 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Silné dokumenty</div></div>
+            <div><div class="cust-icon ci-purple"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="12" y2="17"/></svg></div><div class="flip-name">Strategy &amp; policy</div></div>
+            <div><div class="flip-score-row"><span class="flip-score">72 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Strong documentation</div></div>
           </div>
           <div class="flip-back">
-            <p class="flip-back-h g">Co se daří</p><ul class="ul-g"><li>Udržitelnost v strategickém plánu a MEK</li><li>Aktivní regionální spolupráce</li><li>Enviro vzdělávání ve školách</li></ul>
-            <p class="flip-back-h a">Doporučení</p><ul class="ul-a"><li>Přidat kapitolu udržitelnosti</li><li>Vstoupit do Sítě Zdravých měst</li></ul>
-            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">Více v dokumentu →</a>
+            <p class="flip-back-h g">What's working</p><ul class="ul-g"><li>Sustainability in strategic plan and MEK</li><li>Active regional cooperation</li><li>Environmental education in schools</li></ul>
+            <p class="flip-back-h a">Recommendations</p><ul class="ul-a"><li>Add a sustainability chapter</li><li>Join the Healthy Cities Network</li></ul>
+            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">More in the report →</a>
           </div>
         </div>
       </div>
@@ -638,13 +638,13 @@
       <div class="flip-card" data-pct="67" onclick="toggleFlip(this)">
         <div class="flip-inner">
           <div class="flip-front">
-            <div><div class="cust-icon ci-blue"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/><line x1="12" y1="3" x2="12" y2="9"/><line x1="12" y1="15" x2="12" y2="21"/><line x1="3" y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/></svg></div><div class="flip-name">Doprava</div></div>
-            <div><div class="flip-score-row"><span class="flip-score">67 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Silný železniční uzel</div></div>
+            <div><div class="cust-icon ci-blue"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/><line x1="12" y1="3" x2="12" y2="9"/><line x1="12" y1="15" x2="12" y2="21"/><line x1="3" y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/></svg></div><div class="flip-name">Transport</div></div>
+            <div><div class="flip-score-row"><span class="flip-score">67 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Strong rail hub</div></div>
           </div>
           <div class="flip-back">
-            <p class="flip-back-h g">Co se daří</p><ul class="ul-g"><li>33 km cyklostezek (2,26 km / 1 000 ob.)</li><li>Sdílená kola a nabíjení elektrokol</li><li>Zpracovaná cyklokoncepce</li></ul>
-            <p class="flip-back-h a">Doporučení</p><ul class="ul-a"><li>Pilotní poptávková doprava</li><li>Rozšířit parkování pro kola</li></ul>
-            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">Více v dokumentu →</a>
+            <p class="flip-back-h g">What's working</p><ul class="ul-g"><li>33 km of cycle routes (2.26 km / 1,000 residents)</li><li>Shared bikes and e-bike charging</li><li>Completed cycling concept plan</li></ul>
+            <p class="flip-back-h a">Recommendations</p><ul class="ul-a"><li>Pilot on-demand transport</li><li>Expand bicycle parking</li></ul>
+            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">More in the report →</a>
           </div>
         </div>
       </div>
@@ -652,13 +652,13 @@
       <div class="flip-card" data-pct="59" onclick="toggleFlip(this)">
         <div class="flip-inner">
           <div class="flip-front">
-            <div><div class="cust-icon ci-amber"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="1"/><path d="M9 6h2M13 6h2M9 10h2M13 10h2M9 22v-6h6v6"/></svg></div><div class="flip-name">Výstavba a budovy</div></div>
-            <div><div class="flip-score-row"><span class="flip-score">59 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Prostor pro zlepšení</div></div>
+            <div><div class="cust-icon ci-amber"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="1"/><path d="M9 6h2M13 6h2M9 10h2M13 10h2M9 22v-6h6v6"/></svg></div><div class="flip-name">Construction &amp; buildings</div></div>
+            <div><div class="flip-score-row"><span class="flip-score">59 %</span><div class="flip-bar-wrap"><div class="flip-bar"></div></div></div><div class="flip-hint">Room for improvement</div></div>
           </div>
           <div class="flip-back">
-            <p class="flip-back-h g">Co se daří</p><ul class="ul-g"><li>18,5 % OZE v městských budovách</li><li>3 FVE instalace, sdílení energie</li><li>Modulární přístavba MŠ</li></ul>
-            <p class="flip-back-h a">Doporučení</p><ul class="ul-a"><li>Digitalizovat správu majetku</li><li>Zavést recyklované materiály</li></ul>
-            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">Více v dokumentu →</a>
+            <p class="flip-back-h g">What's working</p><ul class="ul-g"><li>18.5% RES in city buildings</li><li>3 PV installations, energy sharing</li><li>Modular nursery extension</li></ul>
+            <p class="flip-back-h a">Recommendations</p><ul class="ul-a"><li>Digitalise asset management</li><li>Introduce recycled materials</li></ul>
+            <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener" class="flip-detail">More in the report →</a>
           </div>
         </div>
       </div>
@@ -670,33 +670,33 @@
 <!-- ═══ DATA ══════════════════════════════════════════════ -->
 <section id="data">
   <div class="container">
-    <p class="section-label">Data v číslech</p>
-    <h2>Odpadové hospodářství</h2>
-    <p class="lead">Deset let dat ukazuje jasný trend. Každý pytlík vytříděného odpadu, každá cesta na kole – to všechno se v těchto číslech odráží.</p>
+    <p class="section-label">Data in numbers</p>
+    <h2>Waste management</h2>
+    <p class="lead">Ten years of data show a clear trend. Every bag of sorted waste, every cycle trip – it all shows up in these numbers.</p>
     <div class="stats-grid">
-      <div class="stat-card fade-up"><div class="cust-icon ci-red" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg></div><div class="stat-num" data-target="-31.8" data-suffix="%">0</div><div class="stat-lbl">pokles SKO od roku 2015</div></div>
-      <div class="stat-card fade-up"><div class="cust-icon ci-green" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="stat-num" data-target="69.9" data-suffix="%">0</div><div class="stat-lbl">míra třídění 2025</div></div>
-      <div class="stat-card fade-up"><div class="cust-icon ci-blue" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></div><div class="stat-num" data-target="161" data-suffix=" kg">0</div><div class="stat-lbl">na obyvatele (ČR: 246 kg)</div></div>
-      <div class="stat-card fade-up"><div class="cust-icon ci-teal" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></div><div class="stat-num" data-target="+154" data-suffix="%">0</div><div class="stat-lbl">nárůst třídění bioodpadu</div></div>
+      <div class="stat-card fade-up"><div class="cust-icon ci-red" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg></div><div class="stat-num" data-target="-31.8" data-suffix="%">0</div><div class="stat-lbl">decline in residual waste since 2015</div></div>
+      <div class="stat-card fade-up"><div class="cust-icon ci-green" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/></svg></div><div class="stat-num" data-target="69.9" data-suffix="%">0</div><div class="stat-lbl">sorting rate 2025</div></div>
+      <div class="stat-card fade-up"><div class="cust-icon ci-blue" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></div><div class="stat-num" data-target="161" data-suffix=" kg">0</div><div class="stat-lbl">per resident (CZ avg: 246 kg)</div></div>
+      <div class="stat-card fade-up"><div class="cust-icon ci-teal" style="margin:0 auto 10px;"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></div><div class="stat-num" data-target="+154" data-suffix="%">0</div><div class="stat-lbl">rise in bio-waste sorting</div></div>
     </div>
 
     <div class="chart-wrap fade-up">
-      <p class="chart-title">Nárůst třídění 2015–2025</p>
+      <p class="chart-title">Sorting growth 2015–2025</p>
       <div class="bar-chart">
-        <div class="bc-row"><span class="bc-lbl">Textil</span><div class="bc-track"><div class="bc-fill bc-glass" data-w="100">+213 %</div></div></div>
-        <div class="bc-row"><span class="bc-lbl">Kovy</span><div class="bc-track"><div class="bc-fill bc-metal" data-w="82">+164 %</div></div></div>
-        <div class="bc-row"><span class="bc-lbl">Plasty</span><div class="bc-track"><div class="bc-fill bc-plastic" data-w="81">+161 %</div></div></div>
-        <div class="bc-row"><span class="bc-lbl">Papír</span><div class="bc-track"><div class="bc-fill bc-paper" data-w="53">+106 %</div></div></div>
-        <div class="bc-row"><span class="bc-lbl">Sklo</span><div class="bc-track"><div class="bc-fill bc-waste" data-w="11">+21 %</div></div></div>
+        <div class="bc-row"><span class="bc-lbl">Textiles</span><div class="bc-track"><div class="bc-fill bc-glass" data-w="100">+213 %</div></div></div>
+        <div class="bc-row"><span class="bc-lbl">Metals</span><div class="bc-track"><div class="bc-fill bc-metal" data-w="82">+164 %</div></div></div>
+        <div class="bc-row"><span class="bc-lbl">Plastics</span><div class="bc-track"><div class="bc-fill bc-plastic" data-w="81">+161 %</div></div></div>
+        <div class="bc-row"><span class="bc-lbl">Paper</span><div class="bc-track"><div class="bc-fill bc-paper" data-w="53">+106 %</div></div></div>
+        <div class="bc-row"><span class="bc-lbl">Glass</span><div class="bc-track"><div class="bc-fill bc-waste" data-w="11">+21 %</div></div></div>
       </div>
     </div>
 
     <div class="progress-section fade-up">
-      <p class="progress-title">Stav klíčových opatření</p>
-      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>Pilotní sběr gastroodpadu</span><span class="progress-status st-plan">Plánováno</span></div><div class="progress-track"><div class="progress-fill pf-plan" data-w="25"></div></div><div class="progress-desc">V přípravě – záměr zavést separovaný sběr kuchyňského odpadu z domácností</div></div>
-      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>Rozšíření fotovoltaiky</span><span class="progress-status st-prep">V přípravě</span></div><div class="progress-track"><div class="progress-fill pf-prep" data-w="55"></div></div><div class="progress-desc">Tři FVE instalace v provozu, příprava dalšího rozšíření sdílení energie</div></div>
-      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/><line x1="12" y1="3" x2="12" y2="9"/><line x1="12" y1="15" x2="12" y2="21"/><line x1="3" y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/></svg>Rozvoj cyklodopravy</span><span class="progress-status st-done">Realizováno</span></div><div class="progress-track"><div class="progress-fill pf-done" data-w="82"></div></div><div class="progress-desc">33 km cyklostezek, sdílená kola a dobíjení elektrokol – nadstandardní výsledky</div></div>
-      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>Re-use centrum</span><span class="progress-status st-prep">V přípravě</span></div><div class="progress-track"><div class="progress-fill pf-prep" data-w="45"></div></div><div class="progress-desc">Projekt re-use centra a pořádání swapů – v přípravné fázi</div></div>
+      <p class="progress-title">Status of key measures</p>
+      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>Pilot food waste collection</span><span class="progress-status st-plan">Planned</span></div><div class="progress-track"><div class="progress-fill pf-plan" data-w="25"></div></div><div class="progress-desc">In preparation – plan to introduce separate kitchen waste collection from households</div></div>
+      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>Solar PV expansion</span><span class="progress-status st-prep">In progress</span></div><div class="progress-track"><div class="progress-fill pf-prep" data-w="55"></div></div><div class="progress-desc">Three PV installations operational, preparation of further energy sharing expansion</div></div>
+      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/><line x1="12" y1="3" x2="12" y2="9"/><line x1="12" y1="15" x2="12" y2="21"/><line x1="3" y1="12" x2="9" y2="12"/><line x1="15" y1="12" x2="21" y2="12"/></svg>Cycling infrastructure development</span><span class="progress-status st-done">Completed</span></div><div class="progress-track"><div class="progress-fill pf-done" data-w="82"></div></div><div class="progress-desc">33 km of cycle routes, shared bikes and e-bike charging – above-standard results</div></div>
+      <div class="progress-item"><div class="progress-label"><span class="progress-name" style="display:flex;align-items:center;gap:6px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>Re-use centre</span><span class="progress-status st-prep">In progress</span></div><div class="progress-track"><div class="progress-fill pf-prep" data-w="45"></div></div><div class="progress-desc">Re-use centre project and swap events – in preparatory phase</div></div>
     </div>
   </div>
 </section>
@@ -707,11 +707,11 @@
     <div style="display:flex;gap:32px;align-items:center;max-width:900px;margin:0 auto;flex-wrap:wrap;justify-content:space-between;">
       <div>
         <div style="font-size:1.9rem;font-weight:900;line-height:1.15;margin-bottom:12px;">
-          Tenhle výsledek je <span style="background:linear-gradient(90deg,#c084fc,#00d799);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">i vaší zásluhou.</span>
+          This result is <span style="background:linear-gradient(90deg,#c084fc,#00d799);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">partly thanks to you.</span>
         </div>
-        <p style="color:var(--txt2);font-size:1rem;max-width:540px;line-height:1.65;">Každý pytlík tříděného odpadu, každá cesta pěšky nebo na kole, každý nákup u místního výrobce – to všechno se odráží v číslech, která vidíte na této stránce. Nepřestávejte. Cirkulární Česká Třebová se buduje každý den.</p>
+        <p style="color:var(--txt2);font-size:1rem;max-width:540px;line-height:1.65;">Every bag of sorted waste, every walk or cycle trip, every purchase from a local producer – it all shows up in the numbers on this page. Keep going. Circular Česká Třebová is built every single day.</p>
       </div>
-      <a href="#quiz" class="btn-green" style="white-space:nowrap;font-size:1rem;padding:14px 28px;">Zjisti svůj cirkulární index →</a>
+      <a href="#quiz" class="btn-green" style="white-space:nowrap;font-size:1rem;padding:14px 28px;">Find your circular index →</a>
     </div>
   </div>
 </section>
@@ -720,38 +720,38 @@
 <!-- ═══ CO JE CIRKULÁRNÍ SKEN ══════════════════════════════ -->
 <section id="sken" style="background:var(--dark);">
   <div class="container">
-    <p class="section-label">O projektu</p>
-    <h2>Co je Cirkulární sken?</h2>
-    <p class="lead">Cirkulární sken je komplexní audit cirkularity města, který hodnotí 5 klíčových oblastí a pomáhá vedení města identifikovat konkrétní kroky ke zlepšení.</p>
+    <p class="section-label">About the project</p>
+    <h2>What is a Circular Scan?</h2>
+    <p class="lead">A Circular Scan is a comprehensive circularity audit of a city, assessing 5 key areas and helping city leadership identify concrete steps for improvement.</p>
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;margin-top:36px;">
       <div style="background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px 20px;">
         <div class="cust-icon ci-purple ci-sm" style="margin-bottom:12px;"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg></div>
-        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Co hodnotí?</div>
-        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">5 oblastí: strategie, výstavba, odpady, doprava a biodiverzita. Každá oblast je bodována a váhována.</div>
+        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">What does it assess?</div>
+        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">5 areas: strategy, construction, waste, transport and biodiversity. Each area is scored and weighted.</div>
       </div>
       <div style="background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px 20px;">
         <div class="cust-icon ci-green ci-sm" style="margin-bottom:12px;"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
-        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Pro koho?</div>
-        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">Pro města a obce, která chtějí přejít na oběhové hospodářství. Metodika zohledňuje velikost a typ municipality.</div>
+        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Who is it for?</div>
+        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">For cities and municipalities wanting to transition to a circular economy. The methodology accounts for the size and type of municipality.</div>
       </div>
       <div style="background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px 20px;">
         <div class="cust-icon ci-amber ci-sm" style="margin-bottom:12px;"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="12" y2="17"/></svg></div>
-        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Výstup?</div>
-        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">Přehledná zpráva s celkovým skóre, silnými stránkami a konkrétními doporučeními pro každou oblast.</div>
+        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Output?</div>
+        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">A clear report with an overall score, strengths and specific recommendations for each area.</div>
       </div>
       <div style="background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:22px 20px;">
         <div class="cust-icon ci-teal ci-sm" style="margin-bottom:12px;"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
-        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Kdo jej dělá?</div>
-        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">Cirkulární sken realizuje <strong style="color:var(--txt)">Cirkulární hub Pardubice</strong> ve spolupráci s odborníky a zástupci města.</div>
+        <div style="font-weight:700;font-size:.95rem;margin-bottom:6px;">Who delivers it?</div>
+        <div style="font-size:.85rem;color:var(--txt2);line-height:1.6;">The Circular Scan is delivered by <strong style="color:var(--txt)">Circular Economy Hub Pardubice</strong> in collaboration with experts and city representatives.</div>
       </div>
     </div>
     <div style="margin-top:40px;padding:32px;background:linear-gradient(135deg,rgba(147,76,222,.12),rgba(0,215,153,.06));border:1px solid rgba(147,76,222,.25);border-radius:20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:20px;">
       <div>
-        <div style="font-weight:800;font-size:1.15rem;margin-bottom:6px;">Celý výstup skenu pro Českou Třebovou</div>
-        <div style="font-size:.9rem;color:var(--txt2);">Podrobná zpráva ze všech 5 oblastí · hodnocení · doporučení · data</div>
+        <div style="font-weight:800;font-size:1.15rem;margin-bottom:6px;">Full Circular Scan report for Česká Třebová</div>
+        <div style="font-size:.9rem;color:var(--txt2);">Detailed report from all 5 areas · scores · recommendations · data</div>
       </div>
       <a href="%C4%8Cesk%C3%A1%20T%C5%99ebov%C3%A1%20-%20souhrn%20v%C5%A1ech%20oblast%C3%AD.-canva-vystup.pdf" target="_blank" rel="noopener" class="btn-primary" style="white-space:nowrap;font-size:1rem;padding:14px 32px;">
-        📄 Otevřít dokument
+        📄 Open report
       </a>
     </div>
   </div>
@@ -760,26 +760,26 @@
 <!-- ═══ HLAS MĚSTA ═════════════════════════════════════════ -->
 <section id="voices" class="photo-bg photo-bg-3">
   <div class="container">
-    <p class="section-label">Hlas města</p>
-    <h2>Co vám říkají zástupci České Třebové</h2>
-    <p class="lead">Za výsledky Cirkulárního skenu nestojí jen strategie a dokumenty – stojí za nimi každodenní rozhodnutí nás všech.</p>
+    <p class="section-label">City voices</p>
+    <h2>What representatives of Česká Třebová say</h2>
+    <p class="lead">Behind the Circular Scan results are not just strategies and documents – they reflect the everyday decisions of all of us.</p>
     <div class="voices-grid">
       <div class="voice-card fade-up">
-        <p class="voice-quote">„Česká Třebová dlouhodobě investuje do chytřejšího nakládání s odpady, obnovitelných zdrojů a udržitelné mobility. Výsledky cirkulárního skenu nás utvrzují, že jdeme správnou cestou – a jsem rád, že tuto cestu jdeme společně s obyvateli města."</p>
-        <div class="voice-person"><img class="voice-photo" src="Zastupitel%C3%A9-fotky/starosta-zdenek-rehak.jpeg" alt="Zdeněk Řehák" /><div><div class="voice-name">Zdeněk Řehák</div><div class="voice-role">Starosta města Česká Třebová</div></div></div>
+        <p class="voice-quote">"Česká Třebová has long invested in smarter waste management, renewable energy and sustainable mobility. The results of the Circular Scan confirm we are on the right path – and I am glad to be walking it together with the city's residents."</p>
+        <div class="voice-person"><img class="voice-photo" src="Zastupitel%C3%A9-fotky/starosta-zdenek-rehak.jpeg" alt="Zdeněk Řehák" /><div><div class="voice-name">Zdeněk Řehák</div><div class="voice-role">Mayor of Česká Třebová</div></div></div>
       </div>
       <div class="voice-card fade-up">
-        <p class="voice-quote">„Věříme, že trvale udržitelný rozvoj musí být pevnou součástí strategického plánování. Sken nám pomohl pojmenovat konkrétní kroky, které chceme v příštích letech realizovat – a rádi bychom je realizovali s vaší podporou."</p>
-        <div class="voice-person"><img class="voice-photo" src="Zastupitel%C3%A9-fotky/m%C3%ADstostarostka-petra-v%C3%A1lkov%C3%A1.jpeg" alt="Petra Válková" /><div><div class="voice-name">Petra Válková</div><div class="voice-role">Místostarostka města Česká Třebová</div></div></div>
+        <p class="voice-quote">"We believe sustainable development must be a firm part of strategic planning. The Scan helped us name the concrete steps we want to take in the coming years – and we would love to take them with your support."</p>
+        <div class="voice-person"><img class="voice-photo" src="Zastupitel%C3%A9-fotky/m%C3%ADstostarostka-petra-v%C3%A1lkov%C3%A1.jpeg" alt="Petra Válková" /><div><div class="voice-name">Petra Válková</div><div class="voice-role">Deputy Mayor of Česká Třebová</div></div></div>
       </div>
     </div>
     <!-- City website CTA -->
     <div style="margin-top:36px;padding:28px 32px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:20px;">
       <div>
-        <div style="font-weight:700;font-size:1rem;margin-bottom:6px;">Sledujte, co město plánuje dál</div>
-        <div style="font-size:.9rem;color:var(--txt2);max-width:520px;">Na webu města najdete aktuální novinky, připravovaná zlepšení i způsoby, jak se jako občan zapojit do rozvoje České Třebové.</div>
+        <div style="font-weight:700;font-size:1rem;margin-bottom:6px;">Follow what the city is planning next</div>
+        <div style="font-size:.9rem;color:var(--txt2);max-width:520px;">On the city website you'll find current news, planned improvements and ways to get involved in the development of Česká Třebová as a citizen.</div>
       </div>
-      <a href="https://www.ceska-trebova.cz" target="_blank" rel="noopener" class="btn-outline" style="white-space:nowrap;">Web města Česká Třebová →</a>
+      <a href="https://www.ceska-trebova.cz" target="_blank" rel="noopener" class="btn-outline" style="white-space:nowrap;">City of Česká Třebová website →</a>
     </div>
   </div>
 </section>
@@ -787,9 +787,9 @@
 <!-- ═══ KVÍZ ════════════════════════════════════════════════ -->
 <section id="quiz">
   <div class="container">
-    <p class="section-label">Kvíz pro občany</p>
-    <h2>A co děláš pro svoje město ty?</h2>
-    <p class="lead">Zjisti svůj cirkulární index, porovnej se s celou ČR a získej certifikát cirkulárního občana.</p>
+    <p class="section-label">Citizens' quiz</p>
+    <h2>And what are you doing for your city?</h2>
+    <p class="lead">Find your circular index, compare yourself with the whole of the Czech Republic and get your circular citizen certificate.</p>
 
     <div id="quizBox" class="quiz-box">
 
@@ -797,9 +797,9 @@
       <div id="qz-intro" class="qz-step active">
         <div class="qz-intro-inner">
           <div class="qz-intro-icon">🐓</div>
-          <div class="qz-intro-h">Jsi cirkulární občan České Třebové?</div>
-          <p class="qz-intro-p">Odpověz na 6 krátkých otázek, zjisti svůj cirkulární index a porovnej se s průměrem celé České republiky. Na konci získáš osobní certifikát, který můžeš sdílet.</p>
-          <button class="qz-start-btn" onclick="startQuiz()">Spustit kvíz →</button>
+          <div class="qz-intro-h">Are you a circular citizen of Česká Třebová?</div>
+          <p class="qz-intro-p">Answer 6 short questions, find your circular index and compare yourself with the Czech Republic average. At the end you'll receive a personal certificate you can share.</p>
+          <button class="qz-start-btn" onclick="startQuiz()">Start the quiz →</button>
         </div>
       </div>
 
@@ -807,7 +807,7 @@
       <div id="qz-question" class="qz-step">
         <div class="qz-q-inner">
           <div class="qz-progress-track"><div class="qz-progress-fill" id="qzProgFill" style="width:0%"></div></div>
-          <div class="qz-counter" id="qzCounter">Otázka 1 ze 6</div>
+          <div class="qz-counter" id="qzCounter">Question 1 of 6</div>
           <div class="qz-emoji" id="qzEmoji">♻️</div>
           <div class="qz-q-text" id="qzQText"></div>
           <div class="qz-options" id="qzOptions"></div>
@@ -817,11 +817,11 @@
       <!-- RESULTS -->
       <div id="qz-results" class="qz-step">
         <div class="qz-results-inner">
-          <p class="section-label" style="margin-bottom:6px;">Tvůj výsledek</p>
+          <p class="section-label" style="margin-bottom:6px;">Your result</p>
           <div class="qz-results-top">
             <div class="qz-score-circle">
               <div class="qz-score-pct" id="qzScorePct">0%</div>
-              <div class="qz-score-sub">cirkulární<br>index</div>
+              <div class="qz-score-sub">circular<br>index</div>
             </div>
             <div class="qz-badge-info">
               <div id="qzFaceSvg" class="qz-face-svg"></div>
@@ -832,14 +832,14 @@
 
           <!-- Comparison bars -->
           <div class="qz-compare">
-            <div class="qz-compare-title">Porovnání s Českou republikou</div>
+            <div class="qz-compare-title">Comparison with the Czech Republic</div>
             <div class="qz-compare-row">
-              <span class="qz-compare-lbl">Ty</span>
+              <span class="qz-compare-lbl">You</span>
               <div class="qz-compare-track"><div class="qz-compare-fill qz-compare-you" id="qzYouBar" style="width:0%"></div></div>
               <span id="qzYouPct" style="font-size:.8rem;min-width:36px;">0 %</span>
             </div>
             <div class="qz-compare-row">
-              <span class="qz-compare-lbl">ČR průměr</span>
+              <span class="qz-compare-lbl">CZ average</span>
               <div class="qz-compare-track"><div class="qz-compare-fill qz-compare-cr" style="width:62%">62 %</div></div>
               <span style="font-size:.8rem;min-width:36px;">62 %</span>
             </div>
@@ -850,11 +850,11 @@
 
           <!-- Certificate form -->
           <div class="qz-cert-form">
-            <label for="certName">Zadej své jméno pro certifikát:</label>
-            <input type="text" id="certName" placeholder="Tvé jméno nebo přezdívka" maxlength="40" />
+            <label for="certName">Enter your name for the certificate:</label>
+            <input type="text" id="certName" placeholder="Your name or nickname" maxlength="40" />
             <div class="qz-cert-actions">
-              <button class="qz-start-btn" onclick="generateCert()" style="font-size:.88rem;padding:11px 22px;">🏆 Vygenerovat certifikát</button>
-              <button class="qz-share-btn" onclick="shareResult()">📣 Sdílet výsledek</button>
+              <button class="qz-start-btn" onclick="generateCert()" style="font-size:.88rem;padding:11px 22px;">🏆 Generate certificate</button>
+              <button class="qz-share-btn" onclick="shareResult()">📣 Share result</button>
             </div>
           </div>
 
@@ -862,12 +862,12 @@
           <div class="qz-canvas-wrap" id="qzCanvasWrap">
             <canvas id="certCanvas"></canvas>
             <div style="display:flex;gap:10px;margin-top:12px;flex-wrap:wrap;">
-              <a id="certDlBtn" class="qz-dl-btn" download="certifikat-cirkularni-obcan.png">⬇ Stáhnout certifikát</a>
-              <button class="qz-share-btn" onclick="shareResult()">📣 Sdílet na sítích</button>
+              <a id="certDlBtn" class="qz-dl-btn" download="certificate-circular-citizen.png">⬇ Download certificate</a>
+              <button class="qz-share-btn" onclick="shareResult()">📣 Share on social media</button>
             </div>
           </div>
 
-          <div><span class="qz-retry" onclick="resetQuiz()">← Zkusit znovu</span></div>
+          <div><span class="qz-retry" onclick="resetQuiz()">← Try again</span></div>
         </div>
       </div>
 
@@ -878,31 +878,31 @@
 <!-- ═══ SPOLUPRÁCE ══════════════════════════════════════════ -->
 <section id="hub">
   <div class="container" style="text-align:center;">
-    <p class="section-label">Cirkulární hub</p>
-    <h2>S čím vám pomůžeme</h2>
-    <p class="lead" style="margin:0 auto 4px;">Propojujeme obce, stratégy a inovátory. Pomáháme přeměnit plány v realitu.</p>
+    <p class="section-label">Circular Hub</p>
+    <h2>How we can help</h2>
+    <p class="lead" style="margin:0 auto 4px;">We connect municipalities, strategists and innovators. We help turn plans into reality.</p>
     <div class="hub-chips">
-      <div class="hub-chip"><span class="chip-icon">📄</span> Strategie a akční plány</div>
-      <div class="hub-chip"><span class="chip-icon">📢</span> Osvěta a komunikace</div>
-      <div class="hub-chip"><span class="chip-icon">🤝</span> Propojování s inovátory</div>
-      <div class="hub-chip"><span class="chip-icon">🎓</span> Poradenství a vzdělávání</div>
-      <div class="hub-chip"><span class="chip-icon">💡</span> Rozvoj lokálních nápadů</div>
+      <div class="hub-chip"><span class="chip-icon">📄</span> Strategy and action plans</div>
+      <div class="hub-chip"><span class="chip-icon">📢</span> Awareness and communication</div>
+      <div class="hub-chip"><span class="chip-icon">🤝</span> Connecting with innovators</div>
+      <div class="hub-chip"><span class="chip-icon">🎓</span> Consulting and education</div>
+      <div class="hub-chip"><span class="chip-icon">💡</span> Developing local ideas</div>
     </div>
-    <a href="https://www.cirkularni-hub.cz" class="btn-primary" target="_blank" rel="noopener">Navštívit Cirkulární hub →</a>
+    <a href="https://www.cirkularni-hub.cz" class="btn-primary" target="_blank" rel="noopener">Visit Circular Hub →</a>
   </div>
 </section>
 
 <!-- ═══ METODIKA ════════════════════════════════════════════ -->
 <section id="metodika">
   <div class="container">
-    <p class="section-label">Metodika</p>
-    <h2>Jak vzniklo celkové skóre?</h2>
-    <p class="lead">Transparentní hodnocení: bodové rozdělení, váhy oblastí a princip výpočtu.</p>
+    <p class="section-label">Methodology</p>
+    <h2>How was the overall score calculated?</h2>
+    <p class="lead">Transparent assessment: point allocation, area weights and calculation method.</p>
     <div style="margin-top:32px;">
-      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>Co je Cirkulární sken města?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">Cirkulární sken je komplexní hodnotící nástroj vyvinutý Cirkulárním hubem. Slouží k posouzení, jak daleko je město na cestě k cirkulární ekonomice. Zahrnuje sběr dat, rozhovory se zástupci města a analýzu strategických dokumentů.</div></div></div>
-      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>Jak se počítá celkové skóre?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">Celkové skóre je váženým průměrem pěti oblastí: <strong>Strategie a politika (20 %)</strong>, <strong>Výstavba a budovy (20 %)</strong>, <strong>Odpadové hospodářství (25 %)</strong>, <strong>Doprava (20 %)</strong> a <strong>Biodiverzita a lokálnost (15 %)</strong>. Každá oblast se hodnotí sadou kritérií s přidělením bodů.</div></div></div>
-      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>Jak se zohledňuje velikost města?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">Hodnocení je kalibrováno podle velikostní kategorie. Česká Třebová patří do kategorie měst s <strong>10 000–25 000 obyvateli</strong>, kde jsou nastaveny odpovídající benchmarky. Výsledky jsou srovnatelné s podobně velkými obcemi.</div></div></div>
-      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>Kde najdu plný dokument?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">Kompletní výstup cirkulárního skenu je dostupný na webu Cirkulárního hubu. <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener">Navštívit web →</a></div></div></div>
+      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>What is a City Circular Scan?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">The Circular Scan is a comprehensive assessment tool developed by the Circular Hub. It evaluates how far a city has progressed on its path to a circular economy. It includes data collection, interviews with city representatives and analysis of strategic documents.</div></div></div>
+      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>How is the overall score calculated?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">The overall score is a weighted average of five areas: <strong>Strategy and policy (20%)</strong>, <strong>Construction and buildings (20%)</strong>, <strong>Waste management (25%)</strong>, <strong>Transport (20%)</strong> and <strong>Biodiversity and local (15%)</strong>. Each area is assessed using a set of criteria with points allocated.</div></div></div>
+      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>How is city size taken into account?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">The assessment is calibrated by size category. Česká Třebová falls in the category of cities with <strong>10,000–25,000 residents</strong>, where corresponding benchmarks are set. Results are comparable with similarly sized municipalities.</div></div></div>
+      <div class="accordion-item"><div class="accordion-head" onclick="toggleAcc(this)"><span>Where can I find the full report?</span><span class="acc-chevron">▼</span></div><div class="accordion-body"><div class="accordion-inner">The complete Circular Scan report is available on the Circular Hub website. <a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener">Visit website →</a></div></div></div>
     </div>
   </div>
 </section>
@@ -915,9 +915,9 @@
       <p class="footer-info" style="margin-top:8px;"><a href="https://www.cirkularni-hub.cz" target="_blank" rel="noopener">www.cirkularni-hub.cz</a></p>
     </div>
     <div>
-      <p class="footer-info">Cirkulární sken · Česká Třebová · leden 2026</p>
-      <p class="footer-info" style="margin-top:4px;">Projekt CHEERS4EU spolufinancován z prostředků EU · Interreg Europe</p>
-      <div class="footer-badges"><span class="footer-badge">🇪🇺 Interreg Europe</span><span class="footer-badge">Pardubický kraj</span><span class="footer-badge">🐓 Česká Třebová</span></div>
+      <p class="footer-info">Circular Scan · Česká Třebová · January 2026</p>
+      <p class="footer-info" style="margin-top:4px;">CHEERS4EU project co-financed by EU funds · Interreg Europe</p>
+      <div class="footer-badges"><span class="footer-badge">🇪🇺 Interreg Europe</span><span class="footer-badge">Pardubice Region</span><span class="footer-badge">🐓 Česká Třebová</span></div>
     </div>
   </div>
 </footer>
@@ -969,14 +969,14 @@
         </div>
         <div>
           <div class="chat-header-name">Cirkulka</div>
-          <div class="chat-header-sub">Asistentka CE Hubu · Česká Třebová</div>
+          <div class="chat-header-sub">CE Hub Assistant · Česká Třebová</div>
         </div>
       </div>
-      <button class="chat-close" onclick="toggleChat()" aria-label="Zavřít">✕</button>
+      <button class="chat-close" onclick="toggleChat()" aria-label="Close">✕</button>
     </div>
     <div id="chatMessages" class="chat-messages"></div>
     <div class="chat-input-row">
-      <input id="chatInput" type="text" placeholder="Zeptej se Cirkulky…" autocomplete="off" maxlength="500" />
+      <input id="chatInput" type="text" placeholder="Ask Cirkulka…" autocomplete="off" maxlength="500" />
       <button class="chat-send-btn" id="chatSendBtn" onclick="sendChatMessage()" aria-label="Odeslat">
         <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
       </button>
@@ -990,8 +990,8 @@
 
     <!-- Speech bubble (appears after 5s) -->
     <div class="cirek-speech hidden" id="cirekSpeech">
-      Ahoj! 👋 Jsem Cirkulka!<br>Zeptej se mě na cokoli 😊
-      <button class="cirek-speech-x" onclick="event.stopPropagation();_hideBubble()" aria-label="Zavřít">×</button>
+      Hi! 👋 I'm Cirkulka!<br>Ask me anything 😊
+      <button class="cirek-speech-x" onclick="event.stopPropagation();_hideBubble()" aria-label="Close">×</button>
     </div>
 
     <!-- CIRKULKA SVG character – female design with bow & eyelashes -->
@@ -1065,11 +1065,11 @@
   </div>
 
   <!-- CTA button below mascot -->
-  <button id="chatFab" onclick="toggleChat()" aria-label="Otevřít Cirkulku">
+  <button id="chatFab" onclick="toggleChat()" aria-label="Open Cirkulka">
     <svg class="ico-chat" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-    <span class="ico-chat">Zeptej se Cirkulky</span>
+    <span class="ico-chat">Ask Cirkulka</span>
     <svg class="ico-close" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-    <span class="ico-close">Zavřít</span>
+    <span class="ico-close">Close</span>
   </button>
 
 </div>
@@ -1196,39 +1196,39 @@ window.addEventListener('load', _triggerGauge);
    KVÍZ
 ═══════════════════════════════════════════════════════════ */
 const QUESTIONS = [
-  { q:'Jak pravidelně třídíš odpad doma?', emoji:'🗑️',
-    opts:[{l:'Vždy – každou frakci',p:4},{l:'Většinou jo',p:3},{l:'Občas, když je příležitost',p:2},{l:'Skoro netřídím',p:1}] },
-  { q:'Nakupuješ u místních výrobců nebo na farmářských trzích?', emoji:'🛒',
-    opts:[{l:'Pravidelně',p:4},{l:'Občas',p:3},{l:'Výjimečně',p:2},{l:'Skoro nikdy',p:1}] },
-  { q:'Jak se nejčastěji pohybuješ po České Třebové?', emoji:'🚴',
-    opts:[{l:'Pěšky nebo na kole',p:4},{l:'Kombinuji různé způsoby',p:3},{l:'Převážně autem',p:2},{l:'Vždy autem',p:1}] },
-  { q:'Opravuješ věci místo jejich vyhazování?', emoji:'🔧',
-    opts:[{l:'Pokud to jde, vždy',p:4},{l:'Někdy',p:3},{l:'Radši koupím nové',p:2},{l:'Vůbec ne',p:1}] },
-  { q:'Omezuješ plýtvání jídlem?', emoji:'🍱',
-    opts:[{l:'Aktivně plánuji a kompostuji',p:4},{l:'Snažím se',p:3},{l:'Občas mi jídlo propadne',p:2},{l:'Vůbec nad tím nepřemýšlím',p:1}] },
-  { q:'Zajímáš se o životní prostředí ve svém městě?', emoji:'🌱',
-    opts:[{l:'Ano, aktivně se zapojuji',p:4},{l:'Sleduji dění',p:3},{l:'Spíše ne',p:2},{l:'Vůbec',p:1}] }
+  { q:'How regularly do you sort waste at home?', emoji:'🗑️',
+    opts:[{l:'Always – every fraction',p:4},{l:'Usually yes',p:3},{l:'Occasionally when I get the chance',p:2},{l:'Hardly ever',p:1}] },
+  { q:'Do you shop from local producers or at farmers' markets?', emoji:'🛒',
+    opts:[{l:'Regularly',p:4},{l:'Sometimes',p:3},{l:'Rarely',p:2},{l:'Almost never',p:1}] },
+  { q:'How do you most often get around Česká Třebová?', emoji:'🚴',
+    opts:[{l:'On foot or by bike',p:4},{l:'I mix different modes',p:3},{l:'Mostly by car',p:2},{l:'Always by car',p:1}] },
+  { q:'Do you repair things instead of throwing them away?', emoji:'🔧',
+    opts:[{l:'Whenever possible, always',p:4},{l:'Sometimes',p:3},{l:'I prefer to buy new',p:2},{l:'Not at all',p:1}] },
+  { q:'Do you reduce food waste?', emoji:'🍱',
+    opts:[{l:'Actively plan meals and compost',p:4},{l:'I try',p:3},{l:'Food sometimes goes to waste',p:2},{l:'I never think about it',p:1}] },
+  { q:'Are you interested in the environment in your city?', emoji:'🌱',
+    opts:[{l:'Yes, I actively get involved',p:4},{l:'I follow what's happening',p:3},{l:'Not really',p:2},{l:'Not at all',p:1}] }
 ];
 
 const BADGES = [
-  { min:0,  title:'Začínající recyklátor', hint:'Každý krok se počítá!',         color:'#6b7280',
+  { min:0,  title:'Beginner recycler',     hint:'Every step counts!',            color:'#6b7280',
     face:`<svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#1e1545" stroke="#6b7280" stroke-width="2.5"/><circle cx="21" cy="26" r="3" fill="#6b7280"/><circle cx="39" cy="26" r="3" fill="#6b7280"/><path d="M 19 40 Q 30 34 41 40" stroke="#6b7280" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg>` },
-  { min:38, title:'Ekocitlivý obyvatel',   hint:'Dobrý základ, pokračuj!',        color:'#84cc16',
+  { min:38, title:'Eco-aware resident',    hint:'Good foundation, keep it up!',  color:'#84cc16',
     face:`<svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#1e1545" stroke="#84cc16" stroke-width="2.5"/><circle cx="21" cy="26" r="3" fill="#84cc16"/><circle cx="39" cy="26" r="3" fill="#84cc16"/><line x1="19" y1="40" x2="41" y2="40" stroke="#84cc16" stroke-width="2.5" stroke-linecap="round"/></svg>` },
-  { min:58, title:'Cirkulární nadšenec',   hint:'Nadprůměrný výsledek!',          color:'#22c55e',
+  { min:58, title:'Circular enthusiast',   hint:'Above-average result!',          color:'#22c55e',
     face:`<svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#1e1545" stroke="#22c55e" stroke-width="2.5"/><circle cx="21" cy="25" r="3.5" fill="#22c55e"/><circle cx="39" cy="25" r="3.5" fill="#22c55e"/><path d="M 18 36 Q 30 46 42 36" stroke="#22c55e" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg>` },
-  { min:75, title:'Cirkulární občan',      hint:'Skvělá práce, Česká Třebová je na tebe hrdá!', color:'#00d799',
+  { min:75, title:'Circular citizen',      hint:'Great work, Česká Třebová is proud of you!', color:'#00d799',
     face:`<svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#1e1545" stroke="#00d799" stroke-width="3"/><circle cx="21" cy="24" r="4" fill="#00d799"/><circle cx="39" cy="24" r="4" fill="#00d799"/><path d="M 16 35 Q 30 49 44 35" stroke="#00d799" stroke-width="3" fill="none" stroke-linecap="round"/><text x="30" y="15" text-anchor="middle" font-size="9" fill="#00d799">★</text></svg>` },
-  { min:88, title:'Cirkulární šampion',    hint:'Legenda cirkularity České Třebové!',  color:'#934cde',
+  { min:88, title:'Circular champion',     hint:'Legend of circularity of Česká Třebová!', color:'#934cde',
     face:`<svg viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#1a0f35" stroke="#934cde" stroke-width="3"/><circle cx="21" cy="24" r="4" fill="#c084fc"/><circle cx="39" cy="24" r="4" fill="#c084fc"/><path d="M 15 34 Q 30 50 45 34" stroke="#934cde" stroke-width="3" fill="none" stroke-linecap="round"/><text x="13" y="17" text-anchor="middle" font-size="10" fill="#f59e0b">★</text><text x="47" y="17" text-anchor="middle" font-size="10" fill="#f59e0b">★</text><text x="30" y="13" text-anchor="middle" font-size="8" fill="#f59e0b">★</text></svg>` }
 ];
 
 const TIPS = {
-  0:  ['Zkus začít třídit alespoň papír a plasty – popelnice jsou přímo ve tvé ulici.','Na kratší vzdálenosti zkus vyjít pěšky nebo si půjčit kolo.','Plánuj nákupy dopředu a omez plýtvání jídlem.'],
-  38: ['Vyzkoušej re-use centrum nebo swap akci v České Třebové.','Nakup jednou týdně na farmářském trhu nebo u lokálních prodejců.','Oprav věc místo nákupu nové – v centru města jsou opravny i kurzy.'],
-  58: ['Rozšiř třídění o bioodpad – kompostér nebo hnědá nádoba je k dispozici.','Vyzkoušej sdílené elektrokolo nebo vlak místo auta na výlety.','Sleduj akce Cirkulárního hubu a zapoj se do místních iniciativ.'],
-  75: ['Zapoj se jako dobrovolník v komunitních sadech České Třebové.','Sdílej svůj certifikát a inspiruj sousedy a přátele.','Sleduj plán udržitelnosti města a dej zpětnou vazbu vedení.'],
-  88: ['Ty jsi vzorem! Sdílej certifikát a ukáž ostatním, že cirkulární život je možný.','Navrhni sousedům, jak vylepšit třídění ve vašem domě nebo ulici.','Přihlas se k odběru novinek CE Hubu – první se dozvíš o nových projektech.']
+  0:  ['Try starting by sorting at least paper and plastics – bins are right in your street.','For shorter distances try walking or borrowing a bike.','Plan your shopping in advance and reduce food waste.'],
+  38: ['Try the re-use centre or a swap event in Česká Třebová.','Shop once a week at the farmers' market or from local sellers.','Repair something instead of buying new – repair shops and workshops are in the city centre.'],
+  58: ['Extend your sorting to bio-waste – a composter or brown bin is available.','Try a shared e-bike or train instead of the car for day trips.','Follow Circular Hub events and get involved in local initiatives.'],
+  75: ['Volunteer at the community orchards in Česká Třebová.','Share your certificate and inspire neighbours and friends.','Follow the city sustainability plan and give feedback to city leadership.'],
+  88: ['You are an inspiration! Share your certificate and show others that circular living is possible.','Suggest to your neighbours how to improve sorting in your building or street.','Sign up for CE Hub news – be the first to hear about new projects.']
 };
 
 function getBadge(pct){
@@ -1254,7 +1254,7 @@ function renderQuestion(){
   const q = QUESTIONS[qState.q];
   const pct = Math.round((qState.q/QUESTIONS.length)*100);
   document.getElementById('qzProgFill').style.width = pct+'%';
-  document.getElementById('qzCounter').textContent = `Otázka ${qState.q+1} ze ${QUESTIONS.length}`;
+  document.getElementById('qzCounter').textContent = `Question ${qState.q+1} of ${QUESTIONS.length}`;
   document.getElementById('qzEmoji').textContent = q.emoji;
   document.getElementById('qzQText').textContent = q.q;
   const opts = document.getElementById('qzOptions');
@@ -1320,12 +1320,12 @@ function showResults(){
   const tipLevel = Object.keys(TIPS).reverse().find(k => scorePct >= parseInt(k)) || '0';
   const tips = TIPS[tipLevel];
   const tipsEl = document.getElementById('qzTips');
-  tipsEl.innerHTML = `<div class="qz-tips-title">💡 Co můžeš zlepšit</div>` +
+  tipsEl.innerHTML = `<div class="qz-tips-title">💡 What you can improve</div>` +
     tips.map((t,i)=>`<div class="qz-tip-item"><div class="qz-tip-dot">${i+1}</div><span>${t}</span></div>`).join('');
 }
 
 function generateCert(){
-  const name = (document.getElementById('certName').value.trim() || 'Cirkulární občan');
+  const name = (document.getElementById('certName').value.trim() || 'Circular Citizen');
   const score = window._quizScore || 0;
   const badge = window._quizBadge || BADGES[0];
   const img = new Image();
@@ -1365,13 +1365,13 @@ function _drawCert(name, score, badge, znakImg){
   ctx.fillStyle='#00d799'; ctx.font=`700 15px ${F}`;
   ctx.fillText('CIRCULAR ECONOMY HUB  ·  CIRKULÁRNÍ HUB PARDUBICE', 30, 38);
   ctx.fillStyle='rgba(192,132,252,.65)'; ctx.font=`14px ${F}`;
-  ctx.fillText('Cirkulární sken · Česká Třebová · leden 2026', 30, 62);
+  ctx.fillText('Circular Scan · Česká Třebová · January 2026', 30, 62);
 
   ctx.fillStyle='rgba(255,255,255,.08)'; ctx.fillRect(30,80,1140,1);
 
   // ── CERTIFIKÁT label ──
   ctx.fillStyle='rgba(255,255,255,.3)'; ctx.font=`600 13px ${F}`;
-  ctx.fillText('CERTIFIKÁT CIRKULÁRNÍHO OBČANA', 30, 112);
+  ctx.fillText('CIRCULAR CITIZEN CERTIFICATE', 30, 112);
 
   // ── Recipient name (big) ──
   const nfs = name.length>22 ? 58 : name.length>16 ? 70 : 86;
@@ -1384,7 +1384,7 @@ function _drawCert(name, score, badge, znakImg){
 
   // ── Score ──
   ctx.fillStyle='rgba(255,255,255,.38)'; ctx.font=`500 16px ${F}`;
-  ctx.fillText('Cirkulární index', 30, 318);
+  ctx.fillText('Circular index', 30, 318);
 
   // Large score with gradient
   const sGrad=ctx.createLinearGradient(30,0,200,0);
@@ -1404,13 +1404,13 @@ function _drawCert(name, score, badge, znakImg){
   const crX=30+660*0.62;
   ctx.fillStyle='rgba(255,255,255,.55)'; ctx.fillRect(crX,413,2,26);
   ctx.fillStyle='rgba(255,255,255,.4)'; ctx.font=`13px ${F}`;
-  ctx.fillText('ČR Ø 62 %', crX-2, 452);
+  ctx.fillText('CZ avg 62%', crX-2, 452);
 
   // Comparison
   const diff=score-62;
   ctx.fillStyle=diff>=0?'#00d799':'#f59e0b';
   ctx.font=`600 16px ${F}`;
-  ctx.fillText(diff>=0?`✓ +${diff} % oproti průměru ČR`:`${diff} % pod průměrem ČR`, 30, 480);
+  ctx.fillText(diff>=0?`✓ +${diff}% above CZ average`:`${diff}% below CZ average`, 30, 480);
 
   // Hint
   ctx.fillStyle='rgba(255,255,255,.38)'; ctx.font=`15px ${F}`;
@@ -1443,12 +1443,12 @@ function _drawCert(name, score, badge, znakImg){
   ctx.fillStyle='#00d799'; ctx.font=`700 18px ${F}`;
   ctx.fillText('Cirkulární hub Pardubice', 824, 581);
   ctx.fillStyle='rgba(255,255,255,.35)'; ctx.font=`13px ${F}`;
-  ctx.fillText('cirkularni-hub.cz · #CirkulárníTřebová', 824, 601);
+  ctx.fillText('cirkularni-hub.cz · #CircularTrebova', 824, 601);
 
   // ── Footer ──
   ctx.fillStyle='rgba(255,255,255,.1)'; ctx.fillRect(30,600,1140,1);
   ctx.fillStyle='rgba(255,255,255,.2)'; ctx.font=`13px ${F}`;
-  ctx.fillText('Česká Třebová · Cirkulární sken 2026 · cirkularni-hub.cz · ' + new Date().toLocaleDateString('cs-CZ'), 30, 622);
+  ctx.fillText('Česká Třebová · Circular Scan 2026 · cirkularni-hub.cz · ' + new Date().toLocaleDateString('en-GB'), 30, 622);
 
   // Show
   document.getElementById('qzCanvasWrap').classList.add('show');
@@ -1469,16 +1469,16 @@ function _roundRect(ctx,x,y,w,h,r){
 function shareResult(){
   const score = window._quizScore||0;
   const badge = window._quizBadge||BADGES[0];
-  const text = `🐓 Jsem ${badge.title} – mám cirkulární index ${score}%! Vyzkoušej to i ty na webu Cirkulárního skenu Česká Třebová. #CirkulárníTřebová #CEHub`;
+  const text = `🐓 I am a ${badge.title} – my circular index is ${score}%! Try it yourself on the Circular Scan website for Česká Třebová. #CircularTrebova #CEHub`;
   if(navigator.share){
-    navigator.share({title:'Cirkulární certifikát', text}).catch(()=>{});
+    navigator.share({title:'Circular certificate', text}).catch(()=>{});
   } else {
     navigator.clipboard.writeText(text).then(()=>{
       const btn = event.target;
       const orig = btn.textContent;
-      btn.textContent='✓ Zkopírováno!';
+      btn.textContent='✓ Copied!';
       setTimeout(()=>btn.textContent=orig,2000);
-    }).catch(()=>alert('Zkopíruj text ručně:\n\n'+text));
+    }).catch(()=>alert('Copy the text manually:\n\n'+text));
   }
 }
 
@@ -1498,104 +1498,104 @@ function resetQuiz(){
 const _CHAT_KEY = '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';
 const _CHAT_MODEL = 'claude-haiku-4-5-20251001';
 
-const _CHAT_SYSTEM = `Jsi přátelský a věcný asistent Cirkulárního skenu pro město Česká Třebová. Odpovídáš VÝHRADNĚ česky. Odpovídáš pouze na základě níže uvedené znalostní báze. Pokud otázka nesouvisí s cirkulární ekonomikou nebo výsledky skenu České Třebové, zdvořile odmítni. Pokud konkrétní informaci ve znalostní bázi nemáš, řekni: "Tuto konkrétní informaci ve skenu nemám, ale můžeš se obrátit přímo na CE Hub Pardubice na www.cirkularni-hub.cz." Buď stručný, přátelský a konkrétní. Nepoužívej markdown ani odrážky – piš jako přirozený text.
+const _CHAT_SYSTEM = `You are a friendly and factual assistant for the Circular Scan of Česká Třebová. You respond EXCLUSIVELY in English. You answer only based on the knowledge base below. If the question is unrelated to the circular economy or the Česká Třebová scan results, politely decline. If you don't have the specific information in the knowledge base, say: "I don't have that specific information in the scan, but you can contact CE Hub Pardubice directly at www.cirkularni-hub.cz." Be concise, friendly and specific. Do not use markdown or bullet points – write as natural flowing text.
 
-=== ZNALOSTNÍ BÁZE ===
+=== KNOWLEDGE BASE ===
 
-MĚSTO A SKEN:
-Česká Třebová, Pardubický kraj, 15 010 obyvatel. Cirkulární sken provedl Circular Economy Hub Pardubice (CE Hub) v lednu 2026. Web CE Hubu: www.cirkularni-hub.cz, web města: www.ceska-trebova.cz.
+CITY AND SCAN:
+Česká Třebová, Pardubice Region, 15,010 residents. The Circular Scan was carried out by Circular Economy Hub Pardubice (CE Hub) in January 2026. CE Hub website: www.cirkularni-hub.cz, city website: www.ceska-trebova.cz.
 
-CELKOVÝ VÝSLEDEK:
-Celková míra cirkularity 70,4 % – výborný výsledek. Česká Třebová patří mezi nejlépe hodnocená srovnatelná česká města. Sken hodnotí 5 oblastí: odpadové hospodářství, biodiverzita a lokálnost, strategie a politika, doprava, výstavba a budovy.
+OVERALL RESULT:
+Overall circularity rate 70.4% – an excellent result. Česká Třebová is among the best-rated comparable Czech cities. The scan assesses 5 areas: waste management, biodiversity and local, strategy and policy, transport, construction and buildings.
 
-OBLAST 1 – ODPADOVÉ HOSPODÁŘSTVÍ (82 %, nejsilnější oblast):
-Míra třídění odpadu 69,9 % – splněn zákonný cíl ČR pro rok 2025 (60 %) s velkým přehledem a výrazně nad průměrem ČR. Pokles směsného komunálního odpadu (SKO) o 31,8 % od roku 2015. Produkce SKO 161 kg/obyvatele (průměr ČR 246 kg). Nárůst třídění bioodpadu o 154 %. Nárůst třídění 2015–2025: textil +213 %, kovy +164 %, plasty +161 %, papír +106 %, sklo +21 %. Systém door-to-door: plast, papír a bioodpad se sbírají přímo od dveří. RFID čipované popelnice. Vlastní kompostárna. Re-use centrum (v přípravě). Doporučení: zavést pilotní sběr gastroodpadu (kuchyňský odpad z domácností), rozšířit re-use centrum o workshopy oprav.
+AREA 1 – WASTE MANAGEMENT (82%, strongest area):
+Waste sorting rate 69.9% – Czech legal target for 2025 (60%) met with a large margin, well above the national average. Residual municipal waste (RMW) fell by 31.8% since 2015. RMW production 161 kg/resident (Czech average 246 kg). Bio-waste sorting increased by 154%. Sorting growth 2015–2025: textiles +213%, metals +164%, plastics +161%, paper +106%, glass +21%. Door-to-door system: plastics, paper and bio collected directly from doors. RFID-chipped bins. Own composting facility. Re-use centre (in preparation). Recommendations: introduce pilot food waste collection (kitchen waste from households), expand re-use centre with repair workshops.
 
-OBLAST 2 – BIODIVERZITA A LOKÁLNOST (75 %):
-Studie sídelní zeleně, ÚSES (územní systém ekologické stability) zahrnutý v územním plánu. Dva komunitní sady na městských pozemcích. Řemeslné trhy podporující lokální výrobce. Doporučení: vytvořit strategii pro lokální producenty potravin, instalovat záchyt dešťové vody pro zálivku veřejné zeleně a nových staveb.
+AREA 2 – BIODIVERSITY AND LOCAL (75%):
+Green infrastructure study, ecological network (ÚSES) included in master plan. Two community orchards on city land. Craft markets supporting local producers. Recommendations: create strategy for local food producers, install rainwater harvesting for irrigation of public greenery and new buildings.
 
-OBLAST 3 – STRATEGIE A POLITIKA (72 %):
-Principy udržitelnosti zakotveny v strategickém plánu rozvoje, MEK (Místní energetická koncepce) a územním plánu. Aktivní regionální spolupráce. Environmentální vzdělávání ve školách. Doporučení: přidat samostatnou kapitolu udržitelnosti do strategického plánu, vstoupit do Sítě Zdravých měst.
+AREA 3 – STRATEGY AND POLICY (72%):
+Sustainability principles embedded in strategic development plan, MEK (Local Energy Concept) and master plan. Active regional cooperation. Environmental education in schools. Recommendations: add a standalone sustainability chapter to the strategic plan, join the Healthy Cities Network.
 
-OBLAST 4 – DOPRAVA (67 %):
-33 km cyklostezek – 2,26 km na 1 000 obyvatel, nadstandardní výsledek. Sdílená kola a nabíjení elektrokol. Zpracovaná cyklokoncepce. Silný železniční uzel. Doporučení: pilotní poptávková doprava na vyžádání jako doplněk regionální sítě, rozšíření parkování pro kola.
+AREA 4 – TRANSPORT (67%):
+33 km of cycle routes – 2.26 km per 1,000 residents, an above-standard result. Shared bikes and e-bike charging. Completed cycling concept plan. Strong railway hub. Recommendations: pilot on-demand transport as a complement to the regional network, expand bicycle parking.
 
-OBLAST 5 – VÝSTAVBA A BUDOVY (59 %, největší prostor pro zlepšení):
-18,5 % energie z obnovitelných zdrojů v městských budovách. 3 fotovoltaické instalace (FVE) v provozu, sdílení energie na 5 odběrných místech. Modulární přístavba MŠ U Koupaliště – rychlé a cirkulární řešení kapacit školky. Doporučení: digitalizovat správu majetku (nahradit tabulky moderním systémem evidence), systematicky využívat recyklované materiály při obnově komunikací.
+AREA 5 – CONSTRUCTION AND BUILDINGS (59%, greatest room for improvement):
+18.5% of energy from renewable sources in city buildings. 3 photovoltaic installations (PV) operational, energy sharing across 5 metering points. Modular nursery extension at U Koupaliště – fast and circular solution for nursery capacity. Recommendations: digitalise asset management (replace spreadsheets with a modern system), systematically use recycled materials when renewing road surfaces.
 
-PLÁNOVANÁ OPATŘENÍ:
-Pilotní sběr gastroodpadu: plánováno. Rozšíření fotovoltaiky: v přípravě. Rozvoj cyklodopravy: realizováno. Re-use centrum: v přípravě.
+PLANNED MEASURES:
+Pilot food waste collection: planned. Solar PV expansion: in progress. Cycling infrastructure: completed. Re-use centre: in preparation.
 
-ZASTUPITELÉ:
-Starosta Zdeněk Řehák: "Výsledky cirkulárního skenu nás utvrzují, že jdeme správnou cestou – a jsem rád, že tuto cestu jdeme společně s obyvateli města." Místostarostka Petra Válková: "Sken nám pomohl pojmenovat konkrétní kroky, které chceme v příštích letech realizovat – a rádi bychom je realizovali s vaší podporou."
+REPRESENTATIVES:
+Mayor Zdeněk Řehák: "The results of the Circular Scan confirm we are on the right path – and I am glad to be walking it together with the city's residents." Deputy Mayor Petra Válková: "The Scan helped us name the concrete steps we want to take in the coming years – and we would love to take them with your support."
 
-CO JE CIRKULÁRNÍ EKONOMIKA:
-Cirkulární ekonomika (oběhové hospodářství) je systém, kde se produkty, materiály a zdroje udržují v oběhu co nejdéle. Opak lineární ekonomiky (vyrob – použij – vyhoď). Základní principy: předcházení vzniku odpadu, opětovné použití, oprava, recyklace. Cílem je minimalizovat odpad a snižovat spotřebu přírodních zdrojů.
+WHAT IS THE CIRCULAR ECONOMY:
+The circular economy is a system where products, materials and resources are kept in circulation for as long as possible – the opposite of the linear economy (make, use, throw away). Core principles: waste prevention, reuse, repair, recycling. The goal is to minimise waste and reduce consumption of natural resources.
 
-JAK SE ZAPOJIT JAKO OBČAN:
-Třídit odpad do správných kontejnerů – plast, papír, sklo, kov, bioodpad. Využívat door-to-door sběr (plast, papír, bio přímo od dveří). Navštívit re-use centrum až bude otevřeno. Nakupovat u místních výrobců na řemeslných trzích. Jezdit na kole – 33 km cyklostezek v Třebové. Využívat sdílená kola nebo elektrokola. Kompostovat bioodpad. Účastnit se komunitních sadů.`;
+HOW TO GET INVOLVED AS A CITIZEN:
+Sort waste into the correct bins – plastics, paper, glass, metal, bio-waste. Use door-to-door collection (plastics, paper, bio collected directly from your door). Visit the re-use centre once it opens. Shop from local producers at craft markets. Cycle – 33 km of cycle routes in Třebová. Use shared bikes or e-bikes. Compost bio-waste. Take part in community orchards.`;
 
 /* ── FAQ ZÁLOHA (spustí se pokud API selže) ── */
 const _FAQ = [
   {
-    keys:['celkov','výsledek','skóre','skore','procent','míra cirkularity','celková','hodnocení','celkem'],
-    a:'Česká Třebová dosáhla celkové míry cirkularity 70,4 % – to je výborný výsledek a jedno z nejlepších hodnocení mezi srovnatelnými českými městy. Sken hodnotil 5 oblastí: odpady, biodiverzita, strategie, doprava a budovy.'
+    keys:['overall','result','score','percent','circularity rate','total','rating'],
+    a:'Česká Třebová achieved an overall circularity rate of 70.4% – an excellent result and one of the best ratings among comparable Czech cities. The scan assessed 5 areas: waste, biodiversity, strategy, transport and buildings.'
   },
   {
-    keys:['odpad','třídění','třídit','sko','komunální','tříd','popelnic','kontejner'],
-    a:'Odpadové hospodářství je nejsilnější oblastí – 82 %. Míra třídění je 69,9 %, což překračuje zákonný cíl ČR (60 %) s velkým přehledem. Komunální odpad klesl o 31,8 % od roku 2015 a nyní produkujeme jen 161 kg/obyvatele (průměr ČR je 246 kg). Funguje systém door-to-door: plast, papír a bio se sbírají přímo od dveří.'
+    keys:['waste','sorting','sort','residual','municipal','bin','container','recycle'],
+    a:'Waste management is the strongest area – 82%. The sorting rate is 69.9%, which exceeds the Czech legal target (60%) by a large margin. Municipal waste fell by 31.8% since 2015 and production is just 161 kg/resident (Czech average 246 kg). A door-to-door system operates: plastics, paper and bio are collected directly from doors.'
   },
   {
-    keys:['bioodpad','bio','kompost','kompostár','gastroodpad','kuchyň'],
-    a:'Třídění bioodpadu vzrostlo o 154 % za posledních 10 let. Město má vlastní kompostárnu. Jako příští krok se plánuje pilotní sběr gastroodpadu (kuchyňský odpad z domácností), který je zatím ve fázi přípravy.'
+    keys:['bio','compost','food waste','kitchen','organic'],
+    a:'Bio-waste sorting has grown by 154% over the past 10 years. The city has its own composting facility. The next planned step is a pilot food waste collection (kitchen waste from households), currently in the preparation phase.'
   },
   {
-    keys:['kolo','cyklo','cyklostezk','bike','elektrokolo','sdílen','doprava','vlak','autobus','chůz'],
-    a:'Oblast dopravy má skóre 67 %. Česká Třebová má 33 km cyklostezek – to je 2,26 km na 1 000 obyvatel, což je nadstandardní výsledek. Jsou k dispozici sdílená kola a nabíjení elektrokol. Město má zpracovanou cyklokoncepci a je silným železničním uzlem. Do budoucna se plánuje poptávková doprava na vyžádání.'
+    keys:['bike','cycle','cycling','ebike','shared','transport','train','bus','walk'],
+    a:'The transport area scores 67%. Česká Třebová has 33 km of cycle routes – 2.26 km per 1,000 residents, an above-standard result. Shared bikes and e-bike charging are available. The city has a completed cycling concept and is a strong railway hub. On-demand transport is planned for the future.'
   },
   {
-    keys:['solar','fotovoltaik','fve','energie','obnoviteln','oze','elektřina','budov','výstavb'],
-    a:'Oblast výstavby a budov má skóre 59 % – největší prostor pro zlepšení. Pozitivem je 18,5 % energie z obnovitelných zdrojů v městských budovách, 3 fotovoltaické instalace a sdílení energie na 5 odběrných místech. Stojí za zmínku modulární přístavba MŠ U Koupaliště. Doporučujeme digitalizovat správu majetku a využívat recyklované materiály při opravách komunikací.'
+    keys:['solar','photovoltaic','pv','energy','renewable','res','electricity','buildings','construction'],
+    a:'The construction and buildings area scores 59% – the greatest room for improvement. Positives include 18.5% of energy from renewable sources in city buildings, 3 PV installations and energy sharing across 5 metering points. The modular nursery extension at U Koupaliště is worth noting. Recommendations: digitalise asset management and use recycled materials when repairing roads.'
   },
   {
-    keys:['zelen','sad','biodiverzit','příroda','strom','park','lokáln','farmář','trh','výrobc'],
-    a:'Oblast biodiverzity a lokálnosti má skóre 75 %. Fungují dva komunitní sady na městských pozemcích a pravidelné řemeslné trhy pro lokální výrobce. Územní plán zahrnuje ÚSES (územní systém ekologické stability) a byla zpracována studie sídelní zeleně. Doporučuje se záchyt dešťové vody pro zálivku.'
+    keys:['green','orchard','biodiversity','nature','tree','park','local','farmer','market','producer'],
+    a:'Biodiversity and local scores 75%. Two community orchards on city land and regular craft markets for local producers are in operation. The master plan includes an ecological network and a green infrastructure study was completed. Rainwater harvesting for irrigation is recommended.'
   },
   {
-    keys:['strategi','politika','plán','mek','dokument','zastupitel','vedení','samospráv'],
-    a:'Oblast strategie a politiky má skóre 72 %. Principy udržitelnosti jsou zakotveny v strategickém plánu rozvoje, MEK (Místní energetická koncepcí) i územním plánu. Funguje aktivní regionální spolupráce a environmentální vzdělávání ve školách. Doporučujeme přidat samostatnou kapitolu udržitelnosti a vstoupit do Sítě Zdravých měst.'
+    keys:['strategy','policy','plan','mek','document','representative','leadership','government'],
+    a:'Strategy and policy scores 72%. Sustainability principles are embedded in the strategic development plan, MEK (Local Energy Concept) and master plan. Active regional cooperation and environmental education in schools are in place. A standalone sustainability chapter and joining the Healthy Cities Network are recommended.'
   },
   {
-    keys:['re-use','reuse','opravit','oprav','swap','bazar','darovat'],
-    a:'Re-use centrum je aktuálně ve fázi přípravy (cca 45 % připravenosti). Jakmile bude otevřeno, budete moct přinést věci, které už nepotřebujete, nebo si vzít ty, co někdo jiný odložil. Plánují se také workshopy oprav.'
+    keys:['re-use','reuse','repair','swap','second','donate'],
+    a:'The re-use centre is currently in the preparation phase (approx. 45% ready). Once open, you will be able to bring items you no longer need or take ones someone else has left. Repair workshops are also planned.'
   },
   {
-    keys:['zapojit','pomoci','jak','citizen','občan','co mohu','co muzem','co děl'],
-    a:'Jako občan můžeš: třídit odpad do správných kontejnerů, využívat door-to-door sběr (plast, papír, bio přímo od dveří), nakupovat u místních výrobců na řemeslných trzích, jezdit na kole po 33 km cyklostezek, využívat sdílená kola nebo elektrokola, kompostovat bioodpad a účastnit se komunitních sadů.'
+    keys:['get involved','help','how','citizen','what can i','what can we'],
+    a:'As a citizen you can: sort waste into the correct bins, use door-to-door collection (plastics, paper, bio collected from your door), shop from local producers at craft markets, cycle along 33 km of cycle routes, use shared bikes or e-bikes, compost bio-waste and participate in community orchards.'
   },
   {
-    keys:['ce hub','cirkulární hub','kdo dělá','kdo provád','organizac','pardubice','autoři'],
-    a:'Cirkulární sken provedl Circular Economy Hub Pardubice (CE Hub) v lednu 2026. CE Hub pomáhá městům a obcím přecházet na oběhové hospodářství. Více na www.cirkularni-hub.cz.'
+    keys:['ce hub','circular hub','who does','who carries','organisation','pardubice','authors'],
+    a:'The Circular Scan was carried out by Circular Economy Hub Pardubice (CE Hub) in January 2026. CE Hub helps cities and municipalities transition to a circular economy. More at www.cirkularni-hub.cz.'
   },
   {
-    keys:['co je','cirkulární sken','sken','audit','metodika','jak funguje sken'],
-    a:'Cirkulární sken je komplexní audit cirkularity města. Hodnotí 5 oblastí: strategie, výstavba, odpady, doprava a biodiverzita. Každá oblast je bodována a váhována. Výstupem je přehledná zpráva s celkovým skóre, silnými stránkami a konkrétními doporučeními. Sken provádí CE Hub Pardubice – více na www.cirkularni-hub.cz.'
+    keys:['what is','circular scan','scan','audit','methodology','how does scan work'],
+    a:'A Circular Scan is a comprehensive circularity audit of a city. It assesses 5 areas: strategy, construction, waste, transport and biodiversity. Each area is scored and weighted. The output is a clear report with an overall score, strengths and specific recommendations. The scan is delivered by CE Hub Pardubice – more at www.cirkularni-hub.cz.'
   },
   {
-    keys:['cirkulární ekonomika','oběhové hospodářství','co to je','princip','lineární'],
-    a:'Cirkulární ekonomika je systém, kde se produkty, materiály a zdroje udržují v oběhu co nejdéle – opak lineární ekonomiky „vyrob, použij, vyhoď". Základní principy jsou: předcházení vzniku odpadu, opětovné použití, oprava a recyklace. Cílem je minimalizovat odpad a snižovat spotřebu přírodních zdrojů.'
+    keys:['circular economy','what is circular','principle','linear'],
+    a:'The circular economy is a system where products, materials and resources are kept in circulation for as long as possible – the opposite of the linear economy (make, use, throw away). Core principles: waste prevention, reuse, repair and recycling. The goal is to minimise waste and reduce consumption of natural resources.'
   },
   {
-    keys:['starosta','řehák','válková','místostarost','zastupitel'],
-    a:'Starosta Zdeněk Řehák k výsledkům skenu: „Výsledky cirkulárního skenu nás utvrzují, že jdeme správnou cestou – a jsem rád, že tuto cestu jdeme společně s obyvateli města." Místostarostka Petra Válková: „Sken nám pomohl pojmenovat konkrétní kroky, které chceme v příštích letech realizovat."'
+    keys:['mayor','rehak','valkova','deputy','representative'],
+    a:'Mayor Zdeněk Řehák on the scan results: "The results of the Circular Scan confirm we are on the right path – and I am glad to be walking it together with the city's residents." Deputy Mayor Petra Válková: "The Scan helped us name the concrete steps we want to take in the coming years."'
   },
   {
-    keys:['doporučení','co zlepšit','co chybí','příští krok','plán'],
-    a:'Hlavní doporučení ze skenu: zavést pilotní sběr gastroodpadu, rozšířit re-use centrum o workshopy oprav, digitalizovat správu majetku, zavést záchyt dešťové vody, ověřit poptávkovou dopravu na vyžádání a systematicky využívat recyklované materiály při obnově komunikací.'
+    keys:['recommendation','improve','missing','next step','plan'],
+    a:'Key recommendations from the scan: introduce pilot food waste collection, expand the re-use centre with repair workshops, digitalise asset management, install rainwater harvesting, pilot on-demand transport and systematically use recycled materials when renewing road surfaces.'
   },
   {
-    keys:['web','stránka','informac','novinky','aktuálně','sledovat'],
-    a:'Aktuální novinky a chystané projekty města najdeš na www.ceska-trebova.cz. Pro informace o cirkulárních projektech a skenu navštiv www.cirkularni-hub.cz.'
+    keys:['website','page','information','news','updates','follow'],
+    a:'Current news and planned city projects can be found at www.ceska-trebova.cz. For information on circular projects and the scan visit www.cirkularni-hub.cz.'
   }
 ];
 
@@ -1611,7 +1611,7 @@ function _faqAnswer(q) {
     if(score > bestScore){ bestScore=score; best=faq; }
   }
   if(bestScore >= 3) return best.a;
-  return 'Na tuto otázku ve znalostní bázi odpověď nemám. Zkus se zeptat jinak, nebo navštiv web města na www.ceska-trebova.cz nebo CE Hub Pardubice na www.cirkularni-hub.cz 🙏';
+  return 'I don\'t have an answer to this question in my knowledge base. Try rephrasing, or visit the city website at www.ceska-trebova.cz or CE Hub Pardubice at www.cirkularni-hub.cz 🙏';
 }
 
 let _chatHistory = [];
@@ -1644,7 +1644,7 @@ function toggleChat(){
   fab.classList.toggle('open', _chatOpen);
   if(_chatOpen){
     _hideBubble();
-    if(!_chatWelcomed){ _chatWelcomed=true; _appendMsg('bot','Ahoj! 👋 Jsem Cirkulka, asistentka CE Hubu pro Českou Třebovou. Zeptej se mě na výsledky Cirkulárního skenu, co město plánuje nebo jak se zapojit – ráda poradím! 🌱'); }
+    if(!_chatWelcomed){ _chatWelcomed=true; _appendMsg('bot','Hi! 👋 I\'m Cirkulka, the CE Hub assistant for Česká Třebová. Ask me about the Circular Scan results, what the city is planning or how to get involved – I\'d love to help! 🌱'); }
     setTimeout(()=>{ const inp=document.getElementById('chatInput'); if(inp) inp.focus(); },320);
   }
 }
@@ -1687,7 +1687,7 @@ async function sendChatMessage(){
 
     if(!res.ok){
       const errBody = await res.json().catch(()=>({}));
-      console.warn('API nedostupné, přepínám na FAQ zálohu', res.status, errBody);
+      console.warn('API unavailable, switching to FAQ fallback', res.status, errBody);
       _removeMsg(typId);
       _appendMsg('bot', '📚 ' + _faqAnswer(text));
       _chatHistory.push({role:'assistant', content:_faqAnswer(text)});
@@ -1721,7 +1721,7 @@ async function sendChatMessage(){
     if(full) _chatHistory.push({role:'assistant',content:full});
   } catch(e){
     _removeMsg(typId);
-    console.warn('Síťová chyba, přepínám na FAQ zálohu', e);
+    console.warn('Network error, switching to FAQ fallback', e);
     _appendMsg('bot', '📚 ' + _faqAnswer(text));
   }
   _done();
