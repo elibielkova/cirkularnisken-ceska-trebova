@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-05-13T06:14:34Z",
+  "aktualizovano": "2026-05-14T06:12:43Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,14 +7,14 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7648 záznamů na stránce: -1- 2 3 4 5 ... 510 Prodloužení servisní haly v depu bude dokončeno ještě v letošním roce (12.5.2026) Starosta města Zdeněk Řehák tento pracovní týden zahájil v pondělí ráno návštěvou místního depa, kde se setkal s Jaroslavem Šauerem, vedoucím kompetenčního centra, a Zdenkem Jindrou, předsedou místní odborové organizace železničář",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7652 záznamů na stránce: -1- 2 3 4 5 ... 511 Oznámení o přerušení dodávky el. energie dne 03.06.2026 [PDF, 1,2 MB] (13.5.2026) Složka dokumentů: Oznámení o přerušení dodávky elektrické energie Plnění rozpočtu města k 30. 04. 2026 (13.5.2026) Složka dokumentů: Rozpočet města pro rok 2026 Den Země hravou formou posílil vztah dětí k přírodě (13.5.2026) Ani n",
       "kategorie": "priroda",
       "klicova_slova": [
         "oze",
+        "park",
         "voda",
         "zahrada",
-        "strom",
-        "sad"
+        "strom"
       ]
     },
     {
@@ -50,6 +50,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3168 záznamů na stránce: -1- 2 3 4 5 ... 212 Změněno Název a anotace Zodpovídá 13.5.2026 Den Země hravou formou posílil vztah dětí k přírodě Ani nepřízeň počasí během včerejšího dopoledne neodradila místní školáky od návštěvy Dne Země v městském parku Javorka. Odměnou jim byl pestrý program, který na jednotlivých stanovištích připravily místní organizac",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "zahrada"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
@@ -60,19 +73,6 @@
         "voda",
         "sad",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3167 záznamů na stránce: -1- 2 3 4 5 ... 212 Změněno Název a anotace Zodpovídá 12.5.2026 Prodloužení servisní haly v depu bude dokončeno ještě v letošním roce Starosta města Zdeněk Řehák tento pracovní týden zahájil v pondělí ráno návštěvou místního depa, kde se setkal s Jaroslavem Šauerem, vedoucím kompetenčního centra, a Zdenkem Jindrou, předsedou mís",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "park",
-        "voda",
-        "zahrada"
       ]
     }
   ]
