@@ -1,13 +1,13 @@
 {
-  "aktualizovano": "2026-05-20T06:36:37Z",
+  "aktualizovano": "2026-05-21T06:39:18Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 6,
+  "pocet_stranek": 7,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7657 záznamů na stránce: -1- 2 3 4 5 ... 511 Informace o omezení provozu kanceláře matriky (21.5.2026) Vážení občané, dovolujeme si vás informovat, že ve čtvrtek 21. května 2026 bude z důvodu školení uzavřena kancelář matriky. Složka dokumentů: Zpravodajství města Stanovení místní úpravy provozu na pozemních komunikacích - ul. Tykačova v obci Česká Třebov",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7661 záznamů na stránce: -1- 2 3 4 5 ... 511 Informace o omezení provozu kanceláře matriky (21.5.2026) Vážení občané, dovolujeme si vás informovat, že ve čtvrtek 21. května 2026 bude z důvodu školení uzavřena kancelář matriky. Složka dokumentů: Zpravodajství města Začalo rozšíření lezecké stěny na ZŠ Habrmanova (20.5.2026) V tomto týdnu začali dělníci pra",
       "kategorie": "priroda",
       "klicova_slova": [
         "oze",
@@ -34,19 +34,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3175 záznamů na stránce: -1- 2 3 4 5 ... 212 Změněno Název a anotace Zodpovídá 21.5.2026 Informace o omezení provozu kanceláře matriky Vážení občané, dovolujeme si vás informovat, že ve čtvrtek 21. května 2026 bude z důvodu školení uzavřena kancelář matriky. Bc. Jiří Holý 19.5.2026 Rozhledna na Kozlovském kopci v současné podobě slouží už čtvrt století ",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "oze",
-        "park",
-        "voda",
-        "zahrada",
-        "strom"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
       "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
@@ -57,6 +44,30 @@
         "zelen",
         "park",
         "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Djunak/ds-1158/archiv=0",
+      "nadpis": "Zpravodajství Junák: Česká Třebová",
+      "ukazka": "Zpravodajství Junák Zobrazeno je 15 z celkem 115 záznamů na stránce: -1- 2 3 4 5 ... 8 Skauti z České Třebové navštívili polské harcery v Oławě (1.5.2026) 3. chlapecký oddíl střediska Javor Česká Třebová uspořádal první letošní mezinárodní skautskou akci. Během návštěvy polských harcerů v Oławě čekaly účastníky seznamovací hry, plánování společných aktivit i výlet do Vratislavi. Dlouhodobá spolupr",
+      "kategorie": "doprava",
+      "klicova_slova": [
+        "vlak",
+        "voda",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3177 záznamů na stránce: -1- 2 3 4 5 ... 212 Změněno Název a anotace Zodpovídá 20.5.2026 Začalo rozšíření lezecké stěny na ZŠ Habrmanova V tomto týdnu začali dělníci pracovat na revitalizaci lezecké stěny ve sportovním areálu u ZŠ Habrmanova. Práce spočívají především v rozšíření o dva sloupce po bocích stávající stěny. Bc. Jiří Holý 20.5.2026 Od ponděl",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "strom"
       ]
     },
     {
