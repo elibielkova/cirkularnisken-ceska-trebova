@@ -1,8 +1,8 @@
 {
-  "aktualizovano": "2026-05-24T06:24:33Z",
+  "aktualizovano": "2026-05-25T06:58:33Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
@@ -49,30 +49,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3181 záznamů na stránce: -1- 2 3 4 5 ... 213 Změněno Název a anotace Zodpovídá 23.5.2026 Přesně za týden bude \"Bábovkový den\" [PDF, 830 kB] Hlavním cílem kampaně je poděkování náhradním rodičům a všem, kteří jim pomáhají. Bc. Jiří Holý 23.5.2026 Informace o omezení plateb v podzemním parkovišti na náměstí Jana Pernera Vážení občané a návštěvníci města, ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "park",
-        "voda",
-        "sad"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/ceskotrebovsky%2Dzpravodaj/ds-1376/archiv=0",
-      "nadpis": "Českotřebovský zpravodaj: Česká Třebová",
-      "ukazka": "Českotřebovský zpravodaj Informační měsíčník města Česká Třebová Od července 2016 do prosince 2019 vydávalo město Česká Třebová ve spolupráci s Městskou knihovnou Česká Třebová informační měsíčník pro občany města – Českotřebovské noviny. Od ledna 2020 se změnil název městského periodika na Českotřebovský zpravodaj. Uzávěrka pro posílání příspěvků je vždy 14. den v měsíci. Otištění vzpomínky na ze",
-      "kategorie": "energie",
-      "klicova_slova": [
-        "oze",
-        "voda",
-        "plan"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
@@ -83,6 +59,19 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3181 záznamů na stránce: -1- 2 3 4 5 ... 213 Změněno Název a anotace Zodpovídá 23.5.2026 Přesně za týden bude \"Bábovkový den\" [PDF, 830 kB] Hlavním cílem kampaně je poděkování náhradním rodičům a všem, kteří jim pomáhají. Bc. Jiří Holý 23.5.2026 Informace o omezení plateb v podzemním parkovišti na náměstí Jana Pernera Vážení občané a návštěvníci města, ",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "sad"
       ]
     }
   ]
