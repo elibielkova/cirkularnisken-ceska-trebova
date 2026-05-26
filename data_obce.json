@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-05-25T06:58:33Z",
+  "aktualizovano": "2026-05-26T06:34:42Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,14 +7,14 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7670 záznamů na stránce: -1- 2 3 4 5 ... 512 Přesně za týden bude \"Bábovkový den\" [PDF, 830 kB] (23.5.2026) Hlavním cílem kampaně je poděkování náhradním rodičům a všem, kteří jim pomáhají. Složka dokumentů: Zpravodajství města Informace o omezení plateb v podzemním parkovišti na náměstí Jana Pernera (23.5.2026) Vážení občané a návštěvníci města, pokud se",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7675 záznamů na stránce: -1- 2 3 4 5 ... 512 Pozvánka na jednání zastupitelstva města dne 15.06.2026 [PDF, 163 kB] (25.5.2026) Složka dokumentů: Různé Rozhodnutí - povolení stavby - ,,SOLIDA skladová hala\" Semanínská, Česká Třebová [PDF, 736 kB] (25.5.2026) Složka dokumentů: Odbor stavební a životního prostředí Rozhodnutí - povolení stavby - ,,Silnice III",
       "kategorie": "priroda",
       "klicova_slova": [
+        "odpad",
         "oze",
         "park",
         "voda",
-        "plan",
-        "projekt"
+        "plan"
       ]
     },
     {
@@ -49,6 +49,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3182 záznamů na stránce: -1- 2 3 4 5 ... 213 Změněno Název a anotace Zodpovídá 25.5.2026 Kolik odpadkových košů potřebujeme? Komise pro životní prostředí nabízí na toto téma zamyšlení V České republice se jako orientační hodnota pro plánování veřejného prostoru uvádí přibližně 6–7 odpadkových košů na 1 000 obyvatel. Jejich reálné rozmístění se vždy odví",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "park",
+        "voda",
+        "plan",
+        "projekt"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
@@ -59,19 +72,6 @@
         "voda",
         "sad",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3181 záznamů na stránce: -1- 2 3 4 5 ... 213 Změněno Název a anotace Zodpovídá 23.5.2026 Přesně za týden bude \"Bábovkový den\" [PDF, 830 kB] Hlavním cílem kampaně je poděkování náhradním rodičům a všem, kteří jim pomáhají. Bc. Jiří Holý 23.5.2026 Informace o omezení plateb v podzemním parkovišti na náměstí Jana Pernera Vážení občané a návštěvníci města, ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "park",
-        "voda",
-        "sad"
       ]
     }
   ]
