@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-05-26T06:34:42Z",
+  "aktualizovano": "2026-05-27T06:51:02Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,12 +7,11 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7675 záznamů na stránce: -1- 2 3 4 5 ... 512 Pozvánka na jednání zastupitelstva města dne 15.06.2026 [PDF, 163 kB] (25.5.2026) Složka dokumentů: Různé Rozhodnutí - povolení stavby - ,,SOLIDA skladová hala\" Semanínská, Česká Třebová [PDF, 736 kB] (25.5.2026) Složka dokumentů: Odbor stavební a životního prostředí Rozhodnutí - povolení stavby - ,,Silnice III",
-      "kategorie": "priroda",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7683 záznamů na stránce: -1- 2 3 4 5 ... 513 Návrh závěrečného účtu DSO ROT za rok 2025 [PDF, 495 kB] (27.5.2026) Složka dokumentů: Různé VEŘEJNÁ VYHLÁŠKA - stanovení přechodné úpravy provozu na pozemních komunikacích- umístění dopravních značek na komunikacích  v obci Česká Třebová- výstavba bytových domů Na Primoně (26.5.2026) Složka dokumentů: Odbor st",
+      "kategorie": "odpady",
       "klicova_slova": [
         "odpad",
         "oze",
-        "park",
         "voda",
         "plan"
       ]
@@ -36,6 +35,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
       "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
@@ -55,22 +67,9 @@
       "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
+        "oze",
         "park",
         "voda",
-        "plan",
-        "projekt"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
         "plan"
       ]
     }
