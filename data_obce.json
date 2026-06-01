@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-05-31T06:43:41Z",
+  "aktualizovano": "2026-06-01T08:16:02Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,7 +7,7 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7687 záznamů na stránce: -1- 2 3 4 5 ... 513 Eko Bi s ohledem na připomínky občanů minimalizovalo omezení spojená s realizací upgradu sytému parkování na náměstí Jana Pernera (29.5.2026) Na základě došlých dotazů a připomínek občanů byla doba omezení zkrácena na pouhé dva dny, tedy na pondělí 1. a úterý 2. června 2026. Samotné práce budou v těchto dnech p",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7689 záznamů na stránce: -1- 2 3 4 5 ... 513 Rozhodnutí - povolení stavby - ,,Vestavba bytu do podkroví na p.č. st.106, Skuhrov u České Třebové\" [PDF, 359 kB] (1.6.2026) Složka dokumentů: Odbor stavební a životního prostředí Rozhodnutí - povolení stavby - ,,Prodloužení lodžií bytového domu Lhotka č.p.173, č.p. 174,Lhotka 173\" (1.6.2026) Složka dokumentů: ",
       "kategorie": "priroda",
       "klicova_slova": [
         "parkovani",
@@ -20,7 +20,7 @@
     {
       "url": "https://www.ceska-trebova.cz/vismo/kalendar.asp?id_org=2175",
       "nadpis": "Kalendář akcí: Česká Třebová",
-      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Duben 2026 Květen 2026 Červen 2026 >> Po Út St Čt Pá So Ne 17. týden 27 Kino Ostatní Výstava 28 Koncert Ostatní Výstava 29 Kino Koncert Ostatní Výstava 30 Ostatní Výstava 1 Ostatní ",
+      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Květen 2026 Červen 2026 Červenec 2026 >> Po Út St Čt Pá So Ne 22. týden 1 Javorka Kino Ostatní Výstava 2 Divadlo Ostatní Sport Výstava 3 Kino Koncert Ostatní Výstava 4 Ostatní Předn",
       "kategorie": "strategie",
       "klicova_slova": [
         "plan"
@@ -33,19 +33,6 @@
       "kategorie": "energie",
       "klicova_slova": [
         "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3186 záznamů na stránce: -1- 2 3 4 5 ... 213 Změněno Název a anotace Zodpovídá 29.5.2026 Eko Bi s ohledem na připomínky občanů minimalizovalo omezení spojená s realizací upgradu sytému parkování na náměstí Jana Pernera Na základě došlých dotazů a připomínek občanů byla doba omezení zkrácena na pouhé dva dny, tedy na pondělí 1. a úterý 2. června 2026. Sa",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "parkovani",
-        "park",
-        "voda",
-        "plan"
       ]
     },
     {
@@ -72,6 +59,19 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3186 záznamů na stránce: -1- 2 3 4 5 ... 213 Změněno Název a anotace Zodpovídá 29.5.2026 Eko Bi s ohledem na připomínky občanů minimalizovalo omezení spojená s realizací upgradu sytému parkování na náměstí Jana Pernera Na základě došlých dotazů a připomínek občanů byla doba omezení zkrácena na pouhé dva dny, tedy na pondělí 1. a úterý 2. června 2026. Sa",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "parkovani",
+        "oze",
+        "park",
+        "voda"
       ]
     }
   ]
