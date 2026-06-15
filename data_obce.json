@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-06-14T07:11:02Z",
+  "aktualizovano": "2026-06-15T08:44:20Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -37,19 +37,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
       "nadpis": "Zpravodajství města: Česká Třebová",
       "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3204 záznamů na stránce: -1- 2 3 4 5 ... 214 Změněno Název a anotace Zodpovídá 12.6.2026 V České Třebové vzniknou sociálně terapeutické dílny pro Domov u studánky Pardubický kraj chystá v České Třebové výstavbu sociálně terapeutických dílen pro klienty Domova u studánky. Objekt vznikne v Klácelově ulici po demolici stávající budovy. Projekt je součástí ",
@@ -73,6 +60,19 @@
         "zelen",
         "park",
         "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Přehled platných obecně závazných vyhlášek k 13.03.2026 [PDF, 143 kB] Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. Mgr. Karel Honl 16.12.2025 Obecně závazná ",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
       ]
     }
   ]
