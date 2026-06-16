@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-06-15T08:44:20Z",
+  "aktualizovano": "2026-06-16T08:35:24Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,14 +7,14 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7719 záznamů na stránce: -1- 2 3 4 5 ... 515 Sledujte on-line přímý přenos z jednání zastupitelstva (15.6.2026) Třetí letošní jednání Zastupitelstva města Česká Třebová se uskuteční v badatelně Městského muzea na adrese Klácelova 11 v pondělí 15. června. Celkem 19 programových bodů bude projednáno od 15:00. Složka dokumentů: Zpravodajství města 2. etapa P",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7730 záznamů na stránce: -1- 2 3 4 5 ... 516 Oznámení o zveřejnění schváleného závěrečného účtu DSO Region Orlicko-Třebovsko včetně zprávy o výsledku přezkoumání hospodaření za rok 2025 (16.6.2026) Složka dokumentů: Různé Usnesení a hlasování z jednání ZM dne 15.6.2026 (16.6.2026) Složka dokumentů: Usnesení Zastupitelstva města rok 2026 Od pilotních území",
       "kategorie": "priroda",
       "klicova_slova": [
-        "parkovani",
-        "oze",
-        "zelen",
         "park",
-        "voda"
+        "voda",
+        "priroda",
+        "sad",
+        "plan"
       ]
     },
     {
@@ -34,19 +34,6 @@
       "klicova_slova": [
         "odpad",
         "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3204 záznamů na stránce: -1- 2 3 4 5 ... 214 Změněno Název a anotace Zodpovídá 12.6.2026 V České Třebové vzniknou sociálně terapeutické dílny pro Domov u studánky Pardubický kraj chystá v České Třebové výstavbu sociálně terapeutických dílen pro klienty Domova u studánky. Objekt vznikne v Klácelově ulici po demolici stávající budovy. Projekt je součástí ",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "parkovani",
-        "oze",
-        "zelen",
-        "park"
       ]
     },
     {
@@ -73,6 +60,19 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3213 záznamů na stránce: -1- 2 3 4 5 ... 215 Změněno Název a anotace Zodpovídá 16.6.2026 Od pilotních území k dalším regionům. Pardubický kraj rozšiřuje osvědčený model spolupráce v rámci HSOÚ Pardubický kraj společně s Regionální rozvojovou agenturou Pardubického kraje pokračuje v systematické práci na rozvoji jednotlivých území regionu. Po pilotním ov",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "oze",
+        "zelen",
+        "park",
+        "voda",
+        "priroda"
       ]
     }
   ]
