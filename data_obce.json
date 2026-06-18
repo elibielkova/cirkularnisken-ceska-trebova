@@ -1,7 +1,65 @@
 {
-  "aktualizovano": "2026-06-17T08:18:13Z",
+  "aktualizovano": "2026-06-18T07:21:41Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 0,
-  "stranky": []
+  "pocet_stranek": 5,
+  "stranky": [
+    {
+      "url": "https://www.ceska-trebova.cz/dp",
+      "nadpis": "Přehled dokumentů: Česká Třebová",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7741 záznamů na stránce: -1- 2 3 4 5 ... 517 Dražební vyhláška [PDF, 340 kB] (17.6.2026) Složka dokumentů: Různé Oznámení o  zrušení plánované odstávky el. energie dne 29.06.2026 [PDF, 838 kB] (17.6.2026) Složka dokumentů: Oznámení o přerušení dodávky elektrické energie Oznámení o přerušení dodávky el. energie dne 08.07.2026 [PDF, 974 kB] (17.6.2026) Slož",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "oze",
+        "voda",
+        "strom",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/vismo/kalendar.asp?id_org=2175",
+      "nadpis": "Kalendář akcí: Česká Třebová",
+      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Květen 2026 Červen 2026 Červenec 2026 >> Po Út St Čt Pá So Ne 22. týden 1 Kino Ostatní Výstava 2 Divadlo Ostatní Výstava 3 Kino Ostatní Výstava 4 Ostatní Výstava 5 Divadlo Ostatní V",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/uredni-deska/2",
+      "nadpis": "Úřední deska: Česká Třebová",
+      "ukazka": "Úřední deska Na elektronické úřední desce je zveřejňován obsah úřední desky MěÚ Česká Třebová podle § 26 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Obsah má informativní charakter. Veškeré dokumenty, které podléhají zveřejnění ze zákona, musí být zveřejněny jak na interaktivní, tak na internetové úřední desce ve stejném časovém období. Oznámení dle zákona č.250/2000 Sb., o ",
+      "kategorie": "energie",
+      "klicova_slova": [
+        "oze",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3216 záznamů na stránce: -1- 2 3 4 5 ... 215 Změněno Název a anotace Zodpovídá 17.6.2026 Školní parlamenty obdarovaly místní seniory Klienti českotřebovského Domova pro seniory a žáci místních škol, kteří jsou zapojeni do školních parlamentů, před začátkem adventního období v minulém roce společně napekli perníčky a vyráběli vánoční dekorace. Ty následn",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "strom"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "zelen",
+        "park",
+        "voda"
+      ]
+    }
+  ]
 }
