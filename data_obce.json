@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-06-19T08:22:14Z",
+  "aktualizovano": "2026-06-20T06:50:40Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,12 +7,12 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7747 záznamů na stránce: -1- 2 3 4 5 ... 517 Desatero: Přežijte vedro [PDF, 3,3 MB] (18.6.2026) Jak chránit sebe i ostatní v horkých dnech. Složka dokumentů: Zpravodajství města Místní fotbalisté uspěli se svojí žádostí o finanční příspěvek na FIFA arénu (18.6.2026) V průběhu fotbalového mistrovství světa a Týdne sportu doputovala do České Třebové pozitiv",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7746 záznamů na stránce: -1- 2 3 4 5 ... 517 Rekonstrukce silnice ve Skuhrově začne na konci června, potrvá do listopadu (19.6.2026) Na silnici III/31512 mezi Českou Třebovou a Skuhrovem se 29. června rozběhne rozsáhlá oprava více než dvou kilometrů silnice. Stavba zasahuje jak průtah Skuhrovem, tak navazující úsek od České Třebové. Řidiči musejí počítat ",
       "kategorie": "priroda",
       "klicova_slova": [
+        "doprava",
         "park",
         "voda",
-        "strom",
         "plan",
         "rozvoj"
       ]
@@ -37,16 +37,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
       "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3220 záznamů na stránce: -1- 2 3 4 5 ... 215 Změněno Název a anotace Zodpovídá 18.6.2026 Desatero: Přežijte vedro [PDF, 3,3 MB] Jak chránit sebe i ostatní v horkých dnech. Bc. Jiří Holý 18.6.2026 Místní fotbalisté uspěli se svojí žádostí o finanční příspěvek na FIFA arénu V průběhu fotbalového mistrovství světa a Týdne sportu doputovala do České Třebové",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3221 záznamů na stránce: -1- 2 3 4 5 ... 215 Změněno Název a anotace Zodpovídá 19.6.2026 Rekonstrukce silnice ve Skuhrově začne na konci června, potrvá do listopadu Na silnici III/31512 mezi Českou Třebovou a Skuhrovem se 29. června rozběhne rozsáhlá oprava více než dvou kilometrů silnice. Stavba zasahuje jak průtah Skuhrovem, tak navazující úsek od Čes",
       "kategorie": "priroda",
       "klicova_slova": [
-        "odpad",
-        "oze",
+        "doprava",
         "park",
         "voda",
-        "strom"
+        "strom",
+        "priroda"
       ]
     },
     {
