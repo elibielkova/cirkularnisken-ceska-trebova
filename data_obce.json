@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-06-20T06:50:40Z",
+  "aktualizovano": "2026-06-21T07:21:08Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -37,6 +37,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 17 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
       "nadpis": "Zpravodajství města: Česká Třebová",
       "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3221 záznamů na stránce: -1- 2 3 4 5 ... 215 Změněno Název a anotace Zodpovídá 19.6.2026 Rekonstrukce silnice ve Skuhrově začne na konci června, potrvá do listopadu Na silnici III/31512 mezi Českou Třebovou a Skuhrovem se 29. června rozběhne rozsáhlá oprava více než dvou kilometrů silnice. Stavba zasahuje jak průtah Skuhrovem, tak navazující úsek od Čes",
@@ -60,19 +73,6 @@
         "zelen",
         "park",
         "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 17 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
       ]
     }
   ]
