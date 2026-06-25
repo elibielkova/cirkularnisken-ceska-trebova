@@ -1,20 +1,20 @@
 {
-  "aktualizovano": "2026-06-24T06:32:53Z",
+  "aktualizovano": "2026-06-25T06:36:56Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 6,
+  "pocet_stranek": 8,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7746 záznamů na stránce: -1- 2 3 4 5 ... 517 Poslední předprázdninový den otevřených dveří vedení města (24.6.2026) Ve středu 24. června se v odpoledních hodinách na českotřebovské radnici uskuteční další ze dní otevřených dveří vedení města, v rámci kterého může každý občan bez nutnosti předchozího objednání navštívit kanceláře starosty města i místostar",
-      "kategorie": "strategie",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7751 záznamů na stránce: -1- 2 3 4 5 ... 517 Informace o omezení provozu kanceláře matriky (26.6.2026) Vážení občané, z důvodu potřeby zajištění svatebních obřadů bude kancelář matriky tento pátek 26. června 2026 od 12:00 uzavřena. Složka dokumentů: Zpravodajství Oddělení správních agend a obecního živnostenského úřadu Oznámení o přerušení dodávky el. ene",
+      "kategorie": "priroda",
       "klicova_slova": [
-        "doprava",
+        "kontejner",
         "oze",
+        "park",
         "voda",
-        "plan",
-        "rozvoj"
+        "plan"
       ]
     },
     {
@@ -37,19 +37,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3227 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 23.6.2026 Vzhůru do Irska Ve dnech 7. až 14. června 2026 vyrazila výprava 25 studentů našeho gymnázia společně se 3 pedagogy na jazykově poznávací zájezd do irského Dublinu. Ubytováni jsme byli v hostitelských rodinách nedaleko centra velkoměsta, což bylo skvělou příležitostí",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "doprava",
-        "oze",
-        "park",
-        "voda",
-        "strom"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 17 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
@@ -63,16 +50,53 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 224 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 12.9.2025 Výsledky průzkumu pocitu bezpečí v České Třebové Na jaře letošního roku probíhal v našem městě průzkum pocitu bezpečí, jehož cílem bylo získat informace o tom, jak občané v České Třebové vnímají bezpe",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Doddeleni%2Dspravnich%2Dagend%2Da%2Dobecniho%2Dzivnostenskeho%2Duradu/ds-1048/archiv=0",
+      "nadpis": "Zpravodajství Oddělení správních agend a obecního živnostenského úřadu: Česká Třebová",
+      "ukazka": "Zpravodajství Oddělení správních agend a obecního živnostenského úřadu Změněno Název a anotace Zodpovídá 26.6.2026 Informace o omezení provozu kanceláře matriky Vážení občané, z důvodu potřeby zajištění svatebních obřadů bude kancelář matriky tento pátek 26. června 2026 od 12:00 uzavřena. Bc. Jiří Holý 25.9.2025 Informace o omezení provozu kanceláře matriky Vážení občané, dovolujeme si vás informo",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "voda",
+        "plan",
+        "dotace",
+        "projekt",
+        "inovace"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/ceskotrebovsky%2Dzpravodaj/ds-1376/archiv=0",
+      "nadpis": "Českotřebovský zpravodaj: Česká Třebová",
+      "ukazka": "Českotřebovský zpravodaj Informační měsíčník města Česká Třebová Od července 2016 do prosince 2019 vydávalo město Česká Třebová ve spolupráci s Městskou knihovnou Česká Třebová informační měsíčník pro občany města – Českotřebovské noviny. Od ledna 2020 se změnil název městského periodika na Českotřebovský zpravodaj. Uzávěrka pro posílání příspěvků je vždy 14. den v měsíci. Otištění vzpomínky na ze",
+      "kategorie": "energie",
+      "klicova_slova": [
+        "oze",
+        "voda",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3229 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 24.6.2026 Video: Na Zámostí rostou kuličkové dráhy, první dvě už můžete vyzkoušet Jedním z úspěšných projektů letošního ročníku participativního rozpočtu bylo doplnění mobiliáře v parku Na Zámostí. Dominantním prvkem záměru, který ocení především ti nejmenší, jsou kuličkové d",
       "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
+        "kontejner",
+        "doprava",
+        "oze",
+        "park"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/archiv=0",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "kategorie": "priroda",
+      "klicova_slova": [
         "oze",
         "zelen",
         "park",
-        "voda"
+        "strom",
+        "projekt"
       ]
     }
   ]
