@@ -1,8 +1,8 @@
 {
-  "aktualizovano": "2026-06-27T06:18:09Z",
+  "aktualizovano": "2026-06-28T06:48:19Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 8,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
@@ -37,16 +37,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
       "nadpis": "Zpravodajství města: Česká Třebová",
       "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3230 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 25.6.2026 Mateřské školy navštívily radnici Dnes dopoledne přišly na českotřebovskou radnici děti z MŠ U Koupaliště a U Stadionu, které začátkem měsíce reprezentovaly naše město na sportovních hrách mateřských škol v Pardubicích. Na místě je přivítala místostarostka Petra Vál",
       "kategorie": "priroda",
       "klicova_slova": [
+        "odpad",
         "kontejner",
         "doprava",
         "oze",
-        "park",
-        "voda"
+        "park"
       ]
     },
     {
@@ -60,6 +60,17 @@
         "dotace",
         "projekt",
         "inovace"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/ceskotrebovsky%2Dzpravodaj/ds-1376/archiv=0",
+      "nadpis": "Českotřebovský zpravodaj: Česká Třebová",
+      "ukazka": "Českotřebovský zpravodaj Informační měsíčník města Česká Třebová Od července 2016 do prosince 2019 vydávalo město Česká Třebová ve spolupráci s Městskou knihovnou Česká Třebová informační měsíčník pro občany města – Českotřebovské noviny. Od ledna 2020 se změnil název městského periodika na Českotřebovský zpravodaj. Uzávěrka pro posílání příspěvků je vždy 14. den v měsíci. Otištění vzpomínky na ze",
+      "kategorie": "energie",
+      "klicova_slova": [
+        "oze",
+        "voda",
+        "plan"
       ]
     },
     {
