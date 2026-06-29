@@ -1,20 +1,20 @@
 {
-  "aktualizovano": "2026-06-28T06:48:19Z",
+  "aktualizovano": "2026-06-29T07:17:11Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 8,
+  "pocet_stranek": 7,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7745 záznamů na stránce: -1- 2 3 4 5 ... 517 Informace o omezení provozu kanceláře matriky (26.6.2026) Vážení občané, z důvodu potřeby zajištění svatebních obřadů bude kancelář matriky tento pátek 26. června 2026 od 12:00 uzavřena. Složka dokumentů: Zpravodajství Oddělení správních agend a obecního živnostenského úřadu Mateřské školy navštívily radnici (2",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7747 záznamů na stránce: -1- 2 3 4 5 ... 517 Hasiči mírnili následky tropických veder (28.6.2026) Česko má za sebou enormně náročný víkend, kdy po celé zemi padaly teplotní rekordy. V České Třebové se alespoň o částečnou úlevu místních obyvatel postarali hasiči, kteří v pátek, sobotu i neděli kropili rozpálené ulice vodou. Složka dokumentů: Zpravodajství ",
       "kategorie": "priroda",
       "klicova_slova": [
         "kontejner",
         "oze",
         "park",
         "voda",
-        "plan"
+        "sad"
       ]
     },
     {
@@ -33,43 +33,6 @@
       "kategorie": "energie",
       "klicova_slova": [
         "oze",
-        "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3230 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 25.6.2026 Mateřské školy navštívily radnici Dnes dopoledne přišly na českotřebovskou radnici děti z MŠ U Koupaliště a U Stadionu, které začátkem měsíce reprezentovaly naše město na sportovních hrách mateřských škol v Pardubicích. Na místě je přivítala místostarostka Petra Vál",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "kontejner",
-        "doprava",
-        "oze",
-        "park"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Doddeleni%2Dspravnich%2Dagend%2Da%2Dobecniho%2Dzivnostenskeho%2Duradu/ds-1048/archiv=0",
-      "nadpis": "Zpravodajství Oddělení správních agend a obecního živnostenského úřadu: Česká Třebová",
-      "ukazka": "Zpravodajství Oddělení správních agend a obecního živnostenského úřadu Změněno Název a anotace Zodpovídá 26.6.2026 Informace o omezení provozu kanceláře matriky Vážení občané, z důvodu potřeby zajištění svatebních obřadů bude kancelář matriky tento pátek 26. června 2026 od 12:00 uzavřena. Bc. Jiří Holý 25.9.2025 Informace o omezení provozu kanceláře matriky Vážení občané, dovolujeme si vás informo",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "voda",
-        "plan",
-        "dotace",
-        "projekt",
-        "inovace"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/ceskotrebovsky%2Dzpravodaj/ds-1376/archiv=0",
-      "nadpis": "Českotřebovský zpravodaj: Česká Třebová",
-      "ukazka": "Českotřebovský zpravodaj Informační měsíčník města Česká Třebová Od července 2016 do prosince 2019 vydávalo město Česká Třebová ve spolupráci s Městskou knihovnou Česká Třebová informační měsíčník pro občany města – Českotřebovské noviny. Od ledna 2020 se změnil název městského periodika na Českotřebovský zpravodaj. Uzávěrka pro posílání příspěvků je vždy 14. den v měsíci. Otištění vzpomínky na ze",
-      "kategorie": "energie",
-      "klicova_slova": [
-        "oze",
-        "voda",
         "plan"
       ]
     },
@@ -97,6 +60,32 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3232 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 28.6.2026 Hasiči mírnili následky tropických veder Česko má za sebou enormně náročný víkend, kdy po celé zemi padaly teplotní rekordy. V České Třebové se alespoň o částečnou úlevu místních obyvatel postarali hasiči, kteří v pátek, sobotu i neděli kropili rozpálené ulice vodou",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "kontejner",
+        "doprava",
+        "oze",
+        "park"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Doddeleni%2Dspravnich%2Dagend%2Da%2Dobecniho%2Dzivnostenskeho%2Duradu/ds-1048/archiv=0",
+      "nadpis": "Zpravodajství Oddělení správních agend a obecního živnostenského úřadu: Česká Třebová",
+      "ukazka": "Zpravodajství Oddělení správních agend a obecního živnostenského úřadu Změněno Název a anotace Zodpovídá 26.6.2026 Informace o omezení provozu kanceláře matriky Vážení občané, z důvodu potřeby zajištění svatebních obřadů bude kancelář matriky tento pátek 26. června 2026 od 12:00 uzavřena. Bc. Jiří Holý 25.9.2025 Informace o omezení provozu kanceláře matriky Vážení občané, dovolujeme si vás informo",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "voda",
+        "plan",
+        "dotace",
+        "projekt",
+        "inovace"
       ]
     }
   ]
