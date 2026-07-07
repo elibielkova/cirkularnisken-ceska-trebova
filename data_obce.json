@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-07-06T06:57:05Z",
+  "aktualizovano": "2026-07-07T06:32:52Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,11 +7,12 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7742 záznamů na stránce: -1- 2 3 4 5 ... 517 Video: Stezka pro pěší a cyklisty propojí Vily a ulici U Stadionu (4.7.2026) Českotřebovští radní dali v pondělí zelenou výstavbě nové stezky pro pěší a cyklisty, která by měla vzniknout mezi ulicí U Stadionu a ulicí Vily. Výstavba necelých 100 metrů dlouhého propojky bude zahájena ještě v létě a její dokončení",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7741 záznamů na stránce: -1- 2 3 4 5 ... 517 Dnes si připomínáme  611. výročí upálení Mistra Jana Husa (6.7.2026) Česká Třebová si každoročně Den upálení Jana Husa připomíná u památníku v městském parku Javorka. Kytici zde letos položil pan místostarosta Martin Formánek a ředitelka městského muzea Jana Voleská, která následně ve své řeči připomenula splet",
       "kategorie": "priroda",
       "klicova_slova": [
         "oze",
         "zelen",
+        "park",
         "voda",
         "sad"
       ]
@@ -35,29 +36,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3239 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 6.7.2026 Dnes si připomínáme  611. výročí upálení Mistra Jana Husa Česká Třebová si každoročně Den upálení Jana Husa připomíná u památníku v městském parku Javorka. Kytici zde letos položil pan místostarosta Martin Formánek a ředitelka městského muzea Jana Voleská, která násl",
       "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
-        "oze",
-        "zelen",
-        "park",
-        "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3238 záznamů na stránce: -1- 2 3 4 5 ... 216 Změněno Název a anotace Zodpovídá 4.7.2026 Video: Stezka pro pěší a cyklisty propojí Vily a ulici U Stadionu Českotřebovští radní dali v pondělí zelenou výstavbě nové stezky pro pěší a cyklisty, která by měla vzniknout mezi ulicí U Stadionu a ulicí Vily. Výstavba necelých 100 metrů dlouhého propojky bude zahá",
-      "kategorie": "priroda",
-      "klicova_slova": [
         "kontejner",
         "oze",
         "zelen",
-        "park",
-        "voda"
+        "park"
       ]
     },
     {
@@ -71,6 +59,19 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "zelen",
+        "park",
+        "voda"
       ]
     }
   ]
