@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-07-14T05:17:53Z",
+  "aktualizovano": "2026-07-15T05:18:52Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,14 +7,14 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7742 záznamů na stránce: -1- 2 3 4 5 ... 517 Historický expres Kralický Sněžník přijel do České Třebové (11.7.2026) Pardubickým krajem po celé letní prázdniny projíždí historický parní vlak. Dnes se Kralický Sněžník vydal na okružní trasu Dolní Lipka - Letohrad - Ústí nad Orlicí - Česká Třebová - Zábřeh na Moravě - Šumperk - Hanušovice. Českotřebovská veř",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7747 záznamů na stránce: -1- 2 3 4 5 ... 517 Poskytnutí informace - vydaná rozhodnutí (14.7.2026) Datum poskytnutí informace je 14.07.2026 Datum zveřejnění informace je 14.07.2026 Složka dokumentů: Informace poskytnuté v roce 2026 Oznámení o přerušení dodávky el. energie dne 04.08.2026 [PDF, 345 kB] (14.7.2026) Složka dokumentů: Oznámení o přerušení dodáv",
       "kategorie": "priroda",
       "klicova_slova": [
         "komunalni",
         "vlak",
         "oze",
-        "zelen",
-        "park"
+        "park",
+        "voda"
       ]
     },
     {
@@ -33,19 +33,6 @@
       "kategorie": "energie",
       "klicova_slova": [
         "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
       ]
     },
     {
@@ -72,6 +59,19 @@
         "zelen",
         "park",
         "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
       ]
     }
   ]
