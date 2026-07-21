@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-07-20T05:56:33Z",
+  "aktualizovano": "2026-07-21T05:38:04Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -7,8 +7,8 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7754 záznamů na stránce: -1- 2 3 4 5 ... 517 VEŘEJNÁ VYHLÁŠKA. Opatření obecné povahy stanovení přechodné úpravy provozu na pozemních komunikacích. Umístění dopravních značek na silnici III/01427 v obci Třebovice dle přiložených situačních plánků. (20.7.2026) Složka dokumentů: Odbor stavební a životního prostředí Video: Česká Třebová - Vaše příští zastávk",
-      "kategorie": "priroda",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7754 záznamů na stránce: -1- 2 3 4 5 ... 517 Anketa: Řekněte nám svůj názor na studentské projekty (3.8.2026) Na jaře letošního roku probíhala studentská soutěž na koncepční řešení Robova kopce. V souvislosti s realizací trojice úspěšných projektů nebylo přijato žádné závazné rozhodnutí. Vedení města považuje za vhodné, aby se k těmto projektům vyjádřila ",
+      "kategorie": "strategie",
       "klicova_slova": [
         "cyklo",
         "oze",
@@ -61,6 +61,19 @@
       ]
     },
     {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3254 záznamů na stránce: -1- 2 3 4 5 ... 217 Změněno Název a anotace Zodpovídá 20.7.2026 Na ZŠ Habrmanova se o prázdninách pracuje na údržbě hřiště i rekonstrukci dílen Dnes v areálu ZŠ Habrmanova proběhla údržba hřiště s umělou trávou, která spočívala mechanickém odstranění hrubých nečistot, hloubkovém třífázovém strojním čištění, provzdušnění a kartáč",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "komunalni",
+        "cyklo",
+        "vlak",
+        "oze"
+      ]
+    },
+    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
@@ -71,19 +84,6 @@
         "voda",
         "sad",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3253 záznamů na stránce: -1- 2 3 4 5 ... 217 Změněno Název a anotace Zodpovídá 19.7.2026 Video: Česká Třebová - Vaše příští zastávka Naše město a jeho okolí svým návštěvníkům nabízí mnoho krásných míst se silným příběhem, která stojí za Vaši návštěvu. Najdete zde kouzelné památky, unikátní kulturní tradice a zajímavé lidi se srdcem na pravém místě. Bc. ",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "komunalni",
-        "cyklo",
-        "vlak",
-        "oze"
       ]
     }
   ]
