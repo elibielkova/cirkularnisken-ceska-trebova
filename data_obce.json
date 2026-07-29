@@ -1,20 +1,19 @@
 {
-  "aktualizovano": "2026-07-28T05:34:54Z",
+  "aktualizovano": "2026-07-29T05:39:21Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7768 záznamů na stránce: -1- 2 3 4 5 ... 518 Anketa: Řekněte nám svůj názor na studentské projekty (3.8.2026) Na jaře letošního roku probíhala studentská soutěž na koncepční řešení Robova kopce. V souvislosti s realizací trojice úspěšných projektů nebylo přijato žádné závazné rozhodnutí. Vedení města považuje za vhodné, aby se k těmto projektům vyjádřila ",
-      "kategorie": "priroda",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7779 záznamů na stránce: -1- 2 3 4 5 ... 519 Anketa: Řekněte nám svůj názor na studentské projekty (3.8.2026) Na jaře letošního roku probíhala studentská soutěž na koncepční řešení Robova kopce. V souvislosti s realizací trojice úspěšných projektů nebylo přijato žádné závazné rozhodnutí. Vedení města považuje za vhodné, aby se k těmto projektům vyjádřila ",
+      "kategorie": "strategie",
       "klicova_slova": [
-        "parkovani",
         "oze",
-        "park",
         "voda",
-        "sad"
+        "plan",
+        "projekt"
       ]
     },
     {
@@ -39,7 +38,7 @@
     {
       "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
       "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3264 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 27.7.2026 Video: V období letních prázdnin pokračují práce na rekonstrukci tělocvičny ZŠ Ústecká V přiléhajícím zázemí tělocvičny dělníci dokončili obklady a práce se tak přesunují do samotné haly, kde je instalována vzduchotechnika a akustické podhledy. Celková cena prací je",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3268 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 28.7.2026 V neděli projede naším městem Mezinárodní cyklistický závod Regionem Orlicka Letošní jubilejní 40. ročník mezinárodního cyklistického závodu Regionem Orlicka pro kategorii Junior proběhne ve dnech 31. 7. – 2. 8. 2026. Hlavním dějištěm závodu bude město Lanškroun a s",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
@@ -73,17 +72,6 @@
         "zelen",
         "park",
         "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/ceskotrebovsky%2Dzpravodaj/ds-1376/archiv=0",
-      "nadpis": "Českotřebovský zpravodaj: Česká Třebová",
-      "ukazka": "Českotřebovský zpravodaj Informační měsíčník města Česká Třebová Od července 2016 do prosince 2019 vydávalo město Česká Třebová ve spolupráci s Městskou knihovnou Česká Třebová informační měsíčník pro občany města – Českotřebovské noviny. Od ledna 2020 se změnil název městského periodika na Českotřebovský zpravodaj. Uzávěrka pro posílání příspěvků je vždy 14. den v měsíci. Otištění vzpomínky na ze",
-      "kategorie": "energie",
-      "klicova_slova": [
-        "oze",
-        "voda",
-        "plan"
       ]
     }
   ]
