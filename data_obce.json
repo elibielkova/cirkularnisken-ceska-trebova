@@ -1,13 +1,25 @@
 {
-  "aktualizovano": "2026-07-31T05:53:46Z",
+  "aktualizovano": "2026-08-01T05:43:19Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 6,
+  "pocet_stranek": 7,
   "stranky": [
+    {
+      "url": "https://www.ceska-trebova.cz/dp",
+      "nadpis": "Přehled dokumentů: Česká Třebová",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7778 záznamů na stránce: -1- 2 3 4 5 ... 519 MěÚ Lanškroun hledá zaměstnance na pozici referent/ka odboru  sociálních věcí a zdravotnictví [PDF, 313 kB] (31.7.2026) Agenda sociálně-právní ochrana dětí. Složka dokumentů: Nabídka práce ve městě a okolí Video: Tento víkend máte poslední šanci hlasovat v anketě o studentských projektech k oživení Robova kopce",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "oze",
+        "voda",
+        "plan",
+        "projekt"
+      ]
+    },
     {
       "url": "https://www.ceska-trebova.cz/vismo/kalendar.asp?id_org=2175",
       "nadpis": "Kalendář akcí: Česká Třebová",
-      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Červen 2026 Červenec 2026 Srpen 2026 >> Po Út St Čt Pá So Ne 26. týden 29 Kino Ostatní Výstava 30 Ostatní Výstava 1 Javorka Ostatní Výstava 2 Javorka Ostatní Výstava 3 Javorka Ostat",
+      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Červenec 2026 Srpen 2026 Září 2026 >> Po Út St Čt Pá So Ne 30. týden 27 Javorka Ostatní Výstava 28 Javorka Ostatní Výstava 29 Javorka Ostatní Výstava 30 Javorka Ostatní Výstava 31 J",
       "kategorie": "strategie",
       "klicova_slova": [
         "plan"
@@ -21,32 +33,6 @@
       "klicova_slova": [
         "oze",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3268 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 28.7.2026 V neděli projede naším městem Mezinárodní cyklistický závod Regionem Orlicka Letošní jubilejní 40. ročník mezinárodního cyklistického závodu Regionem Orlicka pro kategorii Junior proběhne ve dnech 31. 7. – 2. 8. 2026. Hlavním dějištěm závodu bude město Lanškroun a s",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "park",
-        "voda",
-        "sad"
       ]
     },
     {
@@ -71,6 +57,32 @@
         "oze",
         "voda",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "voda",
+        "sad",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3269 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 31.7.2026 Video: Tento víkend máte poslední šanci hlasovat v anketě o studentských projektech k oživení Robova kopce V pondělí 3. srpna končí veřejná anketa, ve které mohou obyvatelé města vyjádřit svůj názor na studentské projekty na oživění Roubova kopce. Hlasovat můžete pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "oze",
+        "park",
+        "voda",
+        "sad",
+        "projekt"
       ]
     }
   ]
