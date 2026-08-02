@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-08-01T05:43:19Z",
+  "aktualizovano": "2026-08-02T05:44:04Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -33,6 +33,19 @@
       "klicova_slova": [
         "oze",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3269 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 31.7.2026 Video: Tento víkend máte poslední šanci hlasovat v anketě o studentských projektech k oživení Robova kopce V pondělí 3. srpna končí veřejná anketa, ve které mohou obyvatelé města vyjádřit svůj názor na studentské projekty na oživění Roubova kopce. Hlasovat můžete pr",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "oze",
+        "park",
+        "voda",
+        "sad",
+        "projekt"
       ]
     },
     {
@@ -70,19 +83,6 @@
         "voda",
         "sad",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3269 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 31.7.2026 Video: Tento víkend máte poslední šanci hlasovat v anketě o studentských projektech k oživení Robova kopce V pondělí 3. srpna končí veřejná anketa, ve které mohou obyvatelé města vyjádřit svůj názor na studentské projekty na oživění Roubova kopce. Hlasovat můžete pr",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "oze",
-        "park",
-        "voda",
-        "sad",
-        "projekt"
       ]
     }
   ]
