@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-08-03T06:00:15Z",
+  "aktualizovano": "2026-08-04T05:35:31Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -7,12 +7,14 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7780 záznamů na stránce: -1- 2 3 4 5 ... 519 Poskytnutí informace - dohoda o narovnání [PDF, 118 kB] (3.8.2026) Datum poskytnutí informace je 31.07.2026 Datum zveřejnění informace je 03.08.2026 Složka dokumentů: Informace poskytnuté v roce 2026 Osobní automobil v sobotu prorazil dveře vestibulu zimního stadionu na Skalce (2.8.2026) V noci na sobotu vjel o",
-      "kategorie": "energie",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7782 záznamů na stránce: -1- 2 3 4 5 ... 519 Nadační fond HOMERUN pokračuje v podpoře talentů. Dalších šest studentů získalo grantovou podporu! (3.8.2026) Nadační fond HOMERUN Pardubického kraje pokračuje v naplňování svého poslání podporovat mladé talentované lidi, kteří chtějí po ukončení studia spojit svou budoucnost s regionem. Po úspěšném pilotním ro",
+      "kategorie": "priroda",
       "klicova_slova": [
         "oze",
+        "park",
         "voda",
-        "projekt"
+        "projekt",
+        "grant"
       ]
     },
     {
@@ -35,15 +37,29 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3270 záznamů na stránce: -1- 2 3 4 5 ... 218 Změněno Název a anotace Zodpovídá 2.8.2026 Osobní automobil v sobotu prorazil dveře vestibulu zimního stadionu na Skalce V noci na sobotu vjel opilý řidič se svým vozem do vestibulu zimního stadionu. Pachatel byl zajištěn policií, která zjistila, že v době nehody měl v krvi dvě promile alkoholu. Víkendová nij",
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
       "kategorie": "priroda",
       "klicova_slova": [
+        "odpad",
         "oze",
+        "zelen",
+        "park",
+        "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3273 záznamů na stránce: -1- 2 3 4 5 ... 219 Změněno Název a anotace Zodpovídá 3.8.2026 Nadační fond HOMERUN pokračuje v podpoře talentů. Dalších šest studentů získalo grantovou podporu! Nadační fond HOMERUN Pardubického kraje pokračuje v naplňování svého poslání podporovat mladé talentované lidi, kteří chtějí po ukončení studia spojit svou budoucnost s",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
         "voda",
-        "sad",
-        "projekt"
+        "sad"
       ]
     },
     {
@@ -55,19 +71,6 @@
         "oze",
         "voda",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "zelen",
-        "park",
-        "voda"
       ]
     },
     {
