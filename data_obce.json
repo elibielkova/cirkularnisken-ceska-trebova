@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-08-04T05:35:31Z",
+  "aktualizovano": "2026-08-05T05:34:02Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 7,
@@ -7,7 +7,7 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7782 záznamů na stránce: -1- 2 3 4 5 ... 519 Nadační fond HOMERUN pokračuje v podpoře talentů. Dalších šest studentů získalo grantovou podporu! (3.8.2026) Nadační fond HOMERUN Pardubického kraje pokračuje v naplňování svého poslání podporovat mladé talentované lidi, kteří chtějí po ukončení studia spojit svou budoucnost s regionem. Po úspěšném pilotním ro",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7784 záznamů na stránce: -1- 2 3 4 5 ... 519 Část ulice Tykačova bude dočasně uzavřena [PDF, 435 kB] (4.8.2026) Ve středu 5. srpna budou v ulici Tykačova zahájeny práce na protlaku kabelového vedení, které souvisí s probíhající modernizací místního železničního uzlu. Po dobu těchto prací bude do 19. srpna zcela uzavřen 125 metrů dlouhý úsek mezi domem čp.",
       "kategorie": "priroda",
       "klicova_slova": [
         "oze",
@@ -33,7 +33,32 @@
       "kategorie": "energie",
       "klicova_slova": [
         "oze",
+        "park",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
+      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
+      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 4.8.2026 Oznámení o přerušení dodávky el. energie dne 25.08.2026 [PDF, 514 kB] Hana Šťastná 29.7.2026 Oznámení o přerušení dodávky el. energie dne 19.08.2026 [PDF, 827 kB] Hana Šťastná 29.7.2026 Oznámení o přerušení dodávky el. energie dne 19.08",
+      "kategorie": "energie",
+      "klicova_slova": [
+        "oze",
+        "voda",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3274 záznamů na stránce: -1- 2 3 4 5 ... 219 Změněno Název a anotace Zodpovídá 4.8.2026 Část ulice Tykačova bude dočasně uzavřena [PDF, 435 kB] Ve středu 5. srpna budou v ulici Tykačova zahájeny práce na protlaku kabelového vedení, které souvisí s probíhající modernizací místního železničního uzlu. Po dobu těchto prací bude do 19. srpna zcela uzavřen 12",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "sad"
       ]
     },
     {
@@ -47,30 +72,6 @@
         "zelen",
         "park",
         "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3273 záznamů na stránce: -1- 2 3 4 5 ... 219 Změněno Název a anotace Zodpovídá 3.8.2026 Nadační fond HOMERUN pokračuje v podpoře talentů. Dalších šest studentů získalo grantovou podporu! Nadační fond HOMERUN Pardubického kraje pokračuje v naplňování svého poslání podporovat mladé talentované lidi, kteří chtějí po ukončení studia spojit svou budoucnost s",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "park",
-        "voda",
-        "sad"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
-      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 29.7.2026 Oznámení o přerušení dodávky el. energie dne 19.08.2026 [PDF, 827 kB] Hana Šťastná 29.7.2026 Oznámení o přerušení dodávky el. energie dne 19.08.2026 [PDF, 1,2 MB] Hana Šťastná 28.7.2026 Oznámení o přerušení dodávky el. energie dne 18.0",
-      "kategorie": "energie",
-      "klicova_slova": [
-        "oze",
-        "voda",
-        "plan"
       ]
     },
     {
