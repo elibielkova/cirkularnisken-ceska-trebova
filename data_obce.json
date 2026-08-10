@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-08-09T04:06:41Z",
+  "aktualizovano": "2026-08-10T04:19:01Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 8,
@@ -38,27 +38,27 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0&p1=42025%26%23039%3B123",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Kariéra: Česká Třebová",
-      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.2026 [PDF, 1,3 MB] Hana Šťastná 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.2026 [PDF, 513 kB] Hana Šťastná 4.8.2026 Oznámení o přerušení dodávky el. energie dne 25.08.2",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "voda",
-        "plan",
-        "rozvoj",
-        "projekt"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
       "nadpis": "Zpravodajství města: Česká Třebová",
       "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3283 záznamů na stránce: -1- 2 3 4 5 ... 219 Změněno Název a anotace Zodpovídá 8.8.2026 Úřadující mistr Extraligy zahájil přípravu v České Třebové Ze přátelských zápasů Dynama Pardubice na českotřebovském zimáku se pomalu stává tradice, která letos psala už své třetí dějství. Mistr Extraligy včera k přípravnému duelu vyzval slovenský celek Vlci Žilina. ",
       "kategorie": "priroda",
       "klicova_slova": [
-        "odpad",
         "cyklo",
         "oze",
+        "park",
+        "voda",
+        "strom"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "zelen",
         "park",
         "voda"
       ]
@@ -90,16 +90,14 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
+      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
+      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.2026 [PDF, 1,3 MB] Hana Šťastná 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.2026 [PDF, 513 kB] Hana Šťastná 4.8.2026 Oznámení o přerušení dodávky el. energie dne 25.08.2",
+      "kategorie": "energie",
       "klicova_slova": [
-        "odpad",
         "oze",
-        "zelen",
-        "park",
-        "voda"
+        "voda",
+        "plan"
       ]
     }
   ]
