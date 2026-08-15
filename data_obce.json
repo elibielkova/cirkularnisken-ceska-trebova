@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-08-14T04:39:07Z",
+  "aktualizovano": "2026-08-15T03:26:34Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,12 +7,14 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7803 záznamů na stránce: -1- 2 3 4 5 ... 521 V září se na novinky ve škole mohou těšit žáci i personál ZŠ Nádražní (13.8.2026) Také na Základní škole Nádražní využívají období letních prázdnin k vylepšení svého zázemí. Do kuchyně školní jídelny tento týden dorazila nová myčka černého nádobí s příslušenstvím, za jejich nákup škola zaplatila necelých 400 ti",
-      "kategorie": "priroda",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7802 záznamů na stránce: -1- 2 3 4 5 ... 521 Největší městská investice od stavby dopravního terminálu vyrostla v rekordním čase a splnila tak všechny podmínky pro přidělení dotace (14.8.2026) Město Česká Třebová v tomto týdnu obdrželo z Ministerstva práce a sociálních věcí informaci, že dotační orgán schválil závěrečnou zprávu o realizaci projektu \"Domov",
+      "kategorie": "strategie",
       "klicova_slova": [
         "oze",
         "voda",
-        "sad"
+        "sad",
+        "plan",
+        "dotace"
       ]
     },
     {
@@ -31,8 +33,20 @@
       "kategorie": "energie",
       "klicova_slova": [
         "oze",
-        "park",
-        "plan"
+        "park"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3291 záznamů na stránce: -1- 2 3 4 5 ... 220 Změněno Název a anotace Zodpovídá 14.8.2026 Největší městská investice od stavby dopravního terminálu vyrostla v rekordním čase a splnila tak všechny podmínky pro přidělení dotace Město Česká Třebová v tomto týdnu obdrželo z Ministerstva práce a sociálních věcí informaci, že dotační orgán schválil závěrečnou ",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "cyklo",
+        "oze",
+        "voda",
+        "strom",
+        "priroda"
       ]
     },
     {
@@ -46,19 +60,6 @@
         "voda",
         "sad",
         "plan"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3289 záznamů na stránce: -1- 2 3 4 5 ... 220 Změněno Název a anotace Zodpovídá 13.8.2026 V září se na novinky ve škole mohou těšit žáci i personál ZŠ Nádražní Také na Základní škole Nádražní využívají období letních prázdnin k vylepšení svého zázemí. Do kuchyně školní jídelny tento týden dorazila nová myčka černého nádobí s příslušenstvím, za jejich nák",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "cyklo",
-        "oze",
-        "voda",
-        "strom"
       ]
     },
     {
