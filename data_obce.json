@@ -1,13 +1,13 @@
 {
-  "aktualizovano": "2026-08-20T03:34:45Z",
+  "aktualizovano": "2026-08-21T03:38:39Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 6,
+  "pocet_stranek": 7,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7810 záznamů na stránce: -1- 2 3 4 5 ... 521 Oznámení o přerušení dodávky el. energie dne 09.09.2026 [PDF, 1,4 MB] (19.8.2026) Složka dokumentů: Oznámení o přerušení dodávky elektrické energie Sociálně terapeutické dílny pro Domov u studánky v České Třebové jsou opět o krok blíže. Kraj vybral dodavatele stavby (19.8.2026) Rada Pardubického kraje na svém p",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7812 záznamů na stránce: -1- 2 3 4 5 ... 521 Rozhodnutí o registraci kandidátních listin pro volby do zastupitelstva obce Přívrat 2026 (20.8.2026) Složka dokumentů: Volby do zastupitelstev obcí 2026 Rozhodnutí o registraci kandidátních listin pro volby do zastupitelstva města Česká Třebová 2026 (20.8.2026) Složka dokumentů: Volby do zastupitelstev obcí 20",
       "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
@@ -51,19 +51,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
       "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
       "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
@@ -74,6 +61,30 @@
         "zelen",
         "park",
         "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "sad"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
+      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
+      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 19.8.2026 Oznámení o přerušení dodávky el. energie dne 09.09.2026 [PDF, 1,4 MB] Hana Šťastná 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.2026 [PDF, 1,3 MB] Hana Šťastná 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "park",
+        "voda",
+        "plan"
       ]
     }
   ]
