@@ -1,8 +1,8 @@
 {
-  "aktualizovano": "2026-08-22T03:30:28Z",
+  "aktualizovano": "2026-08-23T03:38:42Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
@@ -10,7 +10,6 @@
       "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7820 záznamů na stránce: -1- 2 3 4 5 ... 522 Po triumfu v Itálii zvládla i Pogačarovu výzvu: Skvělý úspěch českotřebovské cyklistky Moniky Veitové (21.8.2026) Uplynulé dny přinesly skvělé sportovní momenty pro českotřebovskou cyklistku Moniku Veitovou. Členka týmu Tesaři Osík prožila mimořádně úspěšný týden. Velkým úspěchem skončil etapový závod Giro del ",
       "kategorie": "strategie",
       "klicova_slova": [
-        "park",
         "voda",
         "plan",
         "rozvoj",
@@ -33,8 +32,7 @@
       "kategorie": "odpady",
       "klicova_slova": [
         "odpad",
-        "oze",
-        "park"
+        "oze"
       ]
     },
     {
@@ -45,9 +43,9 @@
       "klicova_slova": [
         "odpad",
         "oze",
-        "park",
         "voda",
-        "sad"
+        "sad",
+        "plan"
       ]
     },
     {
@@ -74,17 +72,6 @@
         "zelen",
         "park",
         "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
-      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 19.8.2026 Oznámení o přerušení dodávky el. energie dne 09.09.2026 [PDF, 1,4 MB] Hana Šťastná 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.2026 [PDF, 1,3 MB] Hana Šťastná 5.8.2026 Oznámení o přerušení dodávky el. energie dne 26.08.",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "park",
-        "voda",
-        "plan"
       ]
     }
   ]
