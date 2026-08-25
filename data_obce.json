@@ -1,18 +1,18 @@
 {
-  "aktualizovano": "2026-08-24T03:41:11Z",
+  "aktualizovano": "2026-08-25T03:36:33Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 6,
+  "pocet_stranek": 7,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7821 záznamů na stránce: -1- 2 3 4 5 ... 522 Anketa zhodnotí čtyři roky přítomnosti sdílených kol v ulicích města (24.8.2026) Od roku 2023 je v České Třebové společností Nextbike provozován systém sdílených kol. S ohledem na to, že je Bikesharing podporován z veřejných prostředků, považuje město Česká Třebová za vhodné zhodnotit po čtyřech letech provozu ",
-      "kategorie": "strategie",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7823 záznamů na stránce: -1- 2 3 4 5 ... 522 Místní tenisté hledají nové talenty [PDF, 2,4 MB] (24.8.2026) V pondělí 31. srpna se mohou zapsat děti narozené v letech 2018, 2019, 2020 a 2021. Složka dokumentů: Zpravodajství města Počasí občas trochu zazlobilo, ale i tak se sobotní Piknik v Javorce vydařil (24.8.2026) Letošní ročník tradiční akce \"Piknik v ",
+      "kategorie": "energie",
       "klicova_slova": [
+        "oze",
         "voda",
-        "plan",
-        "projekt"
+        "plan"
       ]
     },
     {
@@ -32,19 +32,6 @@
       "klicova_slova": [
         "odpad",
         "oze"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3300 záznamů na stránce: -1- 2 3 4 5 ... 220 Změněno Název a anotace Zodpovídá 24.8.2026 Anketa zhodnotí čtyři roky přítomnosti sdílených kol v ulicích města Od roku 2023 je v České Třebové společností Nextbike provozován systém sdílených kol. S ohledem na to, že je Bikesharing podporován z veřejných prostředků, považuje město Česká Třebová za vhodné zh",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "park",
-        "voda",
-        "sad"
       ]
     },
     {
@@ -70,6 +57,30 @@
         "oze",
         "voda",
         "sad",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3302 záznamů na stránce: -1- 2 3 4 5 ... 221 Změněno Název a anotace Zodpovídá 24.8.2026 Místní tenisté hledají nové talenty [PDF, 2,4 MB] V pondělí 31. srpna se mohou zapsat děti narozené v letech 2018, 2019, 2020 a 2021. Bc. Jiří Holý 24.8.2026 Počasí občas trochu zazlobilo, ale i tak se sobotní Piknik v Javorce vydařil Letošní ročník tradiční akce \"P",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "oze",
+        "park",
+        "voda",
+        "sad",
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/ceskotrebovsky%2Dzpravodaj/ds-1376/archiv=0",
+      "nadpis": "Českotřebovský zpravodaj: Česká Třebová",
+      "ukazka": "Českotřebovský zpravodaj Informační měsíčník města Česká Třebová Od července 2016 do prosince 2019 vydávalo město Česká Třebová ve spolupráci s Městskou knihovnou Česká Třebová informační měsíčník pro občany města – Českotřebovské noviny. Od ledna 2020 se změnil název městského periodika na Českotřebovský zpravodaj. Uzávěrka pro posílání příspěvků je vždy 14. den v měsíci. Otištění vzpomínky na ze",
+      "kategorie": "energie",
+      "klicova_slova": [
+        "oze",
+        "voda",
         "plan"
       ]
     }
