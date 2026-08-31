@@ -1,5 +1,5 @@
 {
-  "aktualizovano": "2026-08-30T08:34:05Z",
+  "aktualizovano": "2026-08-31T08:56:31Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
   "pocet_stranek": 6,
@@ -7,7 +7,7 @@
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7837 záznamů na stránce: -1- 2 3 4 5 ... 523 Most mezi Chmelnicí a Benátkami bude dočasně uzavřen [PDF, 618 kB] (30.8.2026) Práce na plynovodu, které v měsíci srpnu začaly v parku Zámostí, se nyní přesouvají do blízkosti mostu mezi ulicí Chmelnice a lokalitou Benátky. Z tohoto důvodu bude mostní konstrukce od středy 2. září uzavřena, přičemž toto omezení ",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7839 záznamů na stránce: -1- 2 3 4 5 ... 523 Veřejná vyhláška - MUDO/8868/2026 Billý Tomáš [PDF, 213 kB] (31.8.2026) Složka dokumentů: Různé Vyhlášení bytu k pronájmu - byt. č. 14 v čp. 2084 na ul. Semanínská [PDF, 199 kB] (31.8.2026) Složka dokumentů: Prodeje, dary, směnky, pronájmy a výpůjčky městského majetku Vyhlášení bytu k pronájmu - byt. č. 13 v čp",
       "kategorie": "doprava",
       "klicova_slova": [
         "doprava",
@@ -37,19 +37,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "zelen",
-        "park",
-        "voda"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
       "nadpis": "Zpravodajství města: Česká Třebová",
       "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3310 záznamů na stránce: -1- 2 3 4 5 ... 221 Změněno Název a anotace Zodpovídá 30.8.2026 Most mezi Chmelnicí a Benátkami bude dočasně uzavřen [PDF, 618 kB] Práce na plynovodu, které v měsíci srpnu začaly v parku Zámostí, se nyní přesouvají do blízkosti mostu mezi ulicí Chmelnice a lokalitou Benátky. Z tohoto důvodu bude mostní konstrukce od středy 2. zá",
@@ -60,6 +47,19 @@
         "chodnik",
         "oze",
         "park"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "zelen",
+        "park",
+        "voda"
       ]
     },
     {
