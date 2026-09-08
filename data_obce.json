@@ -1,13 +1,13 @@
 {
-  "aktualizovano": "2026-09-07T07:34:26Z",
+  "aktualizovano": "2026-09-08T07:27:43Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 8,
+  "pocet_stranek": 10,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7848 záznamů na stránce: -1- 2 3 4 5 ... 524 Informace o dopravním omezení na Starém náměstí (6.9.2026) Upozorňujeme občany, že v souvislosti s konáním úterních akcí \"Barevný den s odpady\" a \"Světový den první pomoci\" bude od pondělního podvečera platit zákaz parkování na ploše Starého náměstí. Prosíme majitele vozidel o jejich přeparkování. Složka dokume",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7853 záznamů na stránce: -1- 2 3 4 5 ... 524 Usnesení rady města ze dne 07.09.2026 [PDF, 290 kB] (8.9.2026) Složka dokumentů: Usnesení rady města rok 2026 Oznámení o svolání prvního zasedání okrskových volebních komisí v České Třebové [PDF, 237 kB] (7.9.2026) Složka dokumentů: Volby do zastupitelstev obcí 2026 Opět je tu možnost získat zdarma tašky na tří",
       "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
@@ -38,29 +38,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dutvaru%2Dzivotniho%2Dprostredi/ds-1051/archiv=0",
+      "nadpis": "Zpravodajství Útvaru životního prostředí: Česká Třebová",
+      "ukazka": "Zpravodajství Útvaru životního prostředí Zobrazeno je 15 z celkem 82 záznamů na stránce: -1- 2 3 4 5 6 Změněno Název a anotace Zodpovídá 7.9.2026 Opět je tu možnost získat zdarma tašky na tříděný odpad Tašky na kovy, plasty, sklo a papír lze vyzvednout ve dvou velikostech na sběrném dvoře v ulici Semanínská. Jedinou podmínkou k získání tašek zdarma je trvalé bydliště ve městě Česká Třebová. Tašky ",
+      "kategorie": "odpady",
       "klicova_slova": [
         "odpad",
         "trideni",
-        "oze",
-        "voda",
-        "sad"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3319 záznamů na stránce: -1- 2 3 4 5 ... 222 Změněno Název a anotace Zodpovídá 6.9.2026 Informace o dopravním omezení na Starém náměstí Upozorňujeme občany, že v souvislosti s konáním úterních akcí \"Barevný den s odpady\" a \"Světový den první pomoci\" bude od pondělního podvečera platit zákaz parkování na ploše Starého náměstí. Prosíme majitele vozidel o ",
-      "kategorie": "doprava",
-      "klicova_slova": [
-        "odpad",
-        "trideni",
-        "doprava",
-        "parkovani",
-        "chodnik"
+        "bioodpad",
+        "kompost",
+        "svoz"
       ]
     },
     {
@@ -73,6 +60,45 @@
         "trideni",
         "oze",
         "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "trideni",
+        "oze",
+        "zelen",
+        "park"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3320 záznamů na stránce: -1- 2 3 4 5 ... 222 Změněno Název a anotace Zodpovídá 7.9.2026 Osmý ročník šachového turnaje v Kozlově přinesl nejedno překvapení Z původně malého vesnického turnaje se stala akce, na kterou každoročně zavítá kolem 80 šachistů z blízkého i vzdálenějšího okolí. Bc. Jiří Holý 6.9.2026 Informace o dopravním omezení na Starém náměst",
+      "kategorie": "doprava",
+      "klicova_slova": [
+        "odpad",
+        "trideni",
+        "doprava",
+        "parkovani",
+        "chodnik"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "odpad",
+        "trideni",
+        "oze",
+        "voda",
+        "sad"
       ]
     },
     {
@@ -89,16 +115,16 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
-      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
-      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dodboru%2Drozvoje%2Dmajetku%2Dmesta%2Da%2Dskolstvi/ds-1036/archiv=0",
+      "nadpis": "Zpravodajství Odboru rozvoje, majetku města a školství: Česká Třebová",
+      "ukazka": "Zpravodajství Odboru rozvoje, majetku města a školství Zobrazeno je 15 z celkem 18 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 7.9.2026 Konzultujte své stavební záměry s městským architektem Po prázdninové přestávce jsou opět zpátky konzultační hodiny městského architekta, které se konají každou druhou středu v měsíci. Nejbližší možnost navštívit Ing. arch. Štěpána Eliáše na českot",
+      "kategorie": "odpady",
       "klicova_slova": [
         "odpad",
         "trideni",
         "oze",
-        "zelen",
-        "park"
+        "park",
+        "voda"
       ]
     }
   ]
