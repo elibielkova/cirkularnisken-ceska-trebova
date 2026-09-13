@@ -1,8 +1,8 @@
 {
-  "aktualizovano": "2026-09-12T07:22:21Z",
+  "aktualizovano": "2026-09-13T07:40:44Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
@@ -49,13 +49,15 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/oznameni%2Do%2Dpreruseni%2Ddodavky%2Delektricke%2Denergie/ds-1080/archiv=0",
-      "nadpis": "Oznámení o přerušení dodávky elektrické energie: Česká Třebová",
-      "ukazka": "Oznámení o přerušení dodávky elektrické energie Lokalita: Česká Třebová - podrobnější informace na: www.ceska-trebova.cz Změněno Název a anotace Zodpovídá 10.9.2026 Oznámení o přerušení dodávky el. energie dne 01.10.2026 [PDF, 1,3 MB] Hana Šťastná 9.9.2026 Oznámení o přerušení dodávky el. energie dne 30.09.2026 [PDF, 171 kB] Hana Šťastná 3.9.2026 Oznámení o přerušení dodávky el. energie dne 23.09.",
-      "kategorie": "energie",
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
       "klicova_slova": [
+        "odpad",
         "oze",
         "voda",
+        "sad",
         "plan"
       ]
     },
@@ -70,19 +72,6 @@
         "zelen",
         "park",
         "voda"
-      ]
-    },
-    {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
-      "klicova_slova": [
-        "odpad",
-        "oze",
-        "voda",
-        "sad",
-        "plan"
       ]
     }
   ]
