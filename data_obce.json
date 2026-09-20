@@ -1,13 +1,13 @@
 {
-  "aktualizovano": "2026-09-19T07:36:10Z",
+  "aktualizovano": "2026-09-20T07:59:00Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 2,
+  "pocet_stranek": 3,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7884 záznamů na stránce: -1- 2 3 4 5 ... 526 Burza filantropie našla nové místo v České Třebové. Patnáct projektů získalo 600 tisíc (18.9.2026) Celkem 600 tisíc korun získalo na letošní Burze filantropie pro okres Ústí nad Orlicí patnáct veřejně prospěšných projektů. Unikátní akce, která v tomto regionu už po patnácté propojila neziskové organizace s firm",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7886 záznamů na stránce: -1- 2 3 4 5 ... 526 Video: Už jste registrováni do výzvy 10 00 kroků? (19.9.2026) Téměř šest desítek Třebováků se už přihlásilo k výzvě 10 000 kroků, která oficiálně startuje 1. října. I jeden malý krok může vést k velkým změnám – ve zdraví, v životním stylu i v prostředí, kde žijeme. Začít můžete hned teď! Složka dokumentů: Zprav",
       "kategorie": "priroda",
       "klicova_slova": [
         "oze",
@@ -17,16 +17,29 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
-      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
-      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
-      "kategorie": "strategie",
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3332 záznamů na stránce: -1- 2 3 4 5 ... 223 Změněno Název a anotace Zodpovídá 19.9.2026 Video: Už jste registrováni do výzvy 10 00 kroků? Téměř šest desítek Třebováků se už přihlásilo k výzvě 10 000 kroků, která oficiálně startuje 1. října. I jeden malý krok může vést k velkým změnám – ve zdraví, v životním stylu i v prostředí, kde žijeme. Začít můžete",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "parkovani",
+        "oze",
+        "park",
+        "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/aktuality%2Dz%2Dcinnosti%2Dmestske%2Dpolicie%2Dceska%2Dtrebova/ds-1277/p1=42132",
+      "nadpis": "Aktuality z činnosti Městské policie Česká Třebová: Česká Třebová",
+      "ukazka": "Aktuality z činnosti Městské policie Česká Třebová Odkazy Městská policie Česká Třebová Zobrazeno je 15 z celkem 225 záznamů na stránce: -1- 2 3 4 5 ... 15 Změněno Název a anotace Zodpovídá 24.6.2026 Žáci ZŠ Habrmanova se dozvěděli, jaké to je být strážníkem Dnes na Základní škole Habrmanova probíhal projektový den, v rámci kterého strážníci městské policie představili žákům svoji činnost, vybaven",
+      "kategorie": "priroda",
       "klicova_slova": [
         "odpad",
         "oze",
-        "voda",
-        "sad",
-        "plan"
+        "zelen",
+        "park",
+        "voda"
       ]
     }
   ]
