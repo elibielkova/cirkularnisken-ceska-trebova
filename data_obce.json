@@ -1,13 +1,13 @@
 {
-  "aktualizovano": "2026-09-20T07:59:00Z",
+  "aktualizovano": "2026-09-21T08:15:35Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 3,
+  "pocet_stranek": 6,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7886 záznamů na stránce: -1- 2 3 4 5 ... 526 Video: Už jste registrováni do výzvy 10 00 kroků? (19.9.2026) Téměř šest desítek Třebováků se už přihlásilo k výzvě 10 000 kroků, která oficiálně startuje 1. října. I jeden malý krok může vést k velkým změnám – ve zdraví, v životním stylu i v prostředí, kde žijeme. Začít můžete hned teď! Složka dokumentů: Zprav",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7888 záznamů na stránce: -1- 2 3 4 5 ... 526 Informace o omezení provozu na úseku evidence vozidel a řidičů (21.9.2026) Vážení občané, v úterý 22. září 2026 do dojde k omezení úřední doby odboru dopravy a správních činností na úseku evidence vozidel a řidičů. Budova na adrese Podbranská 2043 bude od 12:00 uzavřená. Složka dokumentů: Zpravodajství Odboru d",
       "kategorie": "priroda",
       "klicova_slova": [
         "oze",
@@ -17,16 +17,34 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3332 záznamů na stránce: -1- 2 3 4 5 ... 223 Změněno Název a anotace Zodpovídá 19.9.2026 Video: Už jste registrováni do výzvy 10 00 kroků? Téměř šest desítek Třebováků se už přihlásilo k výzvě 10 000 kroků, která oficiálně startuje 1. října. I jeden malý krok může vést k velkým změnám – ve zdraví, v životním stylu i v prostředí, kde žijeme. Začít můžete",
-      "kategorie": "priroda",
+      "url": "https://www.ceska-trebova.cz/vismo/kalendar.asp?id_org=2175",
+      "nadpis": "Kalendář akcí: Česká Třebová",
+      "ukazka": "Kalendář akcí Filtrovat akce: Sport Turistika Divadlo Výstava Koncert Pohádka Taneční Kino Youtube Přednáška Javorka Ostatní Vše Tip: Po najetí kurzoru myši na den se objeví seznam plánovaných akcí pro ten daný den. << Srpen 2026 Září 2026 Říjen 2026 >> Po Út St Čt Pá So Ne 35. týden 31 Ostatní Výstava 1 Javorka Ostatní Výstava 2 Javorka Ostatní Výstava 3 Javorka Ostatní Výstava 4 Javorka Ostatní ",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/uredni-deska/2",
+      "nadpis": "Úřední deska: Česká Třebová",
+      "ukazka": "Úřední deska Na elektronické úřední desce je zveřejňován obsah úřední desky MěÚ Česká Třebová podle § 26 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů. Obsah má informativní charakter. Veškeré dokumenty, které podléhají zveřejnění ze zákona, musí být zveřejněny jak na interaktivní, tak na internetové úřední desce ve stejném časovém období. Oznámení dle zákona č.250/2000 Sb., o ",
+      "kategorie": "energie",
+      "klicova_slova": [
+        "oze"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
+      "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
+      "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
+      "kategorie": "strategie",
       "klicova_slova": [
         "odpad",
-        "parkovani",
         "oze",
-        "park",
-        "voda"
+        "voda",
+        "sad",
+        "plan"
       ]
     },
     {
@@ -38,6 +56,19 @@
         "odpad",
         "oze",
         "zelen",
+        "park",
+        "voda"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/archiv=0",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3332 záznamů na stránce: -1- 2 3 4 5 ... 223 Změněno Název a anotace Zodpovídá 19.9.2026 Video: Už jste registrováni do výzvy 10 000 kroků? Téměř šest desítek Třebováků se už přihlásilo k výzvě 10 000 kroků, která oficiálně startuje 1. října. I jeden malý krok může vést k velkým změnám – ve zdraví, v životním stylu i v prostředí, kde žijeme. Začít můžet",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "parkovani",
+        "oze",
         "park",
         "voda"
       ]
