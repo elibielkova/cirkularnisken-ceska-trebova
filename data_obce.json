@@ -1,19 +1,16 @@
 {
-  "aktualizovano": "2026-09-22T07:58:32Z",
+  "aktualizovano": "2026-09-23T07:59:49Z",
   "obec": "Česká Třebová",
   "url_zdroj": "https://www.ceska-trebova.cz",
-  "pocet_stranek": 7,
+  "pocet_stranek": 8,
   "stranky": [
     {
       "url": "https://www.ceska-trebova.cz/dp",
       "nadpis": "Přehled dokumentů: Česká Třebová",
-      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7890 záznamů na stránce: -1- 2 3 4 5 ... 526 Výluka na železniční trati v úseku Ústí nad Orlicí - Česká Třebová od 23.9.2026 do 16.10.2026 (22.9.2026) Provozovatel dráhy, Správa železnic, s. o. aktualizoval termín výluky na železniční trati č. 010 Kolín - Česká Třebová, která ovlivní provoz v úseku Ústí nad Orlicí - Česká Třebová. Složka dokumentů: Zpravo",
+      "ukazka": "Přehled dokumentů Zobrazeno je 15 z celkem 7898 záznamů na stránce: -1- 2 3 4 5 ... 527 Informace o omezení agendy majetku města (23.9.2026) Vážení občané, z důvodu školení zaměstnanců budou ve čtvrtek 24. září od 8:00 do 15:00 nedostupní zaměstnanci řešící agendu majetku města. Žádosti o zábor veřejného prostranství bude během omezení možné odevzdat na oddělení školství. Složka dokumentů: Zpravod",
       "kategorie": "priroda",
       "klicova_slova": [
-        "oze",
-        "voda",
-        "zahrada",
-        "projekt"
+        "voda"
       ]
     },
     {
@@ -61,19 +58,6 @@
       ]
     },
     {
-      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
-      "nadpis": "Zpravodajství města: Česká Třebová",
-      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3333 záznamů na stránce: -1- 2 3 4 5 ... 223 Změněno Název a anotace Zodpovídá 22.9.2026 Výluka na železniční trati v úseku Ústí nad Orlicí - Česká Třebová od 23.9.2026 do 16.10.2026 Provozovatel dráhy, Správa železnic, s. o. aktualizoval termín výluky na železniční trati č. 010 Kolín - Česká Třebová, která ovlivní provoz v úseku Ústí nad Orlicí - Česká",
-      "kategorie": "priroda",
-      "klicova_slova": [
-        "odpad",
-        "parkovani",
-        "oze",
-        "park",
-        "voda"
-      ]
-    },
-    {
       "url": "https://www.ceska-trebova.cz/obecne%2Dzavazne%2Dvyhlasky/ds-1003/p1=42135",
       "nadpis": "Obecně závazné vyhlášky: Česká Třebová",
       "ukazka": "Obecně závazné vyhlášky Odkazy Sbírka právních předpisů územních samosprávných celků a některých správních úřadů Zobrazeno je 15 z celkem 16 záznamů na stránce: -1- 2 Změněno Název a anotace Zodpovídá 16.6.2026 Obecně závazná vyhláška č. 3/2026, kterou se reguluje konzumace alkoholických nápojů Mgr. Karel Honl 25.2.2026 Obecně závazná vyhláška č. 1/2026 o době nočního klidu Účinná od 13.03.2026. M",
@@ -84,6 +68,32 @@
         "voda",
         "sad",
         "plan"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Dmesta/ds-1166/p1=42167",
+      "nadpis": "Zpravodajství města: Česká Třebová",
+      "ukazka": "Zpravodajství města Zobrazeno je 15 z celkem 3336 záznamů na stránce: -1- 2 3 4 5 ... 223 Změněno Název a anotace Zodpovídá 22.9.2026 Druhé schodiště u nové lávky nad železnicí je průchodné Dnes bylo otevřeno nově vybudované schodiště na západní straně lávky, která mezi ulicí Semanínská a Slovanská vznikla v rámci modernizace železničního uzlu. Bc. Jiří Holý 22.9.2026 Video: Co je nového na základ",
+      "kategorie": "priroda",
+      "klicova_slova": [
+        "odpad",
+        "oze",
+        "park",
+        "voda",
+        "zahrada"
+      ]
+    },
+    {
+      "url": "https://www.ceska-trebova.cz/zpravodajstvi%2Doddeleni%2Dmajetku%2Da%2Dskolstvi/ds-1038/archiv=0",
+      "nadpis": "Zpravodajství Oddělení majetku a školství: Česká Třebová",
+      "ukazka": "Zpravodajství Oddělení majetku a školství Změněno Název a anotace Zodpovídá 23.9.2026 Informace o omezení agendy majetku města Vážení občané, z důvodu školení zaměstnanců budou ve čtvrtek 24. září od 8:00 do 15:00 nedostupní zaměstnanci řešící agendu majetku města. Žádosti o zábor veřejného prostranství bude během omezení možné odevzdat na oddělení školství. Bc. Jiří Holý 25.8.2026 Pardubický kraj",
+      "kategorie": "strategie",
+      "klicova_slova": [
+        "voda",
+        "strom",
+        "strategie",
+        "plan",
+        "rozvoj"
       ]
     }
   ]
